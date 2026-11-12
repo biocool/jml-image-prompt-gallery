@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "sourceDetails": 73,
+  "promptDetails": 247,
+  "templates": 18,
+  "searchEmptyAndRestore": "passed",
+  "errors": [],
+  "limitations": "DOM-only. No real layout, image display, mobile rendering, clipboard or physical-device tests."
+}

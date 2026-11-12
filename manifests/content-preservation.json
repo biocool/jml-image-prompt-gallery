@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "baseline_sections": 19,
+  "unchanged_sections": 17,
+  "changed_sections": [
+    "source_reviews",
+    "source_import_summary"
+  ],
+  "source_review_changes_only": [
+    "sample_images",
+    "missing_images",
+    "asset_note"
+  ],
+  "all_prompts_categories_source_links_preserved": true
+}

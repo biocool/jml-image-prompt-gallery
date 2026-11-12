@@ -1,0 +1,12 @@
+{
+  "missing_before": 75,
+  "missing_recovered": 34,
+  "missing_remaining": 41,
+  "low_resolution_before": 53,
+  "upgraded": 16,
+  "low_resolution_remaining": 37,
+  "available_source_images_after": 167,
+  "validated_files": 50,
+  "validation": "Decoded all images, verified SHA-256 and pixel dimensions. Upgraded images compared against original thumbnails with mean pixel difference under 10 of 255 per channel. Direct-source maximum resolution not asserted.",
+  "remaining_blocker": "41 missing media URLs return HTTP 403. Another 30 existing low-resolution URLs return HTTP 403. Seven larger rendition requests return HTTP 403; existing small files retained. No access barriers bypassed."
+}

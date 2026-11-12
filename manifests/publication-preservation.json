@@ -1,0 +1,25 @@
+{
+  "remote_base": "3fc221c55dd4356ca67bb5604093d5d6c5811c1d",
+  "reviewed_local_commit": "2ebe029",
+  "original_public_assets_preserved": 420,
+  "published_assets": 729,
+  "local_only_excluded_paths": [
+    "assets/new-sources/9ebd281a43289a2286bc4a48-preview.webp",
+    "assets/new-sources/9ebd281a43289a2286bc4a48.jpg",
+    "assets/new-sources/cf5a90384a0bbd216dabe5fe-preview.webp",
+    "assets/new-sources/cf5a90384a0bbd216dabe5fe.jpg"
+  ],
+  "retained_previous_source_records": 5,
+  "old_full_prompt_retained_verbatim": true,
+  "new_source_aliases_preserve_old_routes": true,
+  "public_evidence_paths_sanitized": true,
+  "temporarily_withheld_artworks": 2,
+  "temporarily_withheld_asset_files": [
+    "assets/new-sources/87e2c90c4dfc01340144b822.webp",
+    "assets/new-sources/87e2c90c4dfc01340144b822-preview.webp",
+    "assets/recovered-20261111/2119426684848107773-2119426684848107773-2.webp",
+    "assets/new-sources/88927203a2319e57bd1ffb2b-preview.webp",
+    "assets/new-sources/88927203a2319e57bd1ffb2b.webp"
+  ],
+  "public_image_kpi": 435
+}

@@ -1,0 +1,478 @@
+.tax-disclosure {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  background: #eee8f4;
+  border-left: 4px solid var(--purple);
+  padding: 14px 18px;
+  margin: 22px 0;
+}
+.tax-disclosure span {
+  color: var(--muted);
+}
+.tax-controls {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 18px;
+  margin: 26px 0 18px;
+}
+.tax-controls label {
+  font-weight: 600;
+  display: grid;
+  gap: 7px;
+}
+.tax-controls input,
+.tax-controls select {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid var(--line);
+  background: white;
+  padding: 12px;
+}
+.tax-resolution {
+  border: 0;
+  padding: 0;
+  margin: 0 0 22px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.tax-resolution legend {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.tax-resolution button {
+  padding: 10px 15px;
+  border: 1px solid var(--line);
+  background: white;
+  border-radius: 30px;
+  min-height: 44px;
+}
+.tax-resolution button[aria-pressed="true"] {
+  background: var(--purple);
+  border-color: var(--purple);
+  color: white;
+}
+.tax-resolution p {
+  width: 100%;
+  margin: 3px 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+.tax-breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  padding: 12px 0 20px;
+}
+.tax-breadcrumbs button {
+  font-size: 12px;
+  text-align: left;
+  min-height: 36px;
+  border-bottom: 1px solid var(--line);
+}
+.tax-layout {
+  display: grid;
+  grid-template-columns: minmax(240px, 310px) minmax(0, 1fr);
+  gap: 30px;
+  align-items: start;
+}
+.tax-tree {
+  background: white;
+  border: 1px solid var(--line);
+  padding: 16px;
+  border-radius: 12px;
+  position: sticky;
+  top: 18px;
+  max-height: 80vh;
+  overflow: auto;
+}
+.tax-tree ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 14px;
+  border-left: 1px solid #d4c7df;
+}
+.tax-tree > details > ul {
+  padding-left: 0;
+  border: 0;
+}
+.tax-tree li {
+  position: relative;
+  margin: 5px 0;
+}
+.tax-tree li > details {
+  position: relative;
+  padding-left: 23px;
+}
+.tax-tree li > details > summary {
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 22px;
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+}
+.tax-tree li > details > summary::-webkit-details-marker {
+  display: none;
+}
+.tax-tree li > details[open] > summary span {
+  transform: rotate(45deg);
+}
+.tax-node {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px;
+  width: 100%;
+  text-align: left;
+  font-size: 12px;
+  min-height: 44px;
+  border-radius: 6px;
+  overflow-wrap: anywhere;
+}
+.tax-node:hover {
+  background: var(--soft);
+}
+.tax-node.selected {
+  background: var(--purple);
+  color: white;
+}
+.tax-node small {
+  font: 10px var(--mono);
+  opacity: 0.7;
+}
+.tax-tree > details > summary {
+  font-weight: 600;
+  cursor: pointer;
+  min-height: 36px;
+}
+.tax-tree > details > summary small {
+  font-weight: 400;
+  color: var(--muted);
+  display: block;
+  margin-left: 18px;
+}
+.tax-results-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: start;
+  margin-bottom: 18px;
+}
+.tax-results-heading h2 {
+  font: 30px/1.15 var(--display);
+  margin: 0;
+}
+.tax-results-heading p {
+  font-size: 12px;
+  color: var(--muted);
+}
+.tax-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+.tax-branch-card,
+.tax-reference-card {
+  min-width: 0;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+.tax-branch-card:hover {
+  border-color: var(--purple);
+  box-shadow: 0 5px 18px #3b076412;
+}
+.tax-branch-card > img,
+.tax-reference-card > img {
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+  object-position: center 30%;
+  background: var(--soft);
+}
+.tax-reference-card > img {
+  object-fit: contain;
+}
+.tax-card-copy {
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+  overflow-wrap: anywhere;
+}
+.tax-card-copy strong,
+.tax-card-copy h3 {
+  font: 23px/1.2 var(--display);
+  margin: 0;
+}
+.tax-card-copy small {
+  font: 9px var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--purple);
+}
+.tax-card-copy span,
+.tax-card-copy p {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 0;
+}
+.tax-card-copy em {
+  font-size: 12px;
+  font-style: normal;
+  color: var(--purple);
+}
+.tax-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 150px;
+  background: var(--soft);
+  font: 14px var(--mono);
+  color: var(--muted);
+}
+.tax-reference-card .back {
+  white-space: normal;
+  text-align: left;
+  min-height: 44px;
+}
+.workspace-nav [hidden] {
+  display: none !important;
+}
+@media (min-width: 1400px) {
+  .tax-cards {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 850px) {
+  .tax-layout {
+    grid-template-columns: 1fr;
+  }
+  .tax-tree {
+    position: static;
+    max-height: 340px;
+  }
+  .tax-controls {
+    grid-template-columns: 1fr;
+  }
+  .tax-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .tax-results-heading h2 {
+    font-size: 27px;
+  }
+}
+@media (max-width: 520px) {
+  .tax-cards {
+    grid-template-columns: 1fr;
+  }
+  .tax-branch-card {
+    flex-direction: row;
+  }
+  .tax-branch-card > img {
+    width: 34%;
+    height: auto;
+    min-height: 150px;
+  }
+  .tax-branch-card .tax-card-copy {
+    flex: 1;
+    padding: 14px;
+  }
+  .tax-card-copy strong {
+    font-size: 21px;
+  }
+  .tax-results-heading {
+    display: block;
+  }
+  .tax-resolution button {
+    flex: 1 1 40%;
+    padding: 10px;
+  }
+  .tax-disclosure {
+    padding: 12px;
+  }
+  .tax-reference-card > img {
+    height: 250px;
+  }
+  .tax-tree {
+    max-height: 300px;
+  }
+  .tax-tree ul {
+    padding-left: 9px;
+  }
+}
+/* Unified results are visible at every depth; branch navigation stays compact. */
+.tax-refine {
+  margin: 0 0 26px;
+  border: 1px solid var(--line);
+  padding: 14px;
+  border-radius: 10px;
+  background: #fff;
+}
+.tax-refine > summary {
+  cursor: pointer;
+  font-weight: 600;
+  min-height: 32px;
+}
+.tax-branch-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+  max-height: 210px;
+  overflow: auto;
+}
+.tax-branch-options .tax-branch-card {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 13px;
+  min-height: 54px;
+  gap: 5px;
+  border-radius: 8px;
+  flex: 1 1 160px;
+}
+.tax-branch-options .tax-branch-card strong {
+  font-size: 12px;
+  font-weight: 600;
+}
+.tax-branch-options .tax-branch-card span {
+  font-size: 10px;
+  color: var(--muted);
+}
+.tax-grid-label {
+  font: 24px var(--display);
+  margin: 12px 0;
+}
+.tax-reference-path {
+  font-size: 10px !important;
+  color: var(--purple) !important;
+}
+.tax-load-more {
+  margin-top: 24px;
+}
+.tax-reference-card[data-origin="archive"] .tax-card-copy > small {
+  color: #527000;
+}
+.tax-reference-card[data-origin="source"] .tax-card-copy > small {
+  color: var(--purple);
+}
+@media (max-width: 520px) {
+  .tax-branch-options {
+    max-height: 180px;
+  }
+  .tax-branch-options .tax-branch-card {
+    flex-basis: 130px;
+  }
+  .tax-refine {
+    padding: 12px;
+  }
+  .tax-grid-label {
+    font-size: 23px;
+  }
+}
+.tax-kpis {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0 0 12px;
+}
+.tax-kpi {
+  padding: 15px;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-width: 0;
+}
+.tax-kpi > span {
+  font-size: 12px;
+  font-weight: 600;
+}
+.tax-kpi strong {
+  font: 32px/1 var(--display);
+  color: var(--purple);
+}
+.tax-kpi small {
+  font-size: 10px;
+  color: var(--muted);
+  line-height: 1.4;
+}
+.tax-stat-definitions {
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 28px;
+}
+.tax-stat-definitions summary {
+  cursor: pointer;
+  line-height: 1.7;
+}
+.tax-stat-definitions p {
+  max-width: 850px;
+}
+.tax-prompt-filter {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 8px;
+  align-items: end;
+  flex-wrap: wrap;
+  grid-column: 1/-1;
+}
+.tax-prompt-filter legend {
+  font-weight: 600;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+.tax-prompt-filter button {
+  padding: 10px 18px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: white;
+  min-height: 44px;
+}
+.tax-prompt-filter button[aria-pressed="true"] {
+  background: var(--purple);
+  color: white;
+  border-color: var(--purple);
+}
+.tax-prompt-badge {
+  font-size: 10px !important;
+  padding: 4px 7px;
+  border: 1px solid var(--line);
+  color: var(--ink) !important;
+  border-radius: 4px;
+  justify-self: start;
+}
+@media (max-width: 600px) {
+  .tax-kpis {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .tax-kpi {
+    padding: 12px;
+  }
+  .tax-kpi strong {
+    font-size: 28px;
+  }
+  .tax-kpi small {
+    font-size: 9px;
+  }
+  .tax-stat-definitions {
+    font-size: 10px;
+  }
+}

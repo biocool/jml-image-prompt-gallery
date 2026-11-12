@@ -1,0 +1,790 @@
+{
+  "scope": "Read-only exact-byte, exact decoded-pixel and recorded-original checksum audit; no perceptual-similarity merges.",
+  "assets_examined": 738,
+  "occurrences_examined": 616,
+  "image_duplicate_clusters": [
+    {
+      "evidence": "bytes",
+      "hash": "7132ad63ee0179d57831394dbe9e52ae2df40656dec3b8d8ca809d6f9b8ca7f1",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 0,
+          "asset": "assets/source-671eea5a7ab177db701b.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 0,
+          "asset": "assets/source-671eea5a7ab177db701b.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "a7274d2f5ee0f7c9135eff78def479e27fe55e66014eda34669768f6c57a7d82",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 1,
+          "asset": "assets/source-1b2b7e3cea16552ccf65.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 1,
+          "asset": "assets/source-1b2b7e3cea16552ccf65.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "a7c78ea401795079ebec83c7917c58d0bbf308cc0534cce12a5705815b1bc5ed",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 2,
+          "asset": "assets/source-c7127c8cf8e79baa46e2.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 2,
+          "asset": "assets/source-c7127c8cf8e79baa46e2.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "fe1460c62c79a498413bffc3fedabcbe6594b7cd8db2b2c947bb56329b64a199",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 3,
+          "asset": "assets/source-fbbd36a84427f862871c.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 3,
+          "asset": "assets/source-fbbd36a84427f862871c.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "cd7d03c5a4f2768a1cb4caa7b723ec35dfa8395f6eabf24860db5217c0289442",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 4,
+          "asset": "assets/source-6c497f1a3d2dd32466f4.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 4,
+          "asset": "assets/source-6c497f1a3d2dd32466f4.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "d2c1f6f4403b274c259d694c6e0aa3161e81f6cf903ef84f139de245a1d48daa",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 5,
+          "asset": "assets/source-650e2b5794c83e3a1279.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 5,
+          "asset": "assets/source-650e2b5794c83e3a1279.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "8c389e45b9fc5b7d6812a6d28ad4fb2d431da6dcc43aa0dfd316fcb967129d99",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 6,
+          "asset": "assets/source-4f0e2b5a908c3e16b062.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 6,
+          "asset": "assets/source-4f0e2b5a908c3e16b062.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "0405e4ad61d633cfa207c1a495f541d1ed767689d16c13280314636b4bb0d682",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 7,
+          "asset": "assets/source-dd81c966b59d7ebf6823.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 7,
+          "asset": "assets/source-dd81c966b59d7ebf6823.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "bytes",
+      "hash": "d42a46c0a58c0a9efa8ed81498b0908c2565c8b8b7e74b4a31efad5de6441bef",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 8,
+          "asset": "assets/source-255fd4a8c603730d00ff.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 8,
+          "asset": "assets/source-255fd4a8c603730d00ff.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "853881c211e41f489cecbfad0b2fdc7fb8f6adf63a5bc8e25608a7b59f445625",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 0,
+          "asset": "assets/source-671eea5a7ab177db701b.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 0,
+          "asset": "assets/source-671eea5a7ab177db701b.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "541ed85ff80ef6eedb1be26f1afaa3084f0adc0345bc05773c9128d39fe02b5b",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 1,
+          "asset": "assets/source-1b2b7e3cea16552ccf65.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 1,
+          "asset": "assets/source-1b2b7e3cea16552ccf65.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "770efc102d936bfb1b15737576ea8e7257318835c3637376f5b6a8cd98dc4c18",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 2,
+          "asset": "assets/source-c7127c8cf8e79baa46e2.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 2,
+          "asset": "assets/source-c7127c8cf8e79baa46e2.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "13d301cf13997fcf9c899eeff244711730b00d67a58f1c7d7c7c8ea16f2f22b4",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 3,
+          "asset": "assets/source-fbbd36a84427f862871c.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 3,
+          "asset": "assets/source-fbbd36a84427f862871c.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "ea53eecb11c0c83d4c2ae86db3b8a8cd050869bee11e754f630b7387e114e444",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 4,
+          "asset": "assets/source-6c497f1a3d2dd32466f4.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 4,
+          "asset": "assets/source-6c497f1a3d2dd32466f4.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "c79985f516c2c1fba0cde5546a791294be1fb729d81912eae202824912c16fa8",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 5,
+          "asset": "assets/source-650e2b5794c83e3a1279.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 5,
+          "asset": "assets/source-650e2b5794c83e3a1279.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "8741313d7136a0bd8f920035c9223908584a42a9cc1c7b9959f5df89d0a32322",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 6,
+          "asset": "assets/source-4f0e2b5a908c3e16b062.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 6,
+          "asset": "assets/source-4f0e2b5a908c3e16b062.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "b54f9506332f4d67209477516cbc49ab20b09b362e5d56a5d144b43b38010537",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 7,
+          "asset": "assets/source-dd81c966b59d7ebf6823.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 7,
+          "asset": "assets/source-dd81c966b59d7ebf6823.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "pixels",
+      "hash": "f6ef25febf874167f423c1b9919266f180df98018f06587b2affca3a38d3c1f7",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 8,
+          "asset": "assets/source-255fd4a8c603730d00ff.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 8,
+          "asset": "assets/source-255fd4a8c603730d00ff.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "8acf34346134d249c76a0fb2bacc1507462c1713e30d0775caba27f4c1247664",
+      "occurrences": [
+        {
+          "kind": "source",
+          "record_id": "2098408977008676918",
+          "sample_index": 1,
+          "asset": "assets/source-8acf34346134d249c76a.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "8acf34346134d249c76a0fb2bacc1507462c1713e30d0775caba27f4c1247664"
+        },
+        {
+          "kind": "source",
+          "record_id": "2098415324424970307",
+          "sample_index": 2,
+          "asset": "assets/source-user-8acf34346134d249c76a0fb2.png",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "8acf34346134d249c76a0fb2bacc1507462c1713e30d0775caba27f4c1247664"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 0,
+          "asset": "assets/source-671eea5a7ab177db701b.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 0,
+          "asset": "assets/source-671eea5a7ab177db701b.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "671eea5a7ab177db701b8b5182657c31d87c14145312063cce83ffcdf69a0f91"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 1,
+          "asset": "assets/source-1b2b7e3cea16552ccf65.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 1,
+          "asset": "assets/source-1b2b7e3cea16552ccf65.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "1b2b7e3cea16552ccf654c5fd75f48f21d68a05a1da68c6c1e1d68cf7507926d"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 2,
+          "asset": "assets/source-c7127c8cf8e79baa46e2.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 2,
+          "asset": "assets/source-c7127c8cf8e79baa46e2.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "c7127c8cf8e79baa46e2e4acd6e9138e782c5f2b1634cc0eeb7b2929d796e7aa"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 3,
+          "asset": "assets/source-fbbd36a84427f862871c.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 3,
+          "asset": "assets/source-fbbd36a84427f862871c.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "fbbd36a84427f862871cf1eaa0a995aadba733d983e1414e3a5ec2ac455ff8db"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 4,
+          "asset": "assets/source-6c497f1a3d2dd32466f4.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 4,
+          "asset": "assets/source-6c497f1a3d2dd32466f4.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "6c497f1a3d2dd32466f47b4de61f3f32987bbb41e9c7378f70d155db0c8e6672"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 5,
+          "asset": "assets/source-650e2b5794c83e3a1279.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 5,
+          "asset": "assets/source-650e2b5794c83e3a1279.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "650e2b5794c83e3a12793c9657f89db2fa611690ba054773a9593c3553630e59"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 6,
+          "asset": "assets/source-4f0e2b5a908c3e16b062.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 6,
+          "asset": "assets/source-4f0e2b5a908c3e16b062.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "4f0e2b5a908c3e16b06211f06ae90fe793709814acf1f16c792ebcb4db00e28c"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 7,
+          "asset": "assets/source-dd81c966b59d7ebf6823.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 7,
+          "asset": "assets/source-dd81c966b59d7ebf6823.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "dd81c966b59d7ebf68238633c071812af6b5af72b2e2de621cae8bbfe1590f1b"
+        }
+      ],
+      "cross_archive_source": false
+    },
+    {
+      "evidence": "record_sha256",
+      "hash": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b",
+      "occurrences": [
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2112025641713578274",
+          "sample_set_id": "sports-family",
+          "sample_index": 8,
+          "asset": "assets/source-255fd4a8c603730d00ff.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b"
+        },
+        {
+          "kind": "shared_sample_pool",
+          "record_id": "2111845003370844393",
+          "sample_set_id": "sports-family",
+          "sample_index": 8,
+          "asset": "assets/source-255fd4a8c603730d00ff.webp",
+          "field": "preview",
+          "source_url": null,
+          "record_sha256": "255fd4a8c603730d00ff26290485dabd622fa609a4e0cd083f5c6eea909eee8b"
+        }
+      ],
+      "cross_archive_source": false
+    }
+  ],
+  "duplicate_primary_source_urls": {},
+  "safe_entry_merges": [],
+  "policy": "Same artwork does not establish same prompt or source record. Keep all provenance and prompts. Shared sample pools are presentation redundancy, not duplicate source proof.",
+  "safe_artwork_deduplication": [
+    {
+      "canonical_asset": "assets/source-user-8acf34346134d249c76a0fb2.png",
+      "alternate_renditions": [
+        "assets/source-8acf34346134d249c76a.webp"
+      ],
+      "retain_source_record_ids": [
+        "2098408977008676918",
+        "2098415324424970307"
+      ],
+      "basis": "Same recorded original SHA-256 8acf34346134d249c76a0fb2bacc1507462c1713e30d0775caba27f4c1247664; both files visually inspected and depict identical Below the Surface artwork. PNG is larger available rendition.",
+      "action": "One artwork identity in aggregate gallery; preserve both source affiliations and all distinct prompts."
+    }
+  ],
+  "safe_presentation_groups": [
+    {
+      "id": "sports-family",
+      "source_record_ids": [
+        "2112025641713578274",
+        "2111845003370844393"
+      ],
+      "basis": "Both reference identical shared sample_set_id sports-family with 9 byte-identical assets. Different source URLs and unavailable prompts; per-series image membership unverified.",
+      "action": "One shared family-pool presentation containing links to both source records; do not claim duplicate source entries or image-specific source assignments."
+    }
+  ],
+  "limitations": "No perceptual-similarity matching across differently resized or compressed images beyond the documented whale pair. No cross-archive/source exact-byte, decoded-pixel or recorded-original-checksum duplicate found."
+}

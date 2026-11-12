@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "initialStats": {
+    "entries": 319,
+    "images": 433,
+    "withPrompt": 304,
+    "withoutPrompt": 15,
+    "kinds": {
+      "source": 57,
+      "recorded": 17,
+      "template": 32,
+      "reconstructed": 198,
+      "unknown": 15
+    }
+  },
+  "firstPageSourceCards": 18,
+  "firstPageArchiveCards": 18,
+  "mixedSubtype": [
+    "Typography & editorial design",
+    "Typography & letterforms",
+    "Image-based letterforms",
+    "Sliced photographic letterforms"
+  ],
+  "mixedSubtypeValues": [
+    9,
+    21,
+    8,
+    1
+  ],
+  "sportsValues": [
+    2,
+    9,
+    0,
+    2
+  ],
+  "allLevelsPromptFilterPersistence": true,
+  "placeholderRejection": true,
+  "emptyStates": true,
+  "errors": [],
+  "limitations": "DOM-only; real browser/mobile layout not verified."
+}

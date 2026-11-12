@@ -1,0 +1,9 @@
+{
+  "status": "blocked",
+  "attempts": 2,
+  "reason": "Chromium cannot create its required process socket in this execution environment (Operation not permitted).",
+  "desktop": "not run",
+  "mobile_viewport": "not run",
+  "physical_device": "not run",
+  "fallback": "See dom-tests.json for DOM logic tests; these do not test visual layout."
+}

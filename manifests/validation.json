@@ -1,0 +1,23 @@
+{
+  "asset_count": 729,
+  "baseline_assets_preserved": 680,
+  "archive_images": 247,
+  "groups": 247,
+  "categories": 47,
+  "source_entries": 73,
+  "missing_source_images": 41,
+  "missing_local_references": [
+    "assets/new-sources/87e2c90c4dfc01340144b822-preview.webp",
+    "assets/new-sources/87e2c90c4dfc01340144b822.webp",
+    "assets/new-sources/88927203a2319e57bd1ffb2b-preview.webp",
+    "assets/new-sources/88927203a2319e57bd1ffb2b.webp",
+    "assets/new-sources/9ebd281a43289a2286bc4a48-preview.webp",
+    "assets/new-sources/9ebd281a43289a2286bc4a48.jpg",
+    "assets/new-sources/cf5a90384a0bbd216dabe5fe-preview.webp",
+    "assets/new-sources/cf5a90384a0bbd216dabe5fe.jpg",
+    "assets/recovered-20261111/2119426684848107773-2119426684848107773-2.webp",
+    "assets/social-photo.png"
+  ],
+  "javascript_syntax": "passed",
+  "image_decode": "passed"
+}

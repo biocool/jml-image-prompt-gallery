@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "unifiedReferences": 319,
+  "sourceRoutes": 73,
+  "archiveRoutes": 247,
+  "granularityLevels": 4,
+  "drilldown": true,
+  "searchReset": true,
+  "collectionFilter": true,
+  "sharedSportsPoolOnce": true,
+  "bothSportsSourceLinks": true,
+  "excludedAssetsAbsentFromDetailImagesAndDownloads": true,
+  "errors": [],
+  "limitations": "DOM-only. Real browser rendering and physical/mobile device behavior not verified."
+}

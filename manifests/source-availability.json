@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "2102756484475990402",
+    "title": "Fashion portrait + spatial typography",
+    "url": "https://x.com/MrLarus/status/2102756484475990402",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2102756484475990402/photo/2",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/9ff461b131b8e1ff07140bfb-preview.webp",
+        "original": "assets/new-sources/9ff461b131b8e1ff07140bfb.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2102756484475990402/photo/4",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/2f451a9ac1b7e7a66b498299-preview.webp",
+        "original": "assets/new-sources/2f451a9ac1b7e7a66b498299.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2102756484475990402/photo/1",
+        "media_url": "https://pbs.twimg.com/media/HS59zyLXIAAih0G.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original media URL recovered; download returned HTTP 403"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2102756484475990402/photo/3",
+        "media_url": "https://pbs.twimg.com/media/HS591rLWsAA9PxX.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original media URL recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2097675015516758421",
+    "title": "Slit-scan portraits · Vol.30",
+    "url": "https://x.com/MrLarus/status/2097675015516758421",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097675015516758421/photo/4",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/870c59031aadec4188046ed1-preview.webp",
+        "original": "assets/new-sources/870c59031aadec4188046ed1.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097675015516758421/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097675015516758421-2097635693908369408.jpeg",
+        "original": "assets/recovered-20261111/2097675015516758421-2097635693908369408.jpeg",
+        "sha256": "a48fba51df3ec10ab3e51c0a2bfbe2a317bce58dafa1a739021894adefc494da"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097675015516758421/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097675015516758421-2097635713755807744.jpeg",
+        "original": "assets/recovered-20261111/2097675015516758421-2097635713755807744.jpeg",
+        "sha256": "81fb22e7c9b4b2417c2e2867d03339381b317fbb927af5f82f03f31c32686290"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097675015516758421/photo/3",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097675015516758421-2097635730142924800.jpeg",
+        "original": "assets/recovered-20261111/2097675015516758421-2097635730142924800.jpeg",
+        "sha256": "790430ce99f7bf3f1fe7bb1aa4b95a1445e72eee603d3d504bc91514a47aff7e"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2095150352253218909",
+    "title": "Fashion editorial · Vol.29",
+    "url": "https://x.com/MrLarus/status/2095150352253218909",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095150352253218909/photo/1",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/51aa4a6186cbc5b419d1dd66-preview.webp",
+        "original": "assets/new-sources/51aa4a6186cbc5b419d1dd66.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095150352253218909/photo/2",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/0a36bc30a17a18c2b07d09db-preview.webp",
+        "original": "assets/new-sources/0a36bc30a17a18c2b07d09db.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095150352253218909/photo/3",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/1aff35a4bccb4e7731213cf8-preview.webp",
+        "original": "assets/new-sources/1aff35a4bccb4e7731213cf8.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2095150352253218909/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HRN2raZakAAFufI.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original media URL recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2095085684033761495",
+    "title": "Cinematic portraits · Vol.28",
+    "url": "https://x.com/MrLarus/status/2095085684033761495",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095085684033761495/photo/3",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/acb936d152ce7e496ec00862-preview.webp",
+        "original": "assets/new-sources/acb936d152ce7e496ec00862.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095085684033761495/photo/4",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/8166592c750504597cc2e527-preview.webp",
+        "original": "assets/new-sources/8166592c750504597cc2e527.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095085684033761495/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2095085684033761495-2095085626093600769.jpeg",
+        "original": "assets/recovered-20261111/2095085684033761495-2095085626093600769.jpeg",
+        "sha256": "4e024b4dd9b37cbb7268bac8e46654621daf97805b4c86ef4074f397a32e674f"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2095085684033761495/photo/2",
+        "media_url": "https://pbs.twimg.com/media/HRM9SveWUAMu0dA.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original media URL recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2094383161077563673",
+    "title": "Connected-object forced perspective",
+    "url": "https://x.com/MrLarus/status/2094383161077563673",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094383161077563673/photo/3",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/eb18f14d156d34927d399d47-preview.webp",
+        "original": "assets/new-sources/eb18f14d156d34927d399d47.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094383161077563673/photo/4",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/78d8c1d3c11f0db66e772c87-preview.webp",
+        "original": "assets/new-sources/78d8c1d3c11f0db66e772c87.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094383161077563673/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094383161077563673-2094382955955187712.jpeg",
+        "original": "assets/recovered-20261111/2094383161077563673-2094382955955187712.jpeg",
+        "sha256": "7e9297d706d29a070aae89b03f7e9db397cda6bea3d480c72932c511ee0b2c9f"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094383161077563673/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094383161077563673-2094382972556197888.jpeg",
+        "original": "assets/recovered-20261111/2094383161077563673-2094382972556197888.jpeg",
+        "sha256": "04d77c71e32b70b5c813fb02fe3f2ed5b17d80e6d7b5939b16a5780fed47d0d7"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2094017781393928349",
+    "title": "Foreground-object forced perspective",
+    "url": "https://x.com/MrLarus/status/2094017781393928349",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094017781393928349/photo/3",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/e8c9a0c94f60e9b0aff89c1e-preview.webp",
+        "original": "assets/new-sources/e8c9a0c94f60e9b0aff89c1e.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094017781393928349/photo/4",
+        "notes": "",
+        "download_status": "downloaded and visually inspected in contact sheet",
+        "preview": "assets/new-sources/2102da3522b94ce8caef86f7-preview.webp",
+        "original": "assets/new-sources/2102da3522b94ce8caef86f7.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094017781393928349/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094017781393928349-2094017584802754561.jpeg",
+        "original": "assets/recovered-20261111/2094017781393928349-2094017584802754561.jpeg",
+        "sha256": "a5c2daf7267a5c0d31cded30e881887e683d12891388d7bfaa939533a74b5c7e"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2094017781393928349/photo/1",
+        "media_url": "https://pbs.twimg.com/media/HQ9x3A2XoAEpRG7.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original media URL recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2090042212885098527",
+    "title": "Athletic motion + flowing force lines",
+    "url": "https://x.com/MrLarus/status/2090042212885098527",
+    "family": "Sports",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090042212885098527/photo/2",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/039e5bb510269f26281cccc7-preview.webp",
+        "original": "assets/new-sources/039e5bb510269f26281cccc7.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090042212885098527/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2090042212885098527-2090041516110532608.jpeg",
+        "original": "assets/recovered-20261111/2090042212885098527-2090041516110532608.jpeg",
+        "sha256": "f322b0b5ceb28f86a61a6be5f1751fc62fa97a22690a7b9353b08d32bb5e5d51"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090042212885098527/photo/3",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2090042212885098527-2090041563619454976.jpeg",
+        "original": "assets/recovered-20261111/2090042212885098527-2090041563619454976.jpeg",
+        "sha256": "a5dd8090c98d0611274360330bb0b788e99e159bf637d3f171e81a3870c7143b"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2090042212885098527/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HQFRvC9XkAA4rIH.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "2087557559280378233",
+    "title": "Full-body workout scrapbook portraits",
+    "url": "https://x.com/MrLarus/status/2087557559280378233",
+    "family": "Sports",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2087557559280378233/photo/1",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/93a86c507eb626f570cad5b5-preview.webp",
+        "original": "assets/new-sources/93a86c507eb626f570cad5b5.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2087557559280378233/photo/2",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/5c638d514b45607c70d5d446-preview.webp",
+        "original": "assets/new-sources/5c638d514b45607c70d5d446.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2087557559280378233/photo/3",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/30cecd99193ed273ba879d6c-preview.webp",
+        "original": "assets/new-sources/30cecd99193ed273ba879d6c.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2087557559280378233/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HPh-gg7XwAAIdre.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "2094008331195097443",
+    "title": "Oversized food + miniature models",
+    "url": "https://x.com/MrLarus/status/2094008331195097443",
+    "family": "Oversized",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094008331195097443/photo/1",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/2ae0ed8cbc63649d56d13e8d-preview.webp",
+        "original": "assets/new-sources/2ae0ed8cbc63649d56d13e8d.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094008331195097443/photo/2",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/3e37182264644ee6863dd5a6-preview.webp",
+        "original": "assets/new-sources/3e37182264644ee6863dd5a6.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094008331195097443/photo/3",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/c7113cbc1c96565c36e15fd5-preview.webp",
+        "original": "assets/new-sources/c7113cbc1c96565c36e15fd5.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2094008331195097443/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HQ9n_AwXcAAg_A9.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "2082780660163305895",
+    "title": "Oversized summer drink campaigns",
+    "url": "https://x.com/MrLarus/status/2082780660163305895",
+    "family": "Oversized",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2082780660163305895/photo/2",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/e6c135b3ad6ff5d075a8f196-preview.webp",
+        "original": "assets/new-sources/e6c135b3ad6ff5d075a8f196.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2082780660163305895/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2082780660163305895-2082780347406733312.jpeg",
+        "original": "assets/recovered-20261111/2082780660163305895-2082780347406733312.jpeg",
+        "sha256": "b1bf2953b3033f42c1583bea641dd8a0c7f3cafac37ec98c2815466d9611586d"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2082780660163305895/photo/3",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2082780660163305895-2082780371117076480.jpeg",
+        "original": "assets/recovered-20261111/2082780660163305895-2082780371117076480.jpeg",
+        "sha256": "fdc5540863f13581ac77e58d48017a10b1815f295496d42fbc6f807dafc584af"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2082780660163305895/photo/4",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2082780660163305895-2082780378599682048.jpeg",
+        "original": "assets/recovered-20261111/2082780660163305895-2082780378599682048.jpeg",
+        "sha256": "e708c45dd05e288ef0c297d08567e8d1be2e83cd5276e8413d21aef7f5d8ed46"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2084308726341648487",
+    "title": "Giant fashion product installations",
+    "url": "https://x.com/MrLarus/status/2084308726341648487",
+    "family": "Oversized",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2084308726341648487/photo/3",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/40cdeb327f192cba35ef8370-preview.webp",
+        "original": "assets/new-sources/40cdeb327f192cba35ef8370.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2084308726341648487/photo/4",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/3e4f11c9450a07bde3653ab6-preview.webp",
+        "original": "assets/new-sources/3e4f11c9450a07bde3653ab6.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2084308726341648487/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2084308726341648487-2084308459076415488.jpeg",
+        "original": "assets/recovered-20261111/2084308726341648487-2084308459076415488.jpeg",
+        "sha256": "9f9a407a76804db76512d60765d33ff0e509fadba406e2afbcfd64d92f5d6ec3"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2084308726341648487/photo/1",
+        "media_url": "https://pbs.twimg.com/media/HOzzdceXUAAz3C7.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "2084608375594357040",
+    "title": "Community examples by ClickRihar",
+    "url": "https://x.com/ClickRihar/status/2084608375594357040",
+    "family": "Oversized",
+    "available_images": [
+      {
+        "caption": "Community example · ClickRihar (@ClickRihar)",
+        "width": 941,
+        "height": 1672,
+        "role": "Community example",
+        "source_url": "https://x.com/ClickRihar/status/2084608375594357040/photo/1",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/158609e4c60dca67848e3af6-preview.webp",
+        "original": "assets/new-sources/158609e4c60dca67848e3af6.jpg"
+      },
+      {
+        "caption": "Author example · ClickRihar (@ClickRihar)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/ClickRihar/status/2084608375594357040/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2084608375594357040-2084608360033435648.jpeg",
+        "original": "assets/recovered-20261111/2084608375594357040-2084608360033435648.jpeg",
+        "sha256": "f489505243ccc0d0524d99ce2022faca3158ca95904be3995ef26c4f0bfed0f3"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/ClickRihar/status/2084608375594357040/photo/3",
+        "media_url": "https://pbs.twimg.com/media/HO4ERC9bAAEmyH0.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "2084510671413399586",
+    "title": "Community example by cuyy2448",
+    "url": "https://x.com/cuyy2448/status/2084510671413399586",
+    "family": "Oversized",
+    "available_images": [
+      {
+        "caption": "Community example · Re-peg.luna🌖🉐 🐳🦁 (@cuyy2448)",
+        "width": 941,
+        "height": 1672,
+        "role": "Community example",
+        "source_url": "https://x.com/cuyy2448/status/2084510671413399586/photo/1",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/0179f576cff678e1658b7d0e-preview.webp",
+        "original": "assets/new-sources/0179f576cff678e1658b7d0e.jpg"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2101330066294599974",
+    "title": "Physical transformation of type",
+    "url": "https://x.com/MrLarus/status/2101330066294599974",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2101330066294599974",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/eaef91c1058756b373fdf058-preview.webp",
+        "original": "assets/new-sources/eaef91c1058756b373fdf058.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2101330066294599974",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/aae087f6f7a0e728685327ff-preview.webp",
+        "original": "assets/new-sources/aae087f6f7a0e728685327ff.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2101330066294599974-2101327398436212736.jpeg",
+        "original": "assets/recovered-20261111/2101330066294599974-2101327398436212736.jpeg",
+        "sha256": "aca147547f65bf13397fe9bc8515f8f3bc1a0da85622a324c7e7bac3205f930f"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2101330066294599974",
+        "media_url": "https://pbs.twimg.com/media/HSlqEtjXQAAhyj9.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2100950561524740281",
+    "title": "General food/type editorial interaction",
+    "url": "https://x.com/MrLarus/status/2100950561524740281",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2100950561524740281",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/b891dfe211981461bf4294db-preview.webp",
+        "original": "assets/new-sources/b891dfe211981461bf4294db.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2100950561524740281",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/5fbd7b42299d8d8479bb3676-preview.webp",
+        "original": "assets/new-sources/5fbd7b42299d8d8479bb3676.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2100950561524740281-2100950292841848832.jpeg",
+        "original": "assets/recovered-20261111/2100950561524740281-2100950292841848832.jpeg",
+        "sha256": "4792454ba05a7a75fc88f8ccbb5021db673422c2fc478bd671726a8159575a79"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2100950561524740281",
+        "media_url": "https://pbs.twimg.com/media/HSgTJYRWgAAiviC.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2099508089841959257",
+    "title": "Type changes food state",
+    "url": "https://x.com/MrLarus/status/2099508089841959257",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2099508089841959257",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/bed09c486c3bf6b2448f07d5-preview.webp",
+        "original": "assets/new-sources/bed09c486c3bf6b2448f07d5.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2099508089841959257",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/6950cbdf7912a6cb43552d22-preview.webp",
+        "original": "assets/new-sources/6950cbdf7912a6cb43552d22.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2099508089841959257",
+        "media_url": "https://pbs.twimg.com/media/HSLzWDva0AALBi4.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2099508089841959257",
+        "media_url": "https://pbs.twimg.com/media/HSLzXX0akAA1gM-.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2098980286390214808",
+    "title": "Food changes visibility of type",
+    "url": "https://x.com/MrLarus/status/2098980286390214808",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2098980286390214808",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/c155340654ed02dfb002e055-preview.webp",
+        "original": "assets/new-sources/c155340654ed02dfb002e055.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2098980286390214808-2098973319215403009.jpeg",
+        "original": "assets/recovered-20261111/2098980286390214808-2098973319215403009.jpeg",
+        "sha256": "512c5e1596341c31a2da5bdb1f65ad8808c38112949014218631ee696025d3b2"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2098980286390214808",
+        "media_url": "https://pbs.twimg.com/media/HSENGMEaEAAbPiO.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2098980286390214808",
+        "media_url": "https://pbs.twimg.com/media/HSENG3CWsAAXrrw.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2098761960909160467",
+    "title": "Rigid type redirects food forces",
+    "url": "https://x.com/MrLarus/status/2098761960909160467",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2098761960909160467",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/63c4ecdba6e4fe910f9d0bb4-preview.webp",
+        "original": "assets/new-sources/63c4ecdba6e4fe910f9d0bb4.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2098761960909160467-2098761492833443840.jpeg",
+        "original": "assets/recovered-20261111/2098761960909160467-2098761492833443840.jpeg",
+        "sha256": "8f59ed34824bd15746fff795c3b8959c81d5a5b793718ac1cc8ee84f6f6283d8"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2098761960909160467",
+        "media_url": "https://pbs.twimg.com/media/HSBMd08aUAEilIl.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2098761960909160467",
+        "media_url": "https://pbs.twimg.com/media/HSBMeZ-XgAgN7P2.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2097548712524275810",
+    "title": "Continuous photographic type mask",
+    "url": "https://x.com/MrLarus/status/2097548712524275810",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097548712524275810",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/36455eea81cc6b71606fc888-preview.webp",
+        "original": "assets/new-sources/36455eea81cc6b71606fc888.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097548712524275810",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/368755d4703f7eb6fedba4a1-preview.webp",
+        "original": "assets/new-sources/368755d4703f7eb6fedba4a1.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097548712524275810",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/a4d9d03ba19265e9c31f2e71-preview.webp",
+        "original": "assets/new-sources/a4d9d03ba19265e9c31f2e71.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097548712524275810-2097548304972500992.jpeg",
+        "original": "assets/recovered-20261111/2097548712524275810-2097548304972500992.jpeg",
+        "sha256": "c193e36abae0f6fc090b834ccf5ebefdbd5bd3b54fb5b29be07b9e09e7d4876d"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2097334858469032434",
+    "title": "Food interlocks with type",
+    "url": "https://x.com/MrLarus/status/2097334858469032434",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097334858469032434",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/639011f7b5b0569575161ff7-preview.webp",
+        "original": "assets/new-sources/639011f7b5b0569575161ff7.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097334858469032434",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/cf8e43193a8e50c04d6feeb1-preview.webp",
+        "original": "assets/new-sources/cf8e43193a8e50c04d6feeb1.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097334858469032434",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/8f62c90de64f71c02fe7a845-preview.webp",
+        "original": "assets/new-sources/8f62c90de64f71c02fe7a845.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2097334858469032434",
+        "media_url": "https://pbs.twimg.com/media/HRsiQo_aMAAopUs.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2097306942024683597",
+    "title": "Food travels through type",
+    "url": "https://x.com/MrLarus/status/2097306942024683597",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097306942024683597-2097306879365951488.jpeg",
+        "original": "assets/recovered-20261111/2097306942024683597-2097306879365951488.jpeg",
+        "sha256": "16945b438374618587261992ff78f0af171e5b2779ed493ed21fbeb0dde2b1c2"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2097306942024683597",
+        "media_url": "https://pbs.twimg.com/media/HRsheY-bEAAkhmU.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2097306942024683597",
+        "media_url": "https://pbs.twimg.com/media/HRshguNaUAAYHgr.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2097306942024683597",
+        "media_url": "https://pbs.twimg.com/media/HRshhcqX0AA_N6j.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2097071096696623144",
+    "title": "Food optics alters view of type",
+    "url": "https://x.com/MrLarus/status/2097071096696623144",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097071096696623144",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/70b9c5b528743fabce63fc79-preview.webp",
+        "original": "assets/new-sources/70b9c5b528743fabce63fc79.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097071096696623144",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/5ef8882473a8d6415f16e68c-preview.webp",
+        "original": "assets/new-sources/5ef8882473a8d6415f16e68c.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097071096696623144-2097070904039858176.jpeg",
+        "original": "assets/recovered-20261111/2097071096696623144-2097070904039858176.jpeg",
+        "sha256": "2ac65c74af31b2801c232efc675e0e4ca5fed8b69624eebf0adac4350459074c"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2097071096696623144",
+        "media_url": "https://pbs.twimg.com/media/HRpK3u5aMAA5q_1.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2096917259264340053",
+    "title": "Liquid ingredient/type interactions",
+    "url": "https://x.com/MrLarus/status/2096917259264340053",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096917259264340053/photo/1",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/2fb166506036e4ff0e546b00-preview.webp",
+        "original": "assets/new-sources/2fb166506036e4ff0e546b00.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096917259264340053/photo/2",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/5ed1ae7cd2661d33c17e82ed-preview.webp",
+        "original": "assets/new-sources/5ed1ae7cd2661d33c17e82ed.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096917259264340053/photo/3",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2096917259264340053-2096917235033944066.jpeg",
+        "original": "assets/recovered-20261111/2096917259264340053-2096917235033944066.jpeg",
+        "sha256": "0398e935210e0f166df05a4a8d57a865d973a100dd892c9b8383235f55a94413"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2096917259264340053/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HRm_IKgXYAItKAh.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2096910751675924914",
+    "title": "Food transforms typography",
+    "url": "https://x.com/MrLarus/status/2096910751675924914",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096910751675924914/photo/1",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/7936f06fa8848c75bbf325c4-preview.webp",
+        "original": "assets/new-sources/7936f06fa8848c75bbf325c4.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096910751675924914/photo/2",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/ff76b99e446bf053384db40a-preview.webp",
+        "original": "assets/new-sources/ff76b99e446bf053384db40a.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2096910751675924914/photo/3",
+        "media_url": "https://pbs.twimg.com/media/HRm2is7WsAA7xp3.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2096910751675924914/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HRm2jR5bgAA3TVg.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2096586084507357618",
+    "title": "Food structures editorial posters",
+    "url": "https://x.com/MrLarus/status/2096586084507357618",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096586084507357618/photo/4",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/e3d99283e937c4d8f8dccd66-preview.webp",
+        "original": "assets/new-sources/e3d99283e937c4d8f8dccd66.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096586084507357618/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2096586084507357618-2096586005990313984.jpeg",
+        "original": "assets/recovered-20261111/2096586084507357618-2096586005990313984.jpeg",
+        "sha256": "3adbcdb33def63fc7b297d5178d12069fcd1bbc4d71a282bd0f44c4448aa1653"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096586084507357618/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2096586084507357618-2096586013913067527.jpeg",
+        "original": "assets/recovered-20261111/2096586084507357618-2096586013913067527.jpeg",
+        "sha256": "cd32fa19721b179e96d1eace64a39e6d1a112556b9191ef52027ac7daa2f472c"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2096586084507357618/photo/3",
+        "media_url": "https://pbs.twimg.com/media/HRiR4ktaQAAFnBl.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2096582603633516675",
+    "title": "Food physically interacts with typography",
+    "url": "https://x.com/MrLarus/status/2096582603633516675",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096582603633516675/photo/1",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/9c1610205cee0d51eaafad0d-preview.webp",
+        "original": "assets/new-sources/9c1610205cee0d51eaafad0d.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096582603633516675/photo/2",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/7398583dc723c533b3c2219c-preview.webp",
+        "original": "assets/new-sources/7398583dc723c533b3c2219c.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096582603633516675/photo/3",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/ea60cdb9e22425b89690c8d7-preview.webp",
+        "original": "assets/new-sources/ea60cdb9e22425b89690c8d7.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096582603633516675/photo/4",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/009cd3b24b2788b28d46c17c-preview.webp",
+        "original": "assets/new-sources/009cd3b24b2788b28d46c17c.jpg"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2096207481353425049",
+    "title": "Circular crops and experimental editorial layouts",
+    "url": "https://x.com/MrLarus/status/2096207481353425049",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096207481353425049/photo/1",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/b263ad07defa89e5c411fb98-preview.webp",
+        "original": "assets/new-sources/b263ad07defa89e5c411fb98.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096207481353425049/photo/3",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2096207481353425049-2096187602181181441.jpeg",
+        "original": "assets/recovered-20261111/2096207481353425049-2096187602181181441.jpeg",
+        "sha256": "3a351b053e54f0941c557c008bee84a53cc278f60704aae40f3fa8727b1ddd5f"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2096207481353425049/photo/2",
+        "media_url": "https://pbs.twimg.com/media/HRcngSLWQAEhUfJ.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2096207481353425049/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HRcnhzRaQAAT58w.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2096105230303641778",
+    "title": "Food-led layout variations",
+    "url": "https://x.com/MrLarus/status/2096105230303641778",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096105230303641778/photo/1",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/95feb93ff841bc1064559e86-preview.webp",
+        "original": "assets/new-sources/95feb93ff841bc1064559e86.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096105230303641778/photo/2",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/229860e6cd601db73674c669-preview.webp",
+        "original": "assets/new-sources/229860e6cd601db73674c669.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096105230303641778/photo/3",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/cc0dde097b48d33872e08824-preview.webp",
+        "original": "assets/new-sources/cc0dde097b48d33872e08824.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096105230303641778/photo/4",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/d7f348fee460a7e4b8d8c024-preview.webp",
+        "original": "assets/new-sources/d7f348fee460a7e4b8d8c024.jpg"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2094306922744742150",
+    "title": "Food shapes direct typography",
+    "url": "https://x.com/MrLarus/status/2094306922744742150",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094306922744742150/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094306922744742150-2094306864615800832.jpeg",
+        "original": "assets/recovered-20261111/2094306922744742150-2094306864615800832.jpeg",
+        "sha256": "9354ca56a7d9a4d51b58c079ec100c2750e68113b8d3d2c53b6983f090926441"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094306922744742150/photo/3",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094306922744742150-2094306895448182784.jpeg",
+        "original": "assets/recovered-20261111/2094306922744742150-2094306895448182784.jpeg",
+        "sha256": "e84a0842ba11313b80d2a08515f97aec39408a8f829b965f685fbe710db1e822"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 1024,
+        "height": 1536,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094306922744742150/photo/4",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094306922744742150-2094306905598431232.jpeg",
+        "original": "assets/recovered-20261111/2094306922744742150-2094306905598431232.jpeg",
+        "sha256": "a71c12941114dd7f8540da81c5bf2e4f254f9deea71ab31d0803dcaa011bd3b9"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2094306922744742150/photo/2",
+        "media_url": "https://pbs.twimg.com/media/HRB5ANMXwAAfuda.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2094071843850223978",
+    "title": "Dynamic editorial food posters",
+    "url": "https://x.com/MrLarus/status/2094071843850223978",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094071843850223978/photo/3",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/c3de8eca28de8c6cab4f5b1a-preview.webp",
+        "original": "assets/new-sources/c3de8eca28de8c6cab4f5b1a.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 1023,
+        "height": 1537,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094071843850223978/photo/4",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/502181913972314bd2e93be1-preview.webp",
+        "original": "assets/new-sources/502181913972314bd2e93be1.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2094071843850223978/photo/1",
+        "media_url": "https://pbs.twimg.com/media/HQ-jN4sWoAA65gK.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2094071843850223978/photo/2",
+        "media_url": "https://pbs.twimg.com/media/HQ-jOJIWMAAX_I1.jpg?name=orig",
+        "width": 1023,
+        "height": 1537,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2084994767985770980",
+    "title": "French pâtisserie campaign",
+    "url": "https://x.com/MrLarus/status/2084994767985770980",
+    "family": "Food & editorial typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2084994767985770980/photo/2",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/139f7a86609769b3e1e06854-preview.webp",
+        "original": "assets/new-sources/139f7a86609769b3e1e06854.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2084994767985770980/photo/3",
+        "notes": "",
+        "download_status": "downloaded; visually inspected in contact sheet",
+        "preview": "assets/new-sources/e2237c1362dc33b168145cb0-preview.webp",
+        "original": "assets/new-sources/e2237c1362dc33b168145cb0.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2084994767985770980/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2084994767985770980-2084993437946859520.jpeg",
+        "original": "assets/recovered-20261111/2084994767985770980-2084993437946859520.jpeg",
+        "sha256": "e85dd58c8e1f983d13f606c571dfef3df9d33bf4651dc3296271c0fa5adb59e6"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2084994767985770980/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HO9il_oXEAA4gJ8.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "original URL and dimensions recovered; download returned HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "2119426684848107773",
+    "title": "Desk City: everyday objects as infrastructure",
+    "url": "https://x.com/MrLarus/status/2119426684848107773",
+    "family": "Mixed-media worlds",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119426684848107773/photo/1",
+        "notes": "Downloaded browser-selected rendition is 383×680. Observed img src names large, but responsive srcset may select smaller bytes. Original maximum resolution unverified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/f08252a20ec5dfbf20e6c7ac-preview.webp",
+        "original": "assets/new-sources/f08252a20ec5dfbf20e6c7ac.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1670,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119426684848107773/photo/2",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2119426684848107773-2119426684848107773-2.webp",
+        "original": "assets/recovered-20261111/2119426684848107773-2119426684848107773-2.webp",
+        "sha256": "ffb887d8850e016b5823f02d553d042591e6d12c3684fbd462df03656314c8f4",
+        "previous_preview": "assets/new-sources/87e2c90c4dfc01340144b822-preview.webp",
+        "previous_original": "assets/new-sources/87e2c90c4dfc01340144b822.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119426684848107773/photo/3",
+        "notes": "Downloaded browser-selected rendition is 383×680. Observed img src names large, but responsive srcset may select smaller bytes. Original maximum resolution unverified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/39cf0c1c43718455211f96b8-preview.webp",
+        "original": "assets/new-sources/39cf0c1c43718455211f96b8.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119426684848107773/photo/4",
+        "notes": "Downloaded browser-selected rendition is 383×680. Observed img src names large, but responsive srcset may select smaller bytes. Original maximum resolution unverified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/4cf94a28d18d5bdd1bf14b4f-preview.webp",
+        "original": "assets/new-sources/4cf94a28d18d5bdd1bf14b4f.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2119088172433109353",
+    "title": "Glass worlds with miniature people",
+    "url": "https://x.com/MrLarus/status/2119088172433109353",
+    "family": "Mixed-media worlds",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119088172433109353/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2119088172433109353-2119088172433109353-1.webp",
+        "original": "assets/recovered-20261111/2119088172433109353-2119088172433109353-1.webp",
+        "sha256": "57788d4e12612d68d6eb87ca14382b17d850b48115340bbedfc14fe788b0915f",
+        "previous_preview": "assets/new-sources/67590ed4a5be2376c2acfb2a-preview.webp",
+        "previous_original": "assets/new-sources/67590ed4a5be2376c2acfb2a.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119088172433109353/photo/2",
+        "notes": "Downloaded browser-selected rendition is 383×680. Observed img src names large, but responsive srcset may select smaller bytes. Original maximum resolution unverified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/a347e46424565a7ed94dcd6c-preview.webp",
+        "original": "assets/new-sources/a347e46424565a7ed94dcd6c.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119088172433109353/photo/3",
+        "notes": "Downloaded browser-selected rendition is 383×680. Observed img src names large, but responsive srcset may select smaller bytes. Original maximum resolution unverified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/659fae6f6fcaad87f5957007-preview.webp",
+        "original": "assets/new-sources/659fae6f6fcaad87f5957007.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119088172433109353/photo/4",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2119088172433109353-2119088172433109353-4.webp",
+        "original": "assets/recovered-20261111/2119088172433109353-2119088172433109353-4.webp",
+        "sha256": "8b5eefdc813e4593cf5c6b024e3b0d0e1103911a5525673155e1d62e42404415",
+        "previous_preview": "assets/new-sources/2e4f2e9fec376ac72c87f393-preview.webp",
+        "previous_original": "assets/new-sources/2e4f2e9fec376ac72c87f393.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2097560271011164610",
+    "title": "Action-driven vertical sliced type",
+    "url": "https://x.com/MrLarus/status/2097560271011164610",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097560271011164610/photo/1",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2097560271011164610-2097560271011164610-1.webp",
+        "original": "assets/recovered-20261111/2097560271011164610-2097560271011164610-1.webp",
+        "sha256": "41338ce177c8b9b7ab850a28eee3b651f2f246e47f2ea1f78c817b18b197309a",
+        "previous_preview": "assets/new-sources/03666bc2468e4f8b002b2c2f-preview.webp",
+        "previous_original": "assets/new-sources/03666bc2468e4f8b002b2c2f.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097560271011164610/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/55f87d3906d0a4b589a119d4-preview.webp",
+        "original": "assets/new-sources/55f87d3906d0a4b589a119d4.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097560271011164610/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/358a2d682d9d7f3a8459237a-preview.webp",
+        "original": "assets/new-sources/358a2d682d9d7f3a8459237a.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2097560271011164610/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/26ae06fd3b7178292e55b3c6-preview.webp",
+        "original": "assets/new-sources/26ae06fd3b7178292e55b3c6.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2096096945580155113",
+    "title": "Commercial vertical sliced type",
+    "url": "https://x.com/MrLarus/status/2096096945580155113",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096096945580155113/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/6933774bf3c20aef486ed1a3-preview.webp",
+        "original": "assets/new-sources/6933774bf3c20aef486ed1a3.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096096945580155113/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/7401962aac1059159de2b5d3-preview.webp",
+        "original": "assets/new-sources/7401962aac1059159de2b5d3.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096096945580155113/photo/3",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2096096945580155113-2096096945580155113-3.webp",
+        "original": "assets/recovered-20261111/2096096945580155113-2096096945580155113-3.webp",
+        "sha256": "e3b77bf972d1169425b109cd1f1629e42974d90b61deca75941e3c1307375858",
+        "previous_preview": "assets/new-sources/3dc3b97b8c283f403d30cedd-preview.webp",
+        "previous_original": "assets/new-sources/3dc3b97b8c283f403d30cedd.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096096945580155113/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/cb8587f14f3e0e005f5bc2ea-preview.webp",
+        "original": "assets/new-sources/cb8587f14f3e0e005f5bc2ea.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2096076711574097975",
+    "title": "Cultural editorial vertical sliced type",
+    "url": "https://x.com/MrLarus/status/2096076711574097975",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096076711574097975/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/03747d828b6b390c1f600c7f-preview.webp",
+        "original": "assets/new-sources/03747d828b6b390c1f600c7f.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096076711574097975/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/5998ddd7e275c3087d0d4928-preview.webp",
+        "original": "assets/new-sources/5998ddd7e275c3087d0d4928.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096076711574097975/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/28603e903d23673abf236ccb-preview.webp",
+        "original": "assets/new-sources/28603e903d23673abf236ccb.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2096076711574097975/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/07646547c46254a92f12c302-preview.webp",
+        "original": "assets/new-sources/07646547c46254a92f12c302.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2095872766188654917",
+    "title": "General vertical sliced type",
+    "url": "https://x.com/MrLarus/status/2095872766188654917",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095872766188654917/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/b074bd9f784eade753d877b9-preview.webp",
+        "original": "assets/new-sources/b074bd9f784eade753d877b9.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095872766188654917/photo/2",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2095872766188654917-2095872766188654917-2.webp",
+        "original": "assets/recovered-20261111/2095872766188654917-2095872766188654917-2.webp",
+        "sha256": "cf37f148ae53dc3e6a648d1595ace023ef643da88a78554285a6feb5300bd63f",
+        "previous_preview": "assets/new-sources/47fd520c53c63c5eaefd6c9c-preview.webp",
+        "previous_original": "assets/new-sources/47fd520c53c63c5eaefd6c9c.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095872766188654917/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/e0bedf7347c7e85f5541de3e-preview.webp",
+        "original": "assets/new-sources/e0bedf7347c7e85f5541de3e.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2095872766188654917/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/1e687ef1f4cc7c47ebe5831e-preview.webp",
+        "original": "assets/new-sources/1e687ef1f4cc7c47ebe5831e.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2094444007623450779",
+    "title": "Process and material transformation typography",
+    "url": "https://x.com/MrLarus/status/2094444007623450779",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094444007623450779/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/bcb10c4ae596443e5373206b-preview.webp",
+        "original": "assets/new-sources/bcb10c4ae596443e5373206b.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094444007623450779/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/f8e4b7b0b3cd055a915d3b96-preview.webp",
+        "original": "assets/new-sources/f8e4b7b0b3cd055a915d3b96.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094444007623450779/photo/3",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2094444007623450779-2094444007623450779-3.webp",
+        "original": "assets/recovered-20261111/2094444007623450779-2094444007623450779-3.webp",
+        "sha256": "ca87e5be68ce74604b1d9ec953981d1cd65e3094512e95e7f6152636869760a0",
+        "previous_preview": "assets/new-sources/563f433ea599c1ea905c0fc8-preview.webp",
+        "previous_original": "assets/new-sources/563f433ea599c1ea905c0fc8.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2094444007623450779/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/407ab4ea935865d5787978e6-preview.webp",
+        "original": "assets/new-sources/407ab4ea935865d5787978e6.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2091118744362004555",
+    "title": "Scene-integrated editorial typography",
+    "url": "https://x.com/MrLarus/status/2091118744362004555",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091118744362004555/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/ffddb51ce399bf54b5f782b8-preview.webp",
+        "original": "assets/new-sources/ffddb51ce399bf54b5f782b8.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091118744362004555/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/1fb9c0b4a1d5231ab663d260-preview.webp",
+        "original": "assets/new-sources/1fb9c0b4a1d5231ab663d260.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091118744362004555/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/9866eedbeb6f10edcec55572-preview.webp",
+        "original": "assets/new-sources/9866eedbeb6f10edcec55572.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091118744362004555/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/0efbdeff796d38c259fb51f0-preview.webp",
+        "original": "assets/new-sources/0efbdeff796d38c259fb51f0.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2090066451851874405",
+    "title": "Sculptural paper letterforms",
+    "url": "https://x.com/MrLarus/status/2090066451851874405",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090066451851874405/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/39c71506c7d15295ff0c30f0-preview.webp",
+        "original": "assets/new-sources/39c71506c7d15295ff0c30f0.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090066451851874405/photo/2",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2090066451851874405-2090066451851874405-2.webp",
+        "original": "assets/recovered-20261111/2090066451851874405-2090066451851874405-2.webp",
+        "sha256": "393be999abb859e7246404b706fac024a105bff2993288e4ebe0ca088a2a4e08",
+        "previous_preview": "assets/new-sources/6f3b59821753346fab180386-preview.webp",
+        "previous_original": "assets/new-sources/6f3b59821753346fab180386.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090066451851874405/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/d0d700cdae7f42f92380d64c-preview.webp",
+        "original": "assets/new-sources/d0d700cdae7f42f92380d64c.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090066451851874405/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/e36a8f3674c82159171e9859-preview.webp",
+        "original": "assets/new-sources/e36a8f3674c82159171e9859.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2120192333148987761",
+    "title": "Photoreal fabric + pencil illustration",
+    "url": "https://x.com/MrLarus/status/2120192333148987761",
+    "family": "Mixed-media worlds",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120192333148987761/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/d8126575938cd74e9f1eea5e-preview.webp",
+        "original": "assets/new-sources/d8126575938cd74e9f1eea5e.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120192333148987761/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/dc52f46e0502a87333fbda18-preview.webp",
+        "original": "assets/new-sources/dc52f46e0502a87333fbda18.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120192333148987761/photo/3",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2120192333148987761-2120192333148987761-3.webp",
+        "original": "assets/recovered-20261111/2120192333148987761-2120192333148987761-3.webp",
+        "sha256": "422154335ec8ed79a1d6fe4ddc187a42c83f6a3455aeddab87225d00a8dc9167",
+        "previous_preview": "assets/new-sources/66af91c46078530cd1ade1a4-preview.webp",
+        "previous_original": "assets/new-sources/66af91c46078530cd1ade1a4.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120192333148987761/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/26e65f592fc77d6d11f50e48-preview.webp",
+        "original": "assets/new-sources/26e65f592fc77d6d11f50e48.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2120183974912036870",
+    "title": "TINY FLOW material adventures",
+    "url": "https://x.com/MrLarus/status/2120183974912036870",
+    "family": "Mixed-media worlds",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120183974912036870/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/f242b35028127797834de520-preview.webp",
+        "original": "assets/new-sources/f242b35028127797834de520.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120183974912036870/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/453fe577a0de81961cf5962b-preview.webp",
+        "original": "assets/new-sources/453fe577a0de81961cf5962b.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120183974912036870/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/7a05b383e001ec89b8e8efa2-preview.webp",
+        "original": "assets/new-sources/7a05b383e001ec89b8e8efa2.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2120183974912036870/photo/4",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/1e1d07f23b798fdde810d1ca-preview.webp",
+        "original": "assets/new-sources/1e1d07f23b798fdde810d1ca.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2119822756347036091",
+    "title": "Tiny Repair Crew mechanical worlds",
+    "url": "https://x.com/MrLarus/status/2119822756347036091",
+    "family": "Oversized",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119822756347036091/photo/1",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/e0b936433b1d0167376bd738-preview.webp",
+        "original": "assets/new-sources/e0b936433b1d0167376bd738.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 384,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119822756347036091/photo/2",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/0400d5c5c05a058d2c48ec00-preview.webp",
+        "original": "assets/new-sources/0400d5c5c05a058d2c48ec00.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119822756347036091/photo/3",
+        "notes": "Measured downloaded browser-selected rendition. Maximum original resolution not verified.",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/bf456e44761862e87e0d1d1f-preview.webp",
+        "original": "assets/new-sources/bf456e44761862e87e0d1d1f.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 942,
+        "height": 1670,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2119822756347036091/photo/4",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2119822756347036091-2119822756347036091-4.webp",
+        "original": "assets/recovered-20261111/2119822756347036091-2119822756347036091-4.webp",
+        "sha256": "0b27ad45e1a5bd4713866a84c0885bae3a1feb6f6db7d2f8168d607e6cb1d959",
+        "previous_preview": "assets/new-sources/b8bf5d60a668f82361ba87e5-preview.webp",
+        "previous_original": "assets/new-sources/b8bf5d60a668f82361ba87e5.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2090320559389192446",
+    "title": "Scene-integrated big type",
+    "url": "https://x.com/MrLarus/status/2090320559389192446",
+    "family": "Typography",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090320559389192446",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/1c8cae58070a900e2449dd05-preview.webp",
+        "original": "assets/new-sources/1c8cae58070a900e2449dd05.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2090320559389192446",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/6a1bf7e121f4b4c60e36cc77-preview.webp",
+        "original": "assets/new-sources/6a1bf7e121f4b4c60e36cc77.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2090320559389192446",
+        "media_url": "https://pbs.twimg.com/media/HQJPaojbEAAFfYC.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2090320559389192446",
+        "media_url": "https://pbs.twimg.com/media/HQJPc18aAAAxaCS.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2092312043684573376",
+    "title": "Type interaction · Vol.26",
+    "url": "https://x.com/MrLarus/status/2092312043684573376",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2092312043684573376",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/b76f6c4dc0fd89998f1c65a3-preview.webp",
+        "original": "assets/new-sources/b76f6c4dc0fd89998f1c65a3.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2092312043684573376-2092311995907256320.jpeg",
+        "original": "assets/recovered-20261111/2092312043684573376-2092311995907256320.jpeg",
+        "sha256": "19930d99e2e89cfcb63cfeeda29168fd98e9f1e2a226dfea7af63e4ad6a2c7ff"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2092312043684573376-2092312014466981889.jpeg",
+        "original": "assets/recovered-20261111/2092312043684573376-2092312014466981889.jpeg",
+        "sha256": "9f18188582eadf5ea722f68d90288ae15b411dd3a7075af6b66e094a1cf1b7d8"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2092312043684573376",
+        "media_url": "https://pbs.twimg.com/media/HQlitGYWcAA4zOC.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2091421018342465988",
+    "title": "Visual interference · Vol.25",
+    "url": "https://x.com/MrLarus/status/2091421018342465988",
+    "family": "Portraits & editorial",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091421018342465988",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/9ab4d6cf1880a38bf153e70f-preview.webp",
+        "original": "assets/new-sources/9ab4d6cf1880a38bf153e70f.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2091421018342465988-2091419894910754816.jpeg",
+        "original": "assets/recovered-20261111/2091421018342465988-2091419894910754816.jpeg",
+        "sha256": "65d5fa51d90c420bfcd2b9ff1db454165c84a6297feafb60515208a7596dd9d7"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2091421018342465988",
+        "media_url": "https://pbs.twimg.com/media/HQY3UE-XkAADWM3.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      },
+      {
+        "source_url": "https://x.com/MrLarus/status/2091421018342465988",
+        "media_url": "https://pbs.twimg.com/media/HQY3VHkWYAAF9jY.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "Not downloaded; original media URL recovered"
+      }
+    ]
+  },
+  {
+    "id": "2113510238846672945",
+    "title": "Terrestrial Life infographics",
+    "url": "https://x.com/iamsofiaijaz/status/2113510238846672945",
+    "family": "Infographics",
+    "available_images": [
+      {
+        "caption": "Author example · Aijaz (@iamsofiaijaz)",
+        "width": 1312,
+        "height": 1199,
+        "role": "Author example",
+        "source_url": "https://x.com/iamsofiaijaz/status/2113510238846672945",
+        "notes": "",
+        "download_status": "downloaded and visually inspected",
+        "preview": "assets/new-sources/78c6b446c7000ab318e0dff5-preview.webp",
+        "original": "assets/new-sources/78c6b446c7000ab318e0dff5.jpg"
+      },
+      {
+        "caption": "Author example · Aijaz (@iamsofiaijaz)",
+        "width": 1312,
+        "height": 1199,
+        "role": "Author example",
+        "source_url": "https://x.com/iamsofiaijaz/status/2113510238846672945",
+        "notes": "",
+        "download_status": "downloaded and visually inspected",
+        "preview": "assets/new-sources/123c3988767b166cbfc1f736-preview.webp",
+        "original": "assets/new-sources/123c3988767b166cbfc1f736.jpg"
+      },
+      {
+        "caption": "Author example · Aijaz (@iamsofiaijaz)",
+        "width": 1312,
+        "height": 1199,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2113510238846672945-2113510209855619073.jpeg",
+        "original": "assets/recovered-20261111/2113510238846672945-2113510209855619073.jpeg",
+        "sha256": "471ca07b25f9eb3251e2fbf4e036d4afb0c54c9dd7f7d69613dbf37ccc1ab607"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/iamsofiaijaz/status/2113510238846672945",
+        "media_url": "https://pbs.twimg.com/media/HVSyVD3boAEpWAq.jpg?name=orig",
+        "width": 1312,
+        "height": 1199,
+        "status": "original URL recovered; HTTP 403 downloading"
+      }
+    ]
+  },
+  {
+    "id": "2054078929430819107",
+    "title": "Real subjects in Minecraft-style environments",
+    "url": "https://x.com/MrLarus/status/2054078929430819107",
+    "family": "Photo transformations",
+    "available_images": [
+      {
+        "caption": "Requested prompt-reply image; original/transformed comparison · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 2244,
+        "role": "Requested prompt-reply image; original/transformed comparison",
+        "source_url": "https://x.com/MrLarus/status/2054078929430819107/photo/2",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/562b219335004e1a8cadf1cd-preview.webp",
+        "original": "assets/new-sources/562b219335004e1a8cadf1cd.jpg"
+      },
+      {
+        "caption": "Requested prompt-reply image; original/transformed comparison · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 2244,
+        "role": "Requested prompt-reply image; original/transformed comparison",
+        "source_url": "https://x.com/MrLarus/status/2054078929430819107/photo/3",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/df4b9d9b7eaedc01c93bda20-preview.webp",
+        "original": "assets/new-sources/df4b9d9b7eaedc01c93bda20.jpg"
+      },
+      {
+        "caption": "Parent showcase image · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 1086,
+        "role": "Parent showcase image",
+        "source_url": "https://x.com/MrLarus/status/2054078596948299921/photo/1",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/7ff4c0968ef05343c66be43c-preview.webp",
+        "original": "assets/new-sources/7ff4c0968ef05343c66be43c.jpg"
+      },
+      {
+        "caption": "Parent showcase image · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 1086,
+        "role": "Parent showcase image",
+        "source_url": "https://x.com/MrLarus/status/2054078596948299921/photo/2",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/462943ff8b7603798ce82efe-preview.webp",
+        "original": "assets/new-sources/462943ff8b7603798ce82efe.jpg"
+      },
+      {
+        "caption": "Parent showcase image · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 1086,
+        "role": "Parent showcase image",
+        "source_url": "https://x.com/MrLarus/status/2054078596948299921/photo/3",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/b760b626b289c4b19d1e0539-preview.webp",
+        "original": "assets/new-sources/b760b626b289c4b19d1e0539.jpg"
+      },
+      {
+        "caption": "Parent showcase image · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 1086,
+        "role": "Parent showcase image",
+        "source_url": "https://x.com/MrLarus/status/2054078596948299921/photo/4",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/b2fc5ff33a9659665bf02fc8-preview.webp",
+        "original": "assets/new-sources/b2fc5ff33a9659665bf02fc8.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 1448,
+        "height": 2244,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2054078929430819107/photo/1",
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "recovered on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2054078929430819107-2054078830365622273.jpeg",
+        "original": "assets/recovered-20261111/2054078929430819107-2054078830365622273.jpeg",
+        "sha256": "fb9d90e4056e49e921ed66bcfcd5f096cb966904ca2af95a8e0b28965f636b24"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2054078929430819107/photo/4",
+        "media_url": "https://pbs.twimg.com/media/HIGN271WkAAwbdo.jpg?name=orig",
+        "width": 1448,
+        "height": 2244,
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "2091186961684033628",
+    "title": "Minecraft photo filter · Vol.02",
+    "url": "https://x.com/MrLarus/status/2091186961684033628",
+    "family": "Photo transformations",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091186961684033628",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/b26985e33ccd9363ad8c6d1a-preview.webp",
+        "original": "assets/new-sources/b26985e33ccd9363ad8c6d1a.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091186961684033628",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/9ebd281a43289a2286bc4a48-preview.webp",
+        "original": "assets/new-sources/9ebd281a43289a2286bc4a48.jpg"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 1024,
+        "height": 1535,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2091186961684033628",
+        "notes": "",
+        "download_status": "downloaded",
+        "preview": "assets/new-sources/cf5a90384a0bbd216dabe5fe-preview.webp",
+        "original": "assets/new-sources/cf5a90384a0bbd216dabe5fe.jpg"
+      }
+    ],
+    "missing_images": [
+      {
+        "source_url": "https://x.com/MrLarus/status/2091186961684033628",
+        "media_url": "https://pbs.twimg.com/media/HQVjboMbgAAQ8TX.jpg?name=orig",
+        "width": 941,
+        "height": 1672,
+        "status": "HTTP 403; original URL and dimensions recovered"
+      }
+    ]
+  },
+  {
+    "id": "2110093836219527170",
+    "title": "Japanese bakery mini-worlds",
+    "url": "https://x.com/MrLarus/status/2110093836219527170",
+    "family": "Food + illustrated objects",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110093836219527170/photo/1",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2110093836219527170-2110093836219527170-1.webp",
+        "original": "assets/recovered-20261111/2110093836219527170-2110093836219527170-1.webp",
+        "sha256": "1ac4785b6b8439b2e0e91fa88bdf6dd1edfddf33eb194545ff5a5276bffde126",
+        "previous_preview": "assets/new-sources/55c3ac2c326db55fd07211b4-preview.webp",
+        "previous_original": "assets/new-sources/55c3ac2c326db55fd07211b4.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110093836219527170/photo/2",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2110093836219527170-2110093836219527170-2.webp",
+        "original": "assets/recovered-20261111/2110093836219527170-2110093836219527170-2.webp",
+        "sha256": "611c24b03e2c3ccc029be3e3aab8d47b23aadee822a3687715ddd0823624a890",
+        "previous_preview": "assets/new-sources/fd596317ca4cfd780dc4aeaf-preview.webp",
+        "previous_original": "assets/new-sources/fd596317ca4cfd780dc4aeaf.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110093836219527170/photo/3",
+        "notes": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2110093836219527170-2110093836219527170-3.webp",
+        "original": "assets/recovered-20261111/2110093836219527170-2110093836219527170-3.webp",
+        "sha256": "c75a8dc0388c1da64692d55da1ad0d9651db800ba71dfd359cb3aa4825956c02",
+        "previous_preview": "assets/new-sources/5183d937690276881e3dc32e-preview.webp",
+        "previous_original": "assets/new-sources/5183d937690276881e3dc32e.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110093836219527170",
+        "notes": "Original X post and prompt reply known; direct image URL was not captured in the sample files. Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/44f70575f55d473e116e15d4-preview.webp",
+        "original": "assets/new-sources/44f70575f55d473e116e15d4.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2110685525384552502",
+    "title": "Food and illustrated characters",
+    "url": "https://x.com/MrLarus/status/2110685525384552502",
+    "family": "Food + illustrated objects",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110685525384552502",
+        "notes": "Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/15910635768c4b4db044707f-preview.webp",
+        "original": "assets/new-sources/15910635768c4b4db044707f.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2110685525384552502-2110685525384552502-3.webp",
+        "original": "assets/recovered-20261111/2110685525384552502-2110685525384552502-3.webp",
+        "sha256": "d3449fddab94d0956ea178f49c99018a43ee98040612888ba21e63690d5fcd5a",
+        "previous_preview": "assets/recovered-20261111/2110685525384552502-2110685525384552502-2.webp",
+        "previous_original": "assets/recovered-20261111/2110685525384552502-2110685525384552502-2.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110685525384552502",
+        "notes": "Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/082823455a3e0ce4e304dbdc-preview.webp",
+        "original": "assets/new-sources/082823455a3e0ce4e304dbdc.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110685525384552502",
+        "notes": "Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/88927203a2319e57bd1ffb2b-preview.webp",
+        "original": "assets/new-sources/88927203a2319e57bd1ffb2b.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2110735138430824892",
+    "title": "Food and illustrated animals",
+    "url": "https://x.com/MrLarus/status/2110735138430824892",
+    "family": "Food + illustrated objects",
+    "available_images": [
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110735138430824892",
+        "notes": "Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/71365a7a84a51c097b4a2762-preview.webp",
+        "original": "assets/new-sources/71365a7a84a51c097b4a2762.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 383,
+        "height": 680,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110735138430824892",
+        "notes": "Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/44a36bd6c6db1f766190f9c6-preview.webp",
+        "original": "assets/new-sources/44a36bd6c6db1f766190f9c6.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": null,
+        "notes": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+        "download_status": "upgraded on 2026-11-11; decoded and SHA-256 verified",
+        "preview": "assets/recovered-20261111/2110735138430824892-2110735138430824892-3.webp",
+        "original": "assets/recovered-20261111/2110735138430824892-2110735138430824892-3.webp",
+        "sha256": "bf1b944722d9df2d14f559999e474f6bad8b7678c21626d976b02a181987a223",
+        "previous_preview": "assets/new-sources/c81bfa767963b30e492138ee-preview.webp",
+        "previous_original": "assets/new-sources/c81bfa767963b30e492138ee.webp"
+      },
+      {
+        "caption": "Author example · Larus Canus (@MrLarus)",
+        "width": 941,
+        "height": 1672,
+        "role": "Author example",
+        "source_url": "https://x.com/MrLarus/status/2110735138430824892",
+        "notes": "Manifest dimensions differ from measured local file; width and height use measured file pixels.",
+        "download_status": "downloaded; verified local image pixels",
+        "preview": "assets/new-sources/d268d112d689b814a8cc978e-preview.webp",
+        "original": "assets/new-sources/d268d112d689b814a8cc978e.webp"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2107498337478094987",
+    "title": "Selective-focus editorial portraits",
+    "url": "https://x.com/MrLarus/status/2107498337478094987",
+    "family": "People & editorial",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2099714334192537873",
+    "title": "Sliced photographic typography",
+    "url": "https://x.com/MrLarus/status/2099714334192537873",
+    "family": "Typography",
+    "available_images": [
+      {
+        "preview": "assets/source-49ece251776970d54ebc.webp",
+        "caption": "User-supplied source screenshot",
+        "basis": "User supplied image; inspected",
+        "sha256": "49ece251776970d54ebc64e8b3312d790a20320769bc2b68795b9c7fbdbde1d3"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2104179860021334070",
+    "title": "Diagonal paper and material compositions",
+    "url": "https://x.com/MrLarus/status/2104179860021334070",
+    "family": "Paper & material compositions",
+    "available_images": [
+      {
+        "preview": "assets/source-04ed84223620ea4edf98.webp",
+        "caption": "User-supplied source screenshot",
+        "basis": "User supplied image; inspected",
+        "sha256": "04ed84223620ea4edf982e3abb522e52eb3b1d3f4ad4abd143334a0437a5b622"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2110772252237279589",
+    "title": "Source post 2110772252237279589",
+    "url": "https://x.com/MrLarus/status/2110772252237279589",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2103111661288820908",
+    "title": "Source post 2103111661288820908",
+    "url": "https://x.com/MrLarus/status/2103111661288820908",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2105261460125315522",
+    "title": "Source post 2105261460125315522",
+    "url": "https://x.com/MrLarus/status/2105261460125315522",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2103510343058129282",
+    "title": "Source post 2103510343058129282",
+    "url": "https://x.com/MrLarus/status/2103510343058129282",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2103144557512921306",
+    "title": "Source post 2103144557512921306",
+    "url": "https://x.com/MrLarus/status/2103144557512921306",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2100255022374391914",
+    "title": "Source post 2100255022374391914",
+    "url": "https://x.com/MrLarus/status/2100255022374391914",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2099714519870185512",
+    "title": "Source post 2099714519870185512",
+    "url": "https://x.com/MrLarus/status/2099714519870185512",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2099220681586086322",
+    "title": "Source post 2099220681586086322",
+    "url": "https://x.com/MrLarus/status/2099220681586086322",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2099849595748499930",
+    "title": "Brutalist architecture and perspective type",
+    "url": "https://x.com/MrLarus/status/2099849595748499930",
+    "family": "Architecture & space",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2099531149139968506",
+    "title": "Sky prism and architectural interventions",
+    "url": "https://x.com/MrLarus/status/2099531149139968506",
+    "family": "Architecture & space",
+    "available_images": [
+      {
+        "preview": "assets/source-49110c1771c9068c9828.webp",
+        "caption": "User-supplied source screenshot",
+        "basis": "User supplied image; inspected",
+        "sha256": "49110c1771c9068c982861c71655e520b81de2b6cb45055e24070a9f9e1aa7ee"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2099455338369941580",
+    "title": "Circular fashion: aperture, slices and steps",
+    "url": "https://x.com/MrLarus/status/2099455338369941580",
+    "family": "People & editorial",
+    "available_images": [
+      {
+        "preview": "assets/source-1380dc888419d99c5f31.webp",
+        "caption": "User-supplied source screenshot",
+        "basis": "User supplied image; inspected",
+        "sha256": "1380dc888419d99c5f318cc094771061662b2118a307c1de671ae48c39278c59"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2099463499588018438",
+    "title": "Circular fashion: ring exit and sculptural collar",
+    "url": "https://x.com/MrLarus/status/2099463499588018438",
+    "family": "People & editorial",
+    "available_images": [
+      {
+        "preview": "assets/source-66942e0ca4f7f4305e57.webp",
+        "caption": "User-supplied source screenshot",
+        "basis": "User supplied image; inspected",
+        "sha256": "66942e0ca4f7f4305e576b9da06e51ef736ff55a524a2eb1b78c40959946d428"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2095845644191637661",
+    "title": "Fan-shaped editorial collage",
+    "url": "https://x.com/MrLarus/status/2095845644191637661",
+    "family": "Editorial collage",
+    "available_images": [
+      {
+        "preview": "assets/source-ac0a368f278684aa48bd.webp",
+        "caption": "Fan/ribbon family example · WIND",
+        "basis": "Supplied with both prompts; visually illustrates the flowing-ribbon variant. The higher-resolution existing preview is retained, without asserting an exact historical prompt-to-output match.",
+        "sha256": "ac0a368f278684aa48bdbbf75657467f52226222d6e97e17439e5868d9104bff",
+        "additional_supplied_attachments": [
+          {
+            "sha256": "631a912e38ffb6bb299e165ea51c7a47c83d02acea92660b9fbb0454ce942701",
+            "relationship": "Same artwork supplied again at a smaller resolution; existing higher-resolution preview reused."
+          }
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2095857924174152049",
+    "title": "Source post 2095857924174152049",
+    "url": "https://x.com/MrLarus/status/2095857924174152049",
+    "family": "Unresolved",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2098408977008676918",
+    "title": "Layered silhouettes & hidden worlds",
+    "url": "https://x.com/MrLarus/status/2098408977008676918",
+    "family": "Layered paper-cut worlds",
+    "available_images": [
+      {
+        "preview": "assets/source-3e12c3c9d55932b5fb56.webp",
+        "caption": "User-supplied source example",
+        "basis": "User image, matched visible title to indexed source series",
+        "sha256": "3e12c3c9d55932b5fb563210e05b85ab1adc753fc5a19dd1342be31d9e378a9a"
+      },
+      {
+        "preview": "assets/source-8acf34346134d249c76a.webp",
+        "caption": "User-supplied source example",
+        "basis": "User image, matched visible title to indexed source series",
+        "sha256": "8acf34346134d249c76a0fb2bacc1507462c1713e30d0775caba27f4c1247664"
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2098415324424970307",
+    "title": "Cultural forms & inward narrative spaces",
+    "url": "https://x.com/MrLarus/status/2098415324424970307",
+    "family": "Layered paper-cut worlds",
+    "available_images": [
+      {
+        "preview": "assets/source-84423d640889f1d6feac.webp",
+        "caption": "User-supplied source example",
+        "basis": "User image, matched visible title to indexed source series",
+        "sha256": "84423d640889f1d6feac21c5fbf1fef18cdf26bb5aa00eb586875055506ff48c"
+      },
+      {
+        "preview": "assets/source-15ada295fd4bec5c9ff5.webp",
+        "caption": "User-supplied source example",
+        "basis": "User image, matched visible title to indexed source series",
+        "sha256": "15ada295fd4bec5c9ff5b92940bd9c173a7dc80394bc676e83e12d8f996c4e80"
+      },
+      {
+        "preview": "assets/source-user-8acf34346134d249c76a0fb2.png",
+        "caption": "Below the Surface",
+        "basis": "User-provided family reference · Whale silhouette opening into an underwater world with a diver. Exact generation prompt unverified.",
+        "sha256": "8acf34346134d249c76a0fb2bacc1507462c1713e30d0775caba27f4c1247664",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      },
+      {
+        "preview": "assets/source-user-41e1f96c57c3a8da46311697.png",
+        "caption": "Cut to Move",
+        "basis": "User-provided family reference · Layered dress opening into a small runway scene. Exact generation prompt unverified.",
+        "sha256": "41e1f96c57c3a8da46311697f528c5ec79fa2f216c85d67ad119a388003cfa33",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      },
+      {
+        "preview": "assets/source-user-8419bf6eef4074202e11daf6.png",
+        "caption": "Echo Room",
+        "basis": "User-provided family reference · Saxophone silhouette revealing a jazz stage and audience. Exact generation prompt unverified.",
+        "sha256": "8419bf6eef4074202e11daf694b91a69d8ea80060ed91776c8f8217856b44917",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      },
+      {
+        "preview": "assets/source-user-f7244b3324b99c9979888cbf.png",
+        "caption": "The Last Frame",
+        "basis": "User-provided family reference · Projector beam revealing a layered cinematic street scene. Exact generation prompt unverified.",
+        "sha256": "f7244b3324b99c9979888cbf131cbbb5fc8d3dafa6c1077ebfc02500a4dfe3a7",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      },
+      {
+        "preview": "assets/source-user-871d519496d347c855d9209f.png",
+        "caption": "The Theatre",
+        "basis": "User-provided family reference · Red profile silhouette revealing a theatre stage. Exact generation prompt unverified.",
+        "sha256": "871d519496d347c855d9209f6063725d1fb97010465e76ff7571ff324993da79",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      },
+      {
+        "preview": "assets/source-user-e9a7ba4aa08afe407d68c66a.png",
+        "caption": "Vogue · More Than Fashion",
+        "basis": "User-provided family reference · Fashion silhouette opening into an architectural runway. Exact generation prompt unverified.",
+        "sha256": "e9a7ba4aa08afe407d68c66a6229eb0f853aafebeb1be921f93354ce9f5e3f4d",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      },
+      {
+        "preview": "assets/source-user-7c48b338e1369a8c6c43000f.png",
+        "caption": "Afterlight",
+        "basis": "User-provided family reference · Planet-like layered memory space with an observer and orbital details. Exact generation prompt unverified.",
+        "sha256": "7c48b338e1369a8c6c43000f806bfcb703ebe094638ed761485340923656cae1",
+        "original_size": [
+          941,
+          1672
+        ],
+        "provenance": "User supplied on November 7, 2026; grouped here at the user’s request."
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "id": "2112025641713578274",
+    "title": "Environmental sports typography · Series 1",
+    "url": "https://x.com/MrLarus/status/2112025641713578274",
+    "family": "Environmental sports typography",
+    "available_images": [],
+    "missing_images": []
+  },
+  {
+    "id": "2111845003370844393",
+    "title": "Environmental sports typography · Series 2",
+    "url": "https://x.com/MrLarus/status/2111845003370844393",
+    "family": "Environmental sports typography",
+    "available_images": [],
+    "missing_images": []
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "current_source_id": "2110093836219527170",
+    "previous_public_record": {
+      "id": "2110093836219527170",
+      "title": "Japanese bakery miniature posters",
+      "status": "Complete author reply located",
+      "url": "https://x.com/MrLarus/status/2110093836219527170",
+      "summary": "Realistic food and tiny hand-drawn characters on a warm cream poster, with bakery lettering, quiet space and a small narrative. The public set includes croissant, donut, floating bagel and coffee-and-toast concepts.",
+      "candidate_files": [
+        "Nikki-Nitro/01-croissant-and-nitro.png",
+        "Nikki-Nitro/02-slow-morning-coffee-and-toast.png",
+        "Nikki-Nitro/poster-1-brand-corrected.png",
+        "Nikki-Nitro/poster-2-brand-corrected-v2.png",
+        "Nikki-Nitro/poster-2-brand-corrected-v3.png",
+        "Nikki-Nitro/poster-2-brand-corrected.png"
+      ],
+      "archive_link_status": "No proven generation association",
+      "public_url": "https://ww.twstalker.com/MrLarus/status/2110094498701476306",
+      "prompt_url": "https://x.com/MrLarus/status/2110094498701476306",
+      "evidence": "The output post 2110093836219527170 links to the complete prompt reply 2110094498701476306. The full reply was recovered on November 6, 2026. Archive comparisons remain visual source-family matches, not proof of exact adapted submissions.",
+      "prompt_status": "Public template located; adapted image-specific wording unknown",
+      "source_posts": [
+        "https://x.com/MrLarus/status/2110093836219527170"
+      ],
+      "sample_images": [],
+      "source_family": "Food & miniature scenes",
+      "copy_kind": "summary",
+      "copy_text": "Realistic food and tiny hand-drawn characters on a warm cream poster, with bakery lettering, quiet space and a small narrative. The public set includes croissant, donut, floating bagel and coffee-and-toast concepts.",
+      "copy_label": "Copy summary",
+      "content_note": "Complete third-party source wording is readable at the linked source. Full-text reuse permission has not been verified, so this panel contains only a summary. ",
+      "attribution": "Larus Canus / @MrLarus",
+      "source_text_located": true,
+      "full_text_reuse_status": "not_verified"
+    }
+  },
+  {
+    "current_source_id": "2110735138430824892",
+    "previous_public_record": {
+      "id": "2110735508674593058",
+      "title": "Source post 2110735508674593058",
+      "status": "Content not recovered",
+      "url": "https://x.com/MrLarus/status/2110735508674593058",
+      "summary": "This user-supplied post remains unresolved. Direct public access returned an error and the checked exact-ID indexes did not yield reliable content.",
+      "candidate_files": [],
+      "archive_link_status": "No proven generation association",
+      "evidence": "No source meaning or image relationship has been inferred from a neighboring post ID or publication date.",
+      "prompt_status": "Source content unknown",
+      "source_posts": [
+        "https://x.com/MrLarus/status/2110735508674593058"
+      ],
+      "sample_images": [],
+      "source_family": "Unresolved",
+      "copy_kind": "unavailable",
+      "copy_text": "",
+      "copy_label": "Text unavailable",
+      "content_note": "No reliable prompt text has been recovered for this post."
+    }
+  },
+  {
+    "current_source_id": "2102756484475990402",
+    "previous_public_record": {
+      "id": "2102756524850311387",
+      "title": "Source post 2102756524850311387",
+      "status": "Content not recovered",
+      "url": "https://x.com/MrLarus/status/2102756524850311387",
+      "summary": "This user-supplied post remains unresolved. Direct public access returned an error and exact-ID public searches did not yield reliable content.",
+      "candidate_files": [],
+      "archive_link_status": "No proven generation association",
+      "evidence": "The exact post ID was also absent from 71 saved source files and 283 rows across four prompt/media tables. No source meaning or archive relationship has been inferred.",
+      "prompt_status": "Source content unknown",
+      "source_posts": [
+        "https://x.com/MrLarus/status/2102756524850311387"
+      ],
+      "sample_images": [],
+      "source_family": "Unresolved",
+      "copy_kind": "unavailable",
+      "copy_text": "",
+      "copy_label": "Text unavailable",
+      "content_note": "No reliable prompt text has been recovered for this post."
+    }
+  },
+  {
+    "current_source_id": "2097560271011164610",
+    "previous_public_record": {
+      "id": "2097560399964946774",
+      "title": "Sliced action typography: recovered template source",
+      "status": "Saved template text matched; image links unverified",
+      "url": "https://x.com/MrLarus/status/2097560399964946774",
+      "public_url": "https://xn--ngbj1b7a.twstalker.com/MrLarus/status/2097560399964946774",
+      "summary": "One continuous action photograph fills a tall word. Uneven lower letter extensions carry movement and detail, with every photographic element kept inside the type mask. The source examples are BURST, DIVE, TOSS and SERVE.",
+      "candidate_files": [
+        "B4K/01-b4k-build.png",
+        "Nikki-Nitro/02-nikki-nitro.png",
+        "JML/03-jml-signal.png",
+        "My-Law-Bridge/04-mlb-proof.png"
+      ],
+      "archive_link_status": "No proven generation association",
+      "prompt_status": "Public prompt matches an existing saved template after formatting normalization",
+      "saved_template_id": "central-composer-6",
+      "evidence": "The indexed thread links output post 2097560271011164610 to this prompt reply. All sections match the retained Central saved template, including variable fields, numeric constraints, clipping rule, corner metadata and exclusions. Differences are whitespace, bracket glyphs and the saved user preface “one for each brand.” This identifies the reusable template source, not proof that the composer was submitted or that the four archive examples were generated from it.",
+      "source_posts": [
+        "https://x.com/MrLarus/status/2097560399964946774"
+      ],
+      "sample_images": [],
+      "source_family": "Typography",
+      "copy_kind": "saved_source_prompt",
+      "copy_text": "one for each brand.\n\n\n\nPrompt:\n\n【MAIN WORD】: {4–6 letter uppercase keyword}\n【SUBJECT】: {person / product / scene}\n【CAMPAIGN TYPE】: {beverage / sports / food / lifestyle}\n【DYNAMIC ELEMENT】: {liquid / bubbles / noodles / steam / dust / motion trail}\n【BRAND / PRODUCT】: {name}\n【BACKGROUND】: {color}\n【PALETTE】: {main colors}\n【TOP LEFT】: {date / drop / venue}\n【TOP RIGHT】: {3 short concept words}\n【BOTTOM LEFT】: {materials / features / details}\n【BOTTOM RIGHT】: {brand / product name}\n【FORMAT】: 9:16 vertical\n\nCreate a high-end campaign poster using vertical sliced typography.\n\nPlace 【MAIN WORD】 large at the center, occupying about 80–88% of the width. Keep it bold, clear and readable at thumbnail size.\n\nUse the entire word as a photographic mask. Embed one single continuous commercial photograph featuring 【SUBJECT】 and 【DYNAMIC ELEMENT】 across all letters.\n\nBuild the image around one clear subject, one strong visual anchor, and one dynamic element that carries motion through the word. The scene should feel alive, but still clean and controlled.\n\nKeep roughly the upper 45–50% of the letterforms readable. Extend selected lower strokes downward into 4–6 vertical sections with varied lengths, using them for secondary details such as liquid, steam, texture, reflections, shadows or environment.\n\nThe same photograph must continue naturally through every letter and slice. Motion lines, product shapes, limbs, tools, food, or dynamic elements should align correctly across the word.\n\nStrict clipping rule: all people, products, props, liquid, steam, dust and other photographic elements must stay completely inside the typography. Nothing should cross into the outer negative space.\n\nUse a clean 【BACKGROUND】 with generous negative space and 【PALETTE】 for the photography. Add a subtle soft shadow behind the typography, slightly offset to the lower right.\n\nArrange supporting information around the composition:\n\nTop left: 【TOP LEFT】\nTop right: 【TOP RIGHT】\nBottom left: 【BOTTOM LEFT】\nBottom right: 【BOTTOM RIGHT】\n\nUse small, precise modern sans-serif typography.\n\nThe final result should feel like a finished commercial campaign or editorial poster, not a template demo.\n\nAvoid different images inside each letter, broken subjects, excessive slices, barcode-like strips, elements crossing outside the type mask, random placeholder text, heavy 3D effects, watermarks, numbering, Vol., No., sparkle symbols or four-point stars.",
+      "copy_label": "Copy source prompt",
+      "content_note": "The saved template matches the public prompt after formatting normalization. The short user preface is preserved. Image-specific adaptations are not claimed.",
+      "attribution": "Larus Canus / @MrLarus",
+      "source_text_located": true
+    }
+  },
+  {
+    "current_source_id": "2096076711574097975",
+    "previous_public_record": {
+      "id": "2096077343638855915",
+      "title": "Projecting photo-filled typography",
+      "status": "Source prompt identified",
+      "url": "https://x.com/MrLarus/status/2096077343638855915",
+      "summary": "A continuous photographic scene spans a bold word and its extended lower strokes. Uneven vertical sections and a restrained shadow give the type a projecting, floating-paper effect. The LUMEN and TIDAL examples form a separate style from the ribbon collage.",
+      "candidate_files": [],
+      "evidence": "The source prompt reply is identified in its indexed thread. The user requested this as a separate type and supplied the LUMEN and TIDAL examples.",
+      "source_posts": [
+        "https://x.com/MrLarus/status/2096077343638855915"
+      ],
+      "sample_images": [
+        {
+          "preview": "assets/source-b5708b3d98db88034003.webp",
+          "caption": "User-supplied source example",
+          "basis": "User supplied image; inspected",
+          "sha256": "b5708b3d98db8803400392d0600c5d4e5d2c74ce5cfb9a0739e955bb1950e02a"
+        },
+        {
+          "preview": "assets/source-7e229ad8a88db92b758d.webp",
+          "caption": "User-supplied source example",
+          "basis": "User supplied image; inspected",
+          "sha256": "7e229ad8a88db92b758d6c39496e28bacd5460e25a5928d29b44464cba1f7725"
+        }
+      ],
+      "source_family": "Typography",
+      "copy_kind": "summary",
+      "copy_text": "A continuous photographic scene spans a bold word and its extended lower strokes. Uneven vertical sections and a restrained shadow give the type a projecting, floating-paper effect. The LUMEN and TIDAL examples form a separate style from the ribbon collage.",
+      "copy_label": "Copy summary",
+      "content_note": "Complete third-party source wording is readable at the linked source. Full-text reuse permission has not been verified, so this panel contains only a summary. ",
+      "new_source_style": true,
+      "public_url": "https://xn--ngbj1b7a.twstalker.com/MrLarus/status/2096076711574097975",
+      "attribution": "Larus Canus / @MrLarus",
+      "source_text_located": true,
+      "full_text_reuse_status": "not_verified"
+    }
+  }
+]

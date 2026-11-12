@@ -1,0 +1,2471 @@
+[
+  {
+    "entry_id": "2102756484475990402",
+    "image_id": "2102756404624826368",
+    "position": 1,
+    "source_post_id": "2102756484475990402",
+    "previous_url": "https://pbs.twimg.com/media/HS59zyLXIAAih0G.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2102756484475990402/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2102756484475990402",
+    "image_id": "2102756437105487872",
+    "position": 3,
+    "source_post_id": "2102756484475990402",
+    "previous_url": "https://pbs.twimg.com/media/HS591rLWsAA9PxX.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2102756484475990402/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097675015516758421",
+    "image_id": "2097635693908369408",
+    "position": 1,
+    "source_post_id": "2097675015516758421",
+    "previous_url": "https://pbs.twimg.com/media/HRxMjMOWoAAtR2I.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2097675015516758421/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRxMjMOWoAAtR2I.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "a48fba51df3ec10ab3e51c0a2bfbe2a317bce58dafa1a739021894adefc494da",
+    "bytes": 247185,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2097675015516758421-2097635693908369408.jpeg"
+  },
+  {
+    "entry_id": "2097675015516758421",
+    "image_id": "2097635713755807744",
+    "position": 2,
+    "source_post_id": "2097675015516758421",
+    "previous_url": "https://pbs.twimg.com/media/HRxMkWKWgAAajRu.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2097675015516758421/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HRxMkWKWgAAajRu.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "81fb22e7c9b4b2417c2e2867d03339381b317fbb927af5f82f03f31c32686290",
+    "bytes": 252264,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2097675015516758421-2097635713755807744.jpeg"
+  },
+  {
+    "entry_id": "2097675015516758421",
+    "image_id": "2097635730142924800",
+    "position": 3,
+    "source_post_id": "2097675015516758421",
+    "previous_url": "https://pbs.twimg.com/media/HRxMlTNWEAA9pI6.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2097675015516758421/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRxMlTNWEAA9pI6.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "790430ce99f7bf3f1fe7bb1aa4b95a1445e72eee603d3d504bc91514a47aff7e",
+    "bytes": 260709,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2097675015516758421-2097635730142924800.jpeg"
+  },
+  {
+    "entry_id": "2095150352253218909",
+    "image_id": "2095148739849785344",
+    "position": 4,
+    "source_post_id": "2095150352253218909",
+    "previous_url": "https://pbs.twimg.com/media/HRN2raZakAAFufI.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2095150352253218909/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2095085684033761495",
+    "image_id": "2095085626093600769",
+    "position": 1,
+    "source_post_id": "2095085684033761495",
+    "previous_url": "https://pbs.twimg.com/media/HRM9RtVWAAEdKBH.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2095085684033761495/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRM9RtVWAAEdKBH.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "4e024b4dd9b37cbb7268bac8e46654621daf97805b4c86ef4074f397a32e674f",
+    "bytes": 210689,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2095085684033761495-2095085626093600769.jpeg"
+  },
+  {
+    "entry_id": "2095085684033761495",
+    "image_id": "2095085643848110083",
+    "position": 2,
+    "source_post_id": "2095085684033761495",
+    "previous_url": "https://pbs.twimg.com/media/HRM9SveWUAMu0dA.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2095085684033761495/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094383161077563673",
+    "image_id": "2094382955955187712",
+    "position": 1,
+    "source_post_id": "2094383161077563673",
+    "previous_url": "https://pbs.twimg.com/media/HRC-M7FXcAAg2LT.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094383161077563673/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRC-M7FXcAAg2LT.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "7e9297d706d29a070aae89b03f7e9db397cda6bea3d480c72932c511ee0b2c9f",
+    "bytes": 248915,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2094383161077563673-2094382955955187712.jpeg"
+  },
+  {
+    "entry_id": "2094383161077563673",
+    "image_id": "2094382972556197888",
+    "position": 2,
+    "source_post_id": "2094383161077563673",
+    "previous_url": "https://pbs.twimg.com/media/HRC-N47WwAA9kOj.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094383161077563673/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HRC-N47WwAA9kOj.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "04d77c71e32b70b5c813fb02fe3f2ed5b17d80e6d7b5939b16a5780fed47d0d7",
+    "bytes": 253999,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2094383161077563673-2094382972556197888.jpeg"
+  },
+  {
+    "entry_id": "2094017781393928349",
+    "image_id": "2094017541685354497",
+    "position": 1,
+    "source_post_id": "2094017781393928349",
+    "previous_url": "https://pbs.twimg.com/media/HQ9x3A2XoAEpRG7.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094017781393928349/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094017781393928349",
+    "image_id": "2094017584802754561",
+    "position": 2,
+    "source_post_id": "2094017781393928349",
+    "previous_url": "https://pbs.twimg.com/media/HQ9x5heW8AE_7WT.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094017781393928349/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HQ9x5heW8AE_7WT.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "a5c2daf7267a5c0d31cded30e881887e683d12891388d7bfaa939533a74b5c7e",
+    "bytes": 274160,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2094017781393928349-2094017584802754561.jpeg"
+  },
+  {
+    "entry_id": "2090042212885098527",
+    "image_id": "2090041516110532608",
+    "position": 1,
+    "source_post_id": "2090042212885098527",
+    "previous_url": "https://pbs.twimg.com/media/HQFRr3WWUAA-jXR.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2090042212885098527/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HQFRr3WWUAA-jXR.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "f322b0b5ceb28f86a61a6be5f1751fc62fa97a22690a7b9353b08d32bb5e5d51",
+    "bytes": 302841,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2090042212885098527-2090041516110532608.jpeg"
+  },
+  {
+    "entry_id": "2090042212885098527",
+    "image_id": "2090041563619454976",
+    "position": 3,
+    "source_post_id": "2090042212885098527",
+    "previous_url": "https://pbs.twimg.com/media/HQFRuoVW8AA_cx-.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2090042212885098527/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HQFRuoVW8AA_cx-.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "a5dd8090c98d0611274360330bb0b788e99e159bf637d3f171e81a3870c7143b",
+    "bytes": 235419,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2090042212885098527-2090041563619454976.jpeg"
+  },
+  {
+    "entry_id": "2090042212885098527",
+    "image_id": "2090041570766589952",
+    "position": 4,
+    "source_post_id": "2090042212885098527",
+    "previous_url": "https://pbs.twimg.com/media/HQFRvC9XkAA4rIH.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2090042212885098527/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2087557559280378233",
+    "image_id": "2087557524346093568",
+    "position": 4,
+    "source_post_id": "2087557559280378233",
+    "previous_url": "https://pbs.twimg.com/media/HPh-gg7XwAAIdre.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2087557559280378233/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094008331195097443",
+    "image_id": "2094006683982852096",
+    "position": 4,
+    "source_post_id": "2094008331195097443",
+    "previous_url": "https://pbs.twimg.com/media/HQ9n_AwXcAAg_A9.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094008331195097443/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2082780660163305895",
+    "image_id": "2082780347406733312",
+    "position": 1,
+    "source_post_id": "2082780660163305895",
+    "previous_url": "https://pbs.twimg.com/media/HOeFsOBX0AAjPMC.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2082780660163305895/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HOeFsOBX0AAjPMC.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "b1bf2953b3033f42c1583bea641dd8a0c7f3cafac37ec98c2815466d9611586d",
+    "bytes": 260329,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2082780660163305895-2082780347406733312.jpeg"
+  },
+  {
+    "entry_id": "2082780660163305895",
+    "image_id": "2082780371117076480",
+    "position": 3,
+    "source_post_id": "2082780660163305895",
+    "previous_url": "https://pbs.twimg.com/media/HOeFtmWW8AAYNXi.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2082780660163305895/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HOeFtmWW8AAYNXi.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "fdc5540863f13581ac77e58d48017a10b1815f295496d42fbc6f807dafc584af",
+    "bytes": 288905,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2082780660163305895-2082780371117076480.jpeg"
+  },
+  {
+    "entry_id": "2082780660163305895",
+    "image_id": "2082780378599682048",
+    "position": 4,
+    "source_post_id": "2082780660163305895",
+    "previous_url": "https://pbs.twimg.com/media/HOeFuCOWcAAjDVY.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2082780660163305895/photo/4",
+    "retrieved_url": "https://pbs.twimg.com/media/HOeFuCOWcAAjDVY.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "e708c45dd05e288ef0c297d08567e8d1be2e83cd5276e8413d21aef7f5d8ed46",
+    "bytes": 311280,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2082780660163305895-2082780378599682048.jpeg"
+  },
+  {
+    "entry_id": "2084308726341648487",
+    "image_id": "2084308414751002624",
+    "position": 1,
+    "source_post_id": "2084308726341648487",
+    "previous_url": "https://pbs.twimg.com/media/HOzzdceXUAAz3C7.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2084308726341648487/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2084308726341648487",
+    "image_id": "2084308459076415488",
+    "position": 2,
+    "source_post_id": "2084308726341648487",
+    "previous_url": "https://pbs.twimg.com/media/HOzzgBmXcAAqo_6.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2084308726341648487/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HOzzgBmXcAAqo_6.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "9f9a407a76804db76512d60765d33ff0e509fadba406e2afbcfd64d92f5d6ec3",
+    "bytes": 144512,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2084308726341648487-2084308459076415488.jpeg"
+  },
+  {
+    "entry_id": "2084608375594357040",
+    "image_id": "2084608360033435648",
+    "position": 2,
+    "source_post_id": "2084608375594357040",
+    "previous_url": "https://pbs.twimg.com/media/HO4EQjuaQAA4tZO.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/ClickRihar/status/2084608375594357040/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HO4EQjuaQAA4tZO.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "f489505243ccc0d0524d99ce2022faca3158ca95904be3995ef26c4f0bfed0f3",
+    "bytes": 202379,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2084608375594357040-2084608360033435648.jpeg"
+  },
+  {
+    "entry_id": "2084608375594357040",
+    "image_id": "2084608368417898497",
+    "position": 3,
+    "source_post_id": "2084608375594357040",
+    "previous_url": "https://pbs.twimg.com/media/HO4ERC9bAAEmyH0.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/ClickRihar/status/2084608375594357040/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2101330066294599974",
+    "image_id": "2101327330324987904",
+    "position": 3,
+    "source_post_id": "2101330066294599974",
+    "previous_url": "https://pbs.twimg.com/media/HSlqEtjXQAAhyj9.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2101330066294599974",
+    "image_id": "2101327398436212736",
+    "position": 4,
+    "source_post_id": "2101330066294599974",
+    "previous_url": "https://pbs.twimg.com/media/HSlqIrSWEAAMc3h.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HSlqIrSWEAAMc3h.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "aca147547f65bf13397fe9bc8515f8f3bc1a0da85622a324c7e7bac3205f930f",
+    "bytes": 203884,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2101330066294599974-2101327398436212736.jpeg"
+  },
+  {
+    "entry_id": "2100950561524740281",
+    "image_id": "2100950278023315456",
+    "position": 1,
+    "source_post_id": "2100950561524740281",
+    "previous_url": "https://pbs.twimg.com/media/HSgTJYRWgAAiviC.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2100950561524740281",
+    "image_id": "2100950292841848832",
+    "position": 4,
+    "source_post_id": "2100950561524740281",
+    "previous_url": "https://pbs.twimg.com/media/HSgTKPeXYAACzlw.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HSgTKPeXYAACzlw.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "4792454ba05a7a75fc88f8ccbb5021db673422c2fc478bd671726a8159575a79",
+    "bytes": 276759,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2100950561524740281-2100950292841848832.jpeg"
+  },
+  {
+    "entry_id": "2099508089841959257",
+    "image_id": "2099507936594939904",
+    "position": 1,
+    "source_post_id": "2099508089841959257",
+    "previous_url": "https://pbs.twimg.com/media/HSLzWDva0AALBi4.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2099508089841959257",
+    "image_id": "2099507959164473344",
+    "position": 4,
+    "source_post_id": "2099508089841959257",
+    "previous_url": "https://pbs.twimg.com/media/HSLzXX0akAA1gM-.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2098980286390214808",
+    "image_id": "2098973301301448704",
+    "position": 1,
+    "source_post_id": "2098980286390214808",
+    "previous_url": "https://pbs.twimg.com/media/HSENGMEaEAAbPiO.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2098980286390214808",
+    "image_id": "2098973312835563520",
+    "position": 3,
+    "source_post_id": "2098980286390214808",
+    "previous_url": "https://pbs.twimg.com/media/HSENG3CWsAAXrrw.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2098980286390214808",
+    "image_id": "2098973319215403009",
+    "position": 4,
+    "source_post_id": "2098980286390214808",
+    "previous_url": "https://pbs.twimg.com/media/HSENHOzbUAEyPnV.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HSENHOzbUAEyPnV.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "512c5e1596341c31a2da5bdb1f65ad8808c38112949014218631ee696025d3b2",
+    "bytes": 245213,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2098980286390214808-2098973319215403009.jpeg"
+  },
+  {
+    "entry_id": "2098761960909160467",
+    "image_id": "2098761492833443840",
+    "position": 2,
+    "source_post_id": "2098761960909160467",
+    "previous_url": "https://pbs.twimg.com/media/HSBMdUCbIAANxE5.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HSBMdUCbIAANxE5.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "8f59ed34824bd15746fff795c3b8959c81d5a5b793718ac1cc8ee84f6f6283d8",
+    "bytes": 212703,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2098761960909160467-2098761492833443840.jpeg"
+  },
+  {
+    "entry_id": "2098761960909160467",
+    "image_id": "2098761501666594817",
+    "position": 3,
+    "source_post_id": "2098761960909160467",
+    "previous_url": "https://pbs.twimg.com/media/HSBMd08aUAEilIl.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2098761960909160467",
+    "image_id": "2098761511606910984",
+    "position": 4,
+    "source_post_id": "2098761960909160467",
+    "previous_url": "https://pbs.twimg.com/media/HSBMeZ-XgAgN7P2.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097548712524275810",
+    "image_id": "2097548304972500992",
+    "position": 4,
+    "source_post_id": "2097548712524275810",
+    "previous_url": "https://pbs.twimg.com/media/HRv9EfEb0AABv2j.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HRv9EfEb0AABv2j.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "c193e36abae0f6fc090b834ccf5ebefdbd5bd3b54fb5b29be07b9e09e7d4876d",
+    "bytes": 180785,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2097548712524275810-2097548304972500992.jpeg"
+  },
+  {
+    "entry_id": "2097334858469032434",
+    "image_id": "2097307720747724800",
+    "position": 4,
+    "source_post_id": "2097334858469032434",
+    "previous_url": "https://pbs.twimg.com/media/HRsiQo_aMAAopUs.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097306942024683597",
+    "image_id": "2097306857455161344",
+    "position": 1,
+    "source_post_id": "2097306942024683597",
+    "previous_url": "https://pbs.twimg.com/media/HRsheY-bEAAkhmU.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097306942024683597",
+    "image_id": "2097306879365951488",
+    "position": 2,
+    "source_post_id": "2097306942024683597",
+    "previous_url": "https://pbs.twimg.com/media/HRshfqmXMAAd1YC.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HRshfqmXMAAd1YC.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "16945b438374618587261992ff78f0af171e5b2779ed493ed21fbeb0dde2b1c2",
+    "bytes": 275369,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2097306942024683597-2097306879365951488.jpeg"
+  },
+  {
+    "entry_id": "2097306942024683597",
+    "image_id": "2097306897514909696",
+    "position": 3,
+    "source_post_id": "2097306942024683597",
+    "previous_url": "https://pbs.twimg.com/media/HRshguNaUAAYHgr.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097306942024683597",
+    "image_id": "2097306909984411648",
+    "position": 4,
+    "source_post_id": "2097306942024683597",
+    "previous_url": "https://pbs.twimg.com/media/HRshhcqX0AA_N6j.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097071096696623144",
+    "image_id": "2097070897836470272",
+    "position": 2,
+    "source_post_id": "2097071096696623144",
+    "previous_url": "https://pbs.twimg.com/media/HRpK3u5aMAA5q_1.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097071096696623144",
+    "image_id": "2097070904039858176",
+    "position": 3,
+    "source_post_id": "2097071096696623144",
+    "previous_url": "https://pbs.twimg.com/media/HRpK4GAaYAAMIid.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HRpK4GAaYAAMIid.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "2ac65c74af31b2801c232efc675e0e4ca5fed8b69624eebf0adac4350459074c",
+    "bytes": 179490,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2097071096696623144-2097070904039858176.jpeg"
+  },
+  {
+    "entry_id": "2096917259264340053",
+    "image_id": "2096917235033944066",
+    "position": 3,
+    "source_post_id": "2096917259264340053",
+    "previous_url": "https://pbs.twimg.com/media/HRm_HYWXsAIM9ZX.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096917259264340053/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRm_HYWXsAIM9ZX.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "0398e935210e0f166df05a4a8d57a865d973a100dd892c9b8383235f55a94413",
+    "bytes": 323996,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2096917259264340053-2096917235033944066.jpeg"
+  },
+  {
+    "entry_id": "2096917259264340053",
+    "image_id": "2096917248497639426",
+    "position": 4,
+    "source_post_id": "2096917259264340053",
+    "previous_url": "https://pbs.twimg.com/media/HRm_IKgXYAItKAh.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096917259264340053/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096910751675924914",
+    "image_id": "2096907808809594880",
+    "position": 3,
+    "source_post_id": "2096910751675924914",
+    "previous_url": "https://pbs.twimg.com/media/HRm2is7WsAA7xp3.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096910751675924914/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096910751675924914",
+    "image_id": "2096907818733633536",
+    "position": 4,
+    "source_post_id": "2096910751675924914",
+    "previous_url": "https://pbs.twimg.com/media/HRm2jR5bgAA3TVg.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096910751675924914/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096586084507357618",
+    "image_id": "2096586005990313984",
+    "position": 1,
+    "source_post_id": "2096586084507357618",
+    "previous_url": "https://pbs.twimg.com/media/HRiR3UAbkAAupZx.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096586084507357618/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRiR3UAbkAAupZx.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "3adbcdb33def63fc7b297d5178d12069fcd1bbc4d71a282bd0f44c4448aa1653",
+    "bytes": 353232,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2096586084507357618-2096586005990313984.jpeg"
+  },
+  {
+    "entry_id": "2096586084507357618",
+    "image_id": "2096586013913067527",
+    "position": 2,
+    "source_post_id": "2096586084507357618",
+    "previous_url": "https://pbs.twimg.com/media/HRiR3xhXMAcoGDi.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096586084507357618/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HRiR3xhXMAcoGDi.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "cd32fa19721b179e96d1eace64a39e6d1a112556b9191ef52027ac7daa2f472c",
+    "bytes": 297715,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2096586084507357618-2096586013913067527.jpeg"
+  },
+  {
+    "entry_id": "2096586084507357618",
+    "image_id": "2096586027653808128",
+    "position": 3,
+    "source_post_id": "2096586084507357618",
+    "previous_url": "https://pbs.twimg.com/media/HRiR4ktaQAAFnBl.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096586084507357618/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096207481353425049",
+    "image_id": "2096187587152986113",
+    "position": 2,
+    "source_post_id": "2096207481353425049",
+    "previous_url": "https://pbs.twimg.com/media/HRcngSLWQAEhUfJ.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096207481353425049/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096207481353425049",
+    "image_id": "2096187602181181441",
+    "position": 3,
+    "source_post_id": "2096207481353425049",
+    "previous_url": "https://pbs.twimg.com/media/HRcnhKKWUAEihKP.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096207481353425049/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRcnhKKWUAEihKP.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "3a351b053e54f0941c557c008bee84a53cc278f60704aae40f3fa8727b1ddd5f",
+    "bytes": 295002,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2096207481353425049-2096187602181181441.jpeg"
+  },
+  {
+    "entry_id": "2096207481353425049",
+    "image_id": "2096187613216653312",
+    "position": 4,
+    "source_post_id": "2096207481353425049",
+    "previous_url": "https://pbs.twimg.com/media/HRcnhzRaQAAT58w.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2096207481353425049/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094306922744742150",
+    "image_id": "2094306864615800832",
+    "position": 1,
+    "source_post_id": "2094306922744742150",
+    "previous_url": "https://pbs.twimg.com/media/HRB4_0wWQAA__Xm.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094306922744742150/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRB4_0wWQAA__Xm.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "9354ca56a7d9a4d51b58c079ec100c2750e68113b8d3d2c53b6983f090926441",
+    "bytes": 272398,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2094306922744742150-2094306864615800832.jpeg"
+  },
+  {
+    "entry_id": "2094306922744742150",
+    "image_id": "2094306871175790592",
+    "position": 2,
+    "source_post_id": "2094306922744742150",
+    "previous_url": "https://pbs.twimg.com/media/HRB5ANMXwAAfuda.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094306922744742150/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094306922744742150",
+    "image_id": "2094306895448182784",
+    "position": 3,
+    "source_post_id": "2094306922744742150",
+    "previous_url": "https://pbs.twimg.com/media/HRB5BnnXEAA9SGh.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094306922744742150/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRB5BnnXEAA9SGh.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "e84a0842ba11313b80d2a08515f97aec39408a8f829b965f685fbe710db1e822",
+    "bytes": 241785,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2094306922744742150-2094306895448182784.jpeg"
+  },
+  {
+    "entry_id": "2094306922744742150",
+    "image_id": "2094306905598431232",
+    "position": 4,
+    "source_post_id": "2094306922744742150",
+    "previous_url": "https://pbs.twimg.com/media/HRB5CNbXkAAnVxO.jpg?name=orig",
+    "previous_dimensions": [
+      1024,
+      1536
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094306922744742150/photo/4",
+    "retrieved_url": "https://pbs.twimg.com/media/HRB5CNbXkAAnVxO.jpg?name=orig",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "recovered",
+    "sha256": "a71c12941114dd7f8540da81c5bf2e4f254f9deea71ab31d0803dcaa011bd3b9",
+    "bytes": 298143,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2094306922744742150-2094306905598431232.jpeg"
+  },
+  {
+    "entry_id": "2094071843850223978",
+    "image_id": "2094071810702614528",
+    "position": 1,
+    "source_post_id": "2094071843850223978",
+    "previous_url": "https://pbs.twimg.com/media/HQ-jN4sWoAA65gK.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094071843850223978/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094071843850223978",
+    "image_id": "2094071815114993664",
+    "position": 2,
+    "source_post_id": "2094071843850223978",
+    "previous_url": "https://pbs.twimg.com/media/HQ-jOJIWMAAX_I1.jpg?name=orig",
+    "previous_dimensions": [
+      1023,
+      1537
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2094071843850223978/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2084994767985770980",
+    "image_id": "2084993437946859520",
+    "position": 1,
+    "source_post_id": "2084994767985770980",
+    "previous_url": "https://pbs.twimg.com/media/HO9ifCvX0AAog89.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2084994767985770980/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HO9ifCvX0AAog89.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "e85dd58c8e1f983d13f606c571dfef3df9d33bf4651dc3296271c0fa5adb59e6",
+    "bytes": 256779,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2084994767985770980-2084993437946859520.jpeg"
+  },
+  {
+    "entry_id": "2084994767985770980",
+    "image_id": "2084993557371228160",
+    "position": 4,
+    "source_post_id": "2084994767985770980",
+    "previous_url": "https://pbs.twimg.com/media/HO9il_oXEAA4gJ8.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2084994767985770980/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119426684848107773",
+    "image_id": "2119426684848107773-1",
+    "position": 1,
+    "source_post_id": "2119426684848107773",
+    "previous_url": "https://pbs.twimg.com/media/HWm3I_WacAAW8fV?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119426684848107773/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119426684848107773",
+    "image_id": "2119426684848107773-2",
+    "position": 2,
+    "source_post_id": "2119426684848107773",
+    "previous_url": "https://pbs.twimg.com/media/HWm3I_ZbgAEttdC?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119426684848107773/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HWm3I_ZbgAEttdC?format=webp&name=large",
+    "dimensions": [
+      941,
+      1670
+    ],
+    "status": "upgraded",
+    "sha256": "ffb887d8850e016b5823f02d553d042591e6d12c3684fbd462df03656314c8f4",
+    "bytes": 162472,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.042,
+      0.8561,
+      1.4778
+    ],
+    "asset_path": "assets/recovered-20261111/2119426684848107773-2119426684848107773-2.webp"
+  },
+  {
+    "entry_id": "2119426684848107773",
+    "image_id": "2119426684848107773-3",
+    "position": 3,
+    "source_post_id": "2119426684848107773",
+    "previous_url": "https://pbs.twimg.com/media/HWm3KLlacAAhJQ6?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119426684848107773/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119426684848107773",
+    "image_id": "2119426684848107773-4",
+    "position": 4,
+    "source_post_id": "2119426684848107773",
+    "previous_url": "https://pbs.twimg.com/media/HWm3LDNbIAA3pwf?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119426684848107773/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119088172433109353",
+    "image_id": "2119088172433109353-1",
+    "position": 1,
+    "source_post_id": "2119088172433109353",
+    "previous_url": "https://pbs.twimg.com/media/HWiDZwFakAEmK99?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119088172433109353/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HWiDZwFakAEmK99?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "sha256": "57788d4e12612d68d6eb87ca14382b17d850b48115340bbedfc14fe788b0915f",
+    "bytes": 136444,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      0.8407,
+      0.6522,
+      0.9946
+    ],
+    "asset_path": "assets/recovered-20261111/2119088172433109353-2119088172433109353-1.webp"
+  },
+  {
+    "entry_id": "2119088172433109353",
+    "image_id": "2119088172433109353-2",
+    "position": 2,
+    "source_post_id": "2119088172433109353",
+    "previous_url": "https://pbs.twimg.com/media/HWiDbhsbIAEOQtA?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119088172433109353/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119088172433109353",
+    "image_id": "2119088172433109353-3",
+    "position": 3,
+    "source_post_id": "2119088172433109353",
+    "previous_url": "https://pbs.twimg.com/media/HWiDcQ_bwAA0vM4?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119088172433109353/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119088172433109353",
+    "image_id": "2119088172433109353-4",
+    "position": 4,
+    "source_post_id": "2119088172433109353",
+    "previous_url": "https://pbs.twimg.com/media/HWiDc2uakAApZwR?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119088172433109353/photo/4",
+    "retrieved_url": "https://pbs.twimg.com/media/HWiDc2uakAApZwR?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "sha256": "8b5eefdc813e4593cf5c6b024e3b0d0e1103911a5525673155e1d62e42404415",
+    "bytes": 205954,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.1427,
+      0.9712,
+      1.5641
+    ],
+    "asset_path": "assets/recovered-20261111/2119088172433109353-2119088172433109353-4.webp"
+  },
+  {
+    "entry_id": "2097560271011164610",
+    "image_id": "2097560271011164610-1",
+    "position": 1,
+    "source_post_id": "2097560271011164610",
+    "previous_url": "https://pbs.twimg.com/media/HRv-LmjawAAoVN2?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2097560271011164610/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRv-LmjawAAoVN2?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HRv-LmjawAAoVN2?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "41338ce177c8b9b7ab850a28eee3b651f2f246e47f2ea1f78c817b18b197309a",
+    "bytes": 207202,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.3647,
+      1.2219,
+      1.4114
+    ],
+    "asset_path": "assets/recovered-20261111/2097560271011164610-2097560271011164610-1.webp"
+  },
+  {
+    "entry_id": "2097560271011164610",
+    "image_id": "2097560271011164610-2",
+    "position": 2,
+    "source_post_id": "2097560271011164610",
+    "previous_url": "https://pbs.twimg.com/media/HRv_H33XYAAuA9B?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2097560271011164610/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HRv_H33XYAAuA9B?format=webp&name=small",
+    "dimensions": [
+      383,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HRv_H33XYAAuA9B?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2097560271011164610",
+    "image_id": "2097560271011164610-3",
+    "position": 3,
+    "source_post_id": "2097560271011164610",
+    "previous_url": "https://pbs.twimg.com/media/HRv_JE6boAAwfko?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2097560271011164610/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096096945580155113",
+    "image_id": "2096096945580155113-1",
+    "position": 1,
+    "source_post_id": "2096096945580155113",
+    "previous_url": "https://pbs.twimg.com/media/HRbDjiSWAAEVd5w?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096096945580155113/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096096945580155113",
+    "image_id": "2096096945580155113-2",
+    "position": 2,
+    "source_post_id": "2096096945580155113",
+    "previous_url": "https://pbs.twimg.com/media/HRbDnPxbsAA64VY?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096096945580155113/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096096945580155113",
+    "image_id": "2096096945580155113-3",
+    "position": 3,
+    "source_post_id": "2096096945580155113",
+    "previous_url": "https://pbs.twimg.com/media/HRbDomebAAAgQfl?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096096945580155113/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRbDomebAAAgQfl?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HRbDomebAAAgQfl?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "e3b77bf972d1169425b109cd1f1629e42974d90b61deca75941e3c1307375858",
+    "bytes": 86658,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.2935,
+      1.1351,
+      1.3273
+    ],
+    "asset_path": "assets/recovered-20261111/2096096945580155113-2096096945580155113-3.webp"
+  },
+  {
+    "entry_id": "2096096945580155113",
+    "image_id": "2096096945580155113-4",
+    "position": 4,
+    "source_post_id": "2096096945580155113",
+    "previous_url": "https://pbs.twimg.com/media/HRbDrMcaEAA9_5F?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096096945580155113/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096076711574097975",
+    "image_id": "2096076711574097975-1",
+    "position": 1,
+    "source_post_id": "2096076711574097975",
+    "previous_url": "https://pbs.twimg.com/media/HRbCHkubUAA4xQr?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096076711574097975/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRbCHkubUAA4xQr?format=webp&name=small",
+    "dimensions": [
+      383,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HRbCHkubUAA4xQr?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096076711574097975",
+    "image_id": "2096076711574097975-2",
+    "position": 2,
+    "source_post_id": "2096076711574097975",
+    "previous_url": "https://pbs.twimg.com/media/HRbCgnQbcAENtAX?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096076711574097975/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096076711574097975",
+    "image_id": "2096076711574097975-3",
+    "position": 3,
+    "source_post_id": "2096076711574097975",
+    "previous_url": "https://pbs.twimg.com/media/HRbCl6QXAAEcd5A?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096076711574097975/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2096076711574097975",
+    "image_id": "2096076711574097975-4",
+    "position": 4,
+    "source_post_id": "2096076711574097975",
+    "previous_url": "https://pbs.twimg.com/media/HRbCmfzWQAAX_Hq?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2096076711574097975/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2095872766188654917",
+    "image_id": "2095872766188654917-1",
+    "position": 1,
+    "source_post_id": "2095872766188654917",
+    "previous_url": "https://pbs.twimg.com/media/HRYIL0pa8AAvJsy?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2095872766188654917/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2095872766188654917",
+    "image_id": "2095872766188654917-2",
+    "position": 2,
+    "source_post_id": "2095872766188654917",
+    "previous_url": "https://pbs.twimg.com/media/HRYIT0oa8AAmzN4?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2095872766188654917/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HRYIT0oa8AAmzN4?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HRYIT0oa8AAmzN4?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "cf37f148ae53dc3e6a648d1595ace023ef643da88a78554285a6feb5300bd63f",
+    "bytes": 195328,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.938,
+      1.7569,
+      1.9092
+    ],
+    "asset_path": "assets/recovered-20261111/2095872766188654917-2095872766188654917-2.webp"
+  },
+  {
+    "entry_id": "2095872766188654917",
+    "image_id": "2095872766188654917-3",
+    "position": 3,
+    "source_post_id": "2095872766188654917",
+    "previous_url": "https://pbs.twimg.com/media/HRYITz9bkAAyW-m?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2095872766188654917/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRYITz9bkAAyW-m?format=webp&name=small",
+    "dimensions": [
+      383,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HRYITz9bkAAyW-m?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2095872766188654917",
+    "image_id": "2095872766188654917-4",
+    "position": 4,
+    "source_post_id": "2095872766188654917",
+    "previous_url": "https://pbs.twimg.com/media/HRYIcNXbcAAezV-?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2095872766188654917/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094444007623450779",
+    "image_id": "2094444007623450779-1",
+    "position": 1,
+    "source_post_id": "2094444007623450779",
+    "previous_url": "https://pbs.twimg.com/media/HRD1tacWYAA7OWU?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2094444007623450779/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HRD1tacWYAA7OWU?format=webp&name=small",
+    "dimensions": [
+      383,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HRD1tacWYAA7OWU?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094444007623450779",
+    "image_id": "2094444007623450779-2",
+    "position": 2,
+    "source_post_id": "2094444007623450779",
+    "previous_url": "https://pbs.twimg.com/media/HRD1tamXMAEzpO3?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2094444007623450779/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2094444007623450779",
+    "image_id": "2094444007623450779-3",
+    "position": 3,
+    "source_post_id": "2094444007623450779",
+    "previous_url": "https://pbs.twimg.com/media/HRD1trVWUAA8dCy?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2094444007623450779/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HRD1trVWUAA8dCy?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HRD1trVWUAA8dCy?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "ca87e5be68ce74604b1d9ec953981d1cd65e3094512e95e7f6152636869760a0",
+    "bytes": 235130,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.3574,
+      1.1905,
+      1.6901
+    ],
+    "asset_path": "assets/recovered-20261111/2094444007623450779-2094444007623450779-3.webp"
+  },
+  {
+    "entry_id": "2091118744362004555",
+    "image_id": "2091118744362004555-1",
+    "position": 1,
+    "source_post_id": "2091118744362004555",
+    "previous_url": "https://pbs.twimg.com/media/HQUlUC1aEAA9LGf?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2091118744362004555/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2091118744362004555",
+    "image_id": "2091118744362004555-2",
+    "position": 2,
+    "source_post_id": "2091118744362004555",
+    "previous_url": "https://pbs.twimg.com/media/HQUlU6lbsAAmEUX?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2091118744362004555/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2091118744362004555",
+    "image_id": "2091118744362004555-3",
+    "position": 3,
+    "source_post_id": "2091118744362004555",
+    "previous_url": "https://pbs.twimg.com/media/HQUlVVGbgAA3Jf1?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2091118744362004555/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2090066451851874405",
+    "image_id": "2090066451851874405-1",
+    "position": 1,
+    "source_post_id": "2090066451851874405",
+    "previous_url": "https://pbs.twimg.com/media/HQFoVXpWAAAmSyN?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2090066451851874405/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HQFoVXpWAAAmSyN?format=webp&name=small",
+    "dimensions": [
+      383,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HQFoVXpWAAAmSyN?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2090066451851874405",
+    "image_id": "2090066451851874405-2",
+    "position": 2,
+    "source_post_id": "2090066451851874405",
+    "previous_url": "https://pbs.twimg.com/media/HQFoVXVXwAAHq9k?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2090066451851874405/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HQFoVXVXwAAHq9k?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HQFoVXVXwAAHq9k?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "393be999abb859e7246404b706fac024a105bff2993288e4ebe0ca088a2a4e08",
+    "bytes": 137370,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      0.7321,
+      0.677,
+      0.7813
+    ],
+    "asset_path": "assets/recovered-20261111/2090066451851874405-2090066451851874405-2.webp"
+  },
+  {
+    "entry_id": "2090066451851874405",
+    "image_id": "2090066451851874405-3",
+    "position": 3,
+    "source_post_id": "2090066451851874405",
+    "previous_url": "https://pbs.twimg.com/media/HQFoV0qWsAEFHPx?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2090066451851874405/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2120192333148987761",
+    "image_id": "2120192333148987761-1",
+    "position": 1,
+    "source_post_id": "2120192333148987761",
+    "previous_url": "https://pbs.twimg.com/media/HWxsQxObUAAN1C6?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120192333148987761/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2120192333148987761",
+    "image_id": "2120192333148987761-2",
+    "position": 2,
+    "source_post_id": "2120192333148987761",
+    "previous_url": "https://pbs.twimg.com/media/HWxsQwQacAATuNQ?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120192333148987761/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2120192333148987761",
+    "image_id": "2120192333148987761-3",
+    "position": 3,
+    "source_post_id": "2120192333148987761",
+    "previous_url": "https://pbs.twimg.com/media/HWxsQ7Ja8AAuJ-b?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120192333148987761/photo/3",
+    "retrieved_url": "https://pbs.twimg.com/media/HWxsQ7Ja8AAuJ-b?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HWxsQ7Ja8AAuJ-b?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "422154335ec8ed79a1d6fe4ddc187a42c83f6a3455aeddab87225d00a8dc9167",
+    "bytes": 152000,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.1415,
+      0.8548,
+      1.1082
+    ],
+    "asset_path": "assets/recovered-20261111/2120192333148987761-2120192333148987761-3.webp"
+  },
+  {
+    "entry_id": "2120183974912036870",
+    "image_id": "2120183974912036870-1",
+    "position": 1,
+    "source_post_id": "2120183974912036870",
+    "previous_url": "https://pbs.twimg.com/media/HWxncpkaMAAilRV?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120183974912036870/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HWxncpkaMAAilRV?format=webp&name=small",
+    "dimensions": [
+      383,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HWxncpkaMAAilRV?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2120183974912036870",
+    "image_id": "2120183974912036870-2",
+    "position": 2,
+    "source_post_id": "2120183974912036870",
+    "previous_url": "https://pbs.twimg.com/media/HWxngMwbkAAI3uH?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120183974912036870/photo/2",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2120183974912036870",
+    "image_id": "2120183974912036870-3",
+    "position": 3,
+    "source_post_id": "2120183974912036870",
+    "previous_url": "https://pbs.twimg.com/media/HWxnh1iaAAAm6YH?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120183974912036870/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2120183974912036870",
+    "image_id": "2120183974912036870-4",
+    "position": 4,
+    "source_post_id": "2120183974912036870",
+    "previous_url": "https://pbs.twimg.com/media/HWxnjTTacAAoggV?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2120183974912036870/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119822756347036091",
+    "image_id": "2119822756347036091-1",
+    "position": 1,
+    "source_post_id": "2119822756347036091",
+    "previous_url": "https://pbs.twimg.com/media/HWsfKioaoAAMbYp?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119822756347036091/photo/1",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119822756347036091",
+    "image_id": "2119822756347036091-2",
+    "position": 2,
+    "source_post_id": "2119822756347036091",
+    "previous_url": "https://pbs.twimg.com/media/HWsfKinbwAAPsQ0?format=webp&name=small",
+    "previous_dimensions": [
+      384,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119822756347036091/photo/2",
+    "retrieved_url": "https://pbs.twimg.com/media/HWsfKinbwAAPsQ0?format=webp&name=small",
+    "dimensions": [
+      384,
+      680
+    ],
+    "status": "no_resolution_improvement",
+    "upgrade_url": "https://pbs.twimg.com/media/HWsfKinbwAAPsQ0?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "upgrade_outcome": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119822756347036091",
+    "image_id": "2119822756347036091-3",
+    "position": 3,
+    "source_post_id": "2119822756347036091",
+    "previous_url": "https://pbs.twimg.com/media/HWsfK63bAAAw7_L?format=webp&name=small",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119822756347036091/photo/3",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2119822756347036091",
+    "image_id": "2119822756347036091-4",
+    "position": 4,
+    "source_post_id": "2119822756347036091",
+    "previous_url": "https://pbs.twimg.com/media/HWsfUh7aoAALYgk?format=webp&name=small",
+    "previous_dimensions": [
+      384,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2119822756347036091/photo/4",
+    "retrieved_url": "https://pbs.twimg.com/media/HWsfUh7aoAALYgk?format=webp&name=large",
+    "dimensions": [
+      942,
+      1670
+    ],
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HWsfUh7aoAALYgk?format=webp&name=large",
+    "upgrade_url_evidence": "Owner-retained local source record",
+    "sha256": "0b27ad45e1a5bd4713866a84c0885bae3a1feb6f6db7d2f8168d607e6cb1d959",
+    "bytes": 248640,
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.2619,
+      0.6671,
+      1.6258
+    ],
+    "asset_path": "assets/recovered-20261111/2119822756347036091-2119822756347036091-4.webp"
+  },
+  {
+    "entry_id": "2090320559389192446",
+    "image_id": "2090320496034516992",
+    "position": 1,
+    "source_post_id": "2090320559389192446",
+    "previous_url": "https://pbs.twimg.com/media/HQJPaojbEAAFfYC.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2090320559389192446",
+    "image_id": "2090320533988704256",
+    "position": 3,
+    "source_post_id": "2090320559389192446",
+    "previous_url": "https://pbs.twimg.com/media/HQJPc18aAAAxaCS.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2092312043684573376",
+    "image_id": "2092311995907256320",
+    "position": 2,
+    "source_post_id": "2092312043684573376",
+    "previous_url": "https://pbs.twimg.com/media/HQlirLtXMAApFek.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HQlirLtXMAApFek.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "19930d99e2e89cfcb63cfeeda29168fd98e9f1e2a226dfea7af63e4ad6a2c7ff",
+    "bytes": 229417,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2092312043684573376-2092311995907256320.jpeg"
+  },
+  {
+    "entry_id": "2092312043684573376",
+    "image_id": "2092312014466981889",
+    "position": 3,
+    "source_post_id": "2092312043684573376",
+    "previous_url": "https://pbs.twimg.com/media/HQlisQ2WIAEYGoZ.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HQlisQ2WIAEYGoZ.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "9f18188582eadf5ea722f68d90288ae15b411dd3a7075af6b66e094a1cf1b7d8",
+    "bytes": 168210,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2092312043684573376-2092312014466981889.jpeg"
+  },
+  {
+    "entry_id": "2092312043684573376",
+    "image_id": "2092312028836687872",
+    "position": 4,
+    "source_post_id": "2092312043684573376",
+    "previous_url": "https://pbs.twimg.com/media/HQlitGYWcAA4zOC.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2091421018342465988",
+    "image_id": "2091419894910754816",
+    "position": 1,
+    "source_post_id": "2091421018342465988",
+    "previous_url": "https://pbs.twimg.com/media/HQY3UEhXIAAdcxS.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HQY3UEhXIAAdcxS.jpg?name=orig",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "recovered",
+    "sha256": "65d5fa51d90c420bfcd2b9ff1db454165c84a6297feafb60515208a7596dd9d7",
+    "bytes": 224640,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2091421018342465988-2091419894910754816.jpeg"
+  },
+  {
+    "entry_id": "2091421018342465988",
+    "image_id": "2091419895032418304",
+    "position": 2,
+    "source_post_id": "2091421018342465988",
+    "previous_url": "https://pbs.twimg.com/media/HQY3UE-XkAADWM3.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2091421018342465988",
+    "image_id": "2091419912908464128",
+    "position": 4,
+    "source_post_id": "2091421018342465988",
+    "previous_url": "https://pbs.twimg.com/media/HQY3VHkWYAAF9jY.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2113510238846672945",
+    "image_id": "2113510200028405761",
+    "position": 1,
+    "source_post_id": "2113510238846672945",
+    "previous_url": "https://pbs.twimg.com/media/HVSyVD3boAEpWAq.jpg?name=orig",
+    "previous_dimensions": [
+      1312,
+      1199
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2113510238846672945",
+    "image_id": "2113510209855619073",
+    "position": 2,
+    "source_post_id": "2113510238846672945",
+    "previous_url": "https://pbs.twimg.com/media/HVSyVoebAAEIIV6.jpg?name=orig",
+    "previous_dimensions": [
+      1312,
+      1199
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HVSyVoebAAEIIV6.jpg?name=orig",
+    "dimensions": [
+      1312,
+      1199
+    ],
+    "status": "recovered",
+    "sha256": "471ca07b25f9eb3251e2fbf4e036d4afb0c54c9dd7f7d69613dbf37ccc1ab607",
+    "bytes": 308608,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2113510238846672945-2113510209855619073.jpeg"
+  },
+  {
+    "entry_id": "2054078929430819107",
+    "image_id": "2054078830365622273",
+    "position": 1,
+    "source_post_id": "2054078929430819107",
+    "previous_url": "https://pbs.twimg.com/media/HIGN0DCXwAErSPs.jpg?name=orig",
+    "previous_dimensions": [
+      1448,
+      2244
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2054078929430819107/photo/1",
+    "retrieved_url": "https://pbs.twimg.com/media/HIGN0DCXwAErSPs.jpg?name=orig",
+    "dimensions": [
+      1448,
+      2244
+    ],
+    "status": "recovered",
+    "sha256": "fb9d90e4056e49e921ed66bcfcd5f096cb966904ca2af95a8e0b28965f636b24",
+    "bytes": 644778,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "asset_path": "assets/recovered-20261111/2054078929430819107-2054078830365622273.jpeg"
+  },
+  {
+    "entry_id": "2054078929430819107",
+    "image_id": "2054078879971577856",
+    "position": 4,
+    "source_post_id": "2054078929430819107",
+    "previous_url": "https://pbs.twimg.com/media/HIGN271WkAAwbdo.jpg?name=orig",
+    "previous_dimensions": [
+      1448,
+      2244
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": "https://x.com/MrLarus/status/2054078929430819107/photo/4",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2091186961684033628",
+    "image_id": "2091186928280633344",
+    "position": 1,
+    "source_post_id": "2091186961684033628",
+    "previous_url": "https://pbs.twimg.com/media/HQVjboMbgAAQ8TX.jpg?name=orig",
+    "previous_dimensions": [
+      941,
+      1672
+    ],
+    "purpose": "recover_missing",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2110093836219527170",
+    "image_id": "2110093836219527170-1",
+    "position": 1,
+    "source_post_id": "2110093836219527170",
+    "previous_url": null,
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2110093836219527170/photo/1",
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HUiOh4ba8AANWth?format=webp&name=large",
+    "upgrade_url_evidence": "https://x.com/MrLarus/status/2110093836219527170",
+    "visual_match_mean_pixel_difference": [
+      1.1652,
+      1.1302,
+      1.3925
+    ],
+    "sha256": "1ac4785b6b8439b2e0e91fa88bdf6dd1edfddf33eb194545ff5a5276bffde126",
+    "bytes": 193498,
+    "dimensions": [
+      941,
+      1672
+    ],
+    "retrieved_url": "https://pbs.twimg.com/media/HUiOh4ba8AANWth?format=webp&name=large",
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "asset_path": "assets/recovered-20261111/2110093836219527170-2110093836219527170-1.webp"
+  },
+  {
+    "entry_id": "2110093836219527170",
+    "image_id": "2110093836219527170-2",
+    "position": 2,
+    "source_post_id": "2110093836219527170",
+    "previous_url": null,
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2110093836219527170/photo/2",
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HUiOiZsbMAEmSuV?format=webp&name=large",
+    "upgrade_url_evidence": "https://x.com/MrLarus/status/2110093836219527170",
+    "visual_match_mean_pixel_difference": [
+      1.1059,
+      1.0131,
+      1.2894
+    ],
+    "sha256": "611c24b03e2c3ccc029be3e3aab8d47b23aadee822a3687715ddd0823624a890",
+    "bytes": 163400,
+    "dimensions": [
+      941,
+      1672
+    ],
+    "retrieved_url": "https://pbs.twimg.com/media/HUiOiZsbMAEmSuV?format=webp&name=large",
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "asset_path": "assets/recovered-20261111/2110093836219527170-2110093836219527170-2.webp"
+  },
+  {
+    "entry_id": "2110093836219527170",
+    "image_id": "2110093836219527170-3",
+    "position": 3,
+    "source_post_id": "2110093836219527170",
+    "previous_url": null,
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": "https://x.com/MrLarus/status/2110093836219527170/photo/3",
+    "status": "upgraded",
+    "upgrade_url": "https://pbs.twimg.com/media/HUiOi6AbUAAFNzb?format=webp&name=large",
+    "upgrade_url_evidence": "https://x.com/MrLarus/status/2110093836219527170",
+    "visual_match_mean_pixel_difference": [
+      1.109,
+      1.0543,
+      1.2713
+    ],
+    "sha256": "c75a8dc0388c1da64692d55da1ad0d9651db800ba71dfd359cb3aa4825956c02",
+    "bytes": 188522,
+    "dimensions": [
+      941,
+      1672
+    ],
+    "retrieved_url": "https://pbs.twimg.com/media/HUiOi6AbUAAFNzb?format=webp&name=large",
+    "quality": "Larger official rendition observed in original source-page img src; creator maximum resolution unverified",
+    "asset_path": "assets/recovered-20261111/2110093836219527170-2110093836219527170-3.webp"
+  },
+  {
+    "entry_id": "2110685525384552502",
+    "image_id": "2110685525384552502-1",
+    "position": 1,
+    "source_post_id": "2110685525384552502",
+    "previous_url": "https://pbs.twimg.com/media/HUqpLwNacAAV02f?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2110685525384552502",
+    "image_id": "2110685525384552502-2",
+    "position": 2,
+    "source_post_id": "2110685525384552502",
+    "previous_url": "https://pbs.twimg.com/media/HUqpNY4bUAEGyKY?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HUqpNY4bUAEGyKY?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "sha256": "da5ced71f777c9f3a2d2131e7cebb0c93375be91df1e9f381cbea4bc99fb266d",
+    "bytes": 411714,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.1541,
+      1.0053,
+      1.2825
+    ],
+    "asset_path": "assets/recovered-20261111/2110685525384552502-2110685525384552502-2.webp"
+  },
+  {
+    "entry_id": "2110685525384552502",
+    "image_id": "2110685525384552502-3",
+    "position": 3,
+    "source_post_id": "2110685525384552502",
+    "previous_url": "https://pbs.twimg.com/media/HUqpPp6agAAlgeV?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HUqpPp6agAAlgeV?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "sha256": "d3449fddab94d0956ea178f49c99018a43ee98040612888ba21e63690d5fcd5a",
+    "bytes": 501620,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      0.9649,
+      0.8355,
+      1.2104
+    ],
+    "asset_path": "assets/recovered-20261111/2110685525384552502-2110685525384552502-3.webp"
+  },
+  {
+    "entry_id": "2110685525384552502",
+    "image_id": "2110685525384552502-4",
+    "position": 4,
+    "source_post_id": "2110685525384552502",
+    "previous_url": "https://pbs.twimg.com/media/HUqpQDLaAAELps7?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2110735138430824892",
+    "image_id": "2110735138430824892-1",
+    "position": 1,
+    "source_post_id": "2110735138430824892",
+    "previous_url": "https://pbs.twimg.com/media/HUrWZRzbEAAobIq?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2110735138430824892",
+    "image_id": "2110735138430824892-2",
+    "position": 2,
+    "source_post_id": "2110735138430824892",
+    "previous_url": "https://pbs.twimg.com/media/HUrWZR5bkAAYGoD?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "entry_id": "2110735138430824892",
+    "image_id": "2110735138430824892-3",
+    "position": 3,
+    "source_post_id": "2110735138430824892",
+    "previous_url": "https://pbs.twimg.com/media/HUrWZpxbsAE_c5R?format=webp&name=large",
+    "previous_dimensions": [
+      383,
+      680
+    ],
+    "purpose": "upgrade_resolution",
+    "source_photo_url": null,
+    "retrieved_url": "https://pbs.twimg.com/media/HUrWZpxbsAE_c5R?format=webp&name=large",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "status": "upgraded",
+    "sha256": "bf1b944722d9df2d14f559999e474f6bad8b7678c21626d976b02a181987a223",
+    "bytes": 492740,
+    "quality": "Direct media rendition at recorded source URL; maximum creator resolution unverified",
+    "visual_match_mean_pixel_difference": [
+      1.0515,
+      0.9317,
+      1.2536
+    ],
+    "asset_path": "assets/recovered-20261111/2110735138430824892-2110735138430824892-3.webp"
+  }
+]
