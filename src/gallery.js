@@ -320,7 +320,7 @@ function showTemplate(t) {
   $("detail").classList.remove("hidden");
   document.title = t.title + " · JML Source Templates";
   $("detail").innerHTML =
-    '<div class="detail-header"><button class="back" id="back">← Back to archive</button><div class="breadcrumb">' +
+    '<div class="detail-header"><button class="back" id="back">← Back to gallery</button><div class="breadcrumb">' +
     (method
       ? "Recorded methods / Current source templates"
       : "Recovered source templates") +
@@ -1805,7 +1805,7 @@ function route() {
   $("detail").classList.remove("hidden");
   document.title = g.title + " · JML Archive";
   $("detail").innerHTML =
-    '<div class="detail-header"><button class="back" id="back">← Back to archive</button><div class="breadcrumb">' +
+    '<div class="detail-header"><button class="back" id="back">← Back to gallery</button><div class="breadcrumb">' +
     esc(FA.get(g.family)?.title || "") +
     " / " +
     esc(CA.get(g.category)?.title || "") +
@@ -1933,3 +1933,4 @@ function exportManifest() {
 }
 addEventListener("hashchange", route);
 init();
+

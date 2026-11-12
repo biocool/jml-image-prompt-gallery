@@ -225,11 +225,11 @@ window.JMLTaxonomy = (() => {
       esc(key(path)) +
       '"' +
       (open ? " open" : "") +
-      '><summary aria-label="Expand ' +
+      '><summary aria-label="Toggle branch: ' +
       esc(path.at(-1)) +
-      '"><span aria-hidden="true">+</span></summary>' +
+      '"><span class="tax-toggle-icon" aria-hidden="true">+</span>' +
       button +
-      "<ul>" +
+      "</summary><ul>" +
       children.map((child) => branch([...path, child], rows)).join("") +
       "</ul></details></li>"
     );
@@ -338,7 +338,7 @@ window.JMLTaxonomy = (() => {
     const roots = [...new Set(rows.map((e) => e.path[0]))].sort();
     const p = DATA.display_policy || {};
     $("source-reviews").innerHTML =
-      '<header class="sample-hero source-hero" id="source-library"><p class="eyebrow">Unified gallery v2 · KPI review</p><h1>One gallery, every visual idea</h1><p>Source references and archived examples now appear side by side at every level. Use the tree to narrow the same combined gallery, rather than switching collections.</p><div class="tax-disclosure"><strong>167 / 208 imported source images recovered</strong><span>41 still missing · 37 remain small renditions · 2 source images hidden by your content preference · 4 more temporarily withheld from publication</span></div><p class="minor">This is an editorial classification, not a claim of creative ancestry or shared generation prompts. Original categories, authors, exact prompts and source records remain attached to each reference.</p></header><div class="tax-controls"><label>Search across both collections<input id="taxonomy-search" class="search" type="search" placeholder="Try typography, animals, paper…" value="' +
+      '<header class="sample-hero source-hero" id="source-library"><p class="eyebrow">Unified gallery v2</p><h1>One gallery, every visual idea</h1><p>Source references and archived examples now appear side by side at every level. Use the tree to narrow the same combined gallery, rather than switching collections.</p><div class="tax-disclosure"><strong>167 / 208 imported source images recovered</strong><span>41 still missing · 37 remain small renditions · 2 source images hidden by your content preference · 4 more temporarily withheld from publication</span></div><p class="minor">This is an editorial classification, not a claim of creative ancestry or shared generation prompts. Original categories, authors, exact prompts and source records remain attached to each reference.</p></header><div class="tax-controls"><label>Search across both collections<input id="taxonomy-search" class="search" type="search" placeholder="Try typography, animals, paper…" value="' +
       esc(query) +
       '"></label><label>Collection<select id="taxonomy-origin"><option value="all">All collections</option><option value="source"' +
       (origin === "source" ? " selected" : "") +
@@ -443,6 +443,7 @@ window.JMLTaxonomy = (() => {
         return;
       }
       if (select) {
+        e.preventDefault();
         selected = JSON.parse(select.dataset.taxSelect);
         limit = 36;
         for (let i = 1; i <= selected.length; i++)
@@ -467,3 +468,4 @@ window.JMLTaxonomy = (() => {
   }
   return { render, entries, promptInfo, stats, usableText };
 })();
+
