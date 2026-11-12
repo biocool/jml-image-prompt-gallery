@@ -8,6 +8,18 @@ window.JMLTaxonomy = (() => {
     limit = 36,
     promptMode = "all";
   const expanded = new Set();
+  const storageKey = "jml-taxonomy-browser-v3";
+  try {
+    const saved = JSON.parse(sessionStorage.getItem(storageKey) || "null");
+    if (saved) {
+      selected = Array.isArray(saved.selected) && saved.selected.every(v => typeof v === "string") ? saved.selected.slice(0, 4) : [];
+      depth = [1, 2, 3, 4].includes(saved.depth) ? saved.depth : 1;
+      query = typeof saved.query === "string" ? saved.query : "";
+      origin = ["all", "source", "archive"].includes(saved.origin) ? saved.origin : "all";
+      promptMode = saved.promptMode === "available" ? "available" : "all";
+    }
+  } catch (_) { /* Storage may be unavailable for local files. */ }
+
   const key = (path) => JSON.stringify(path);
   const prefix = (path, base) => base.every((v, i) => path[i] === v);
   function entries() {
@@ -244,6 +256,11 @@ window.JMLTaxonomy = (() => {
     }
     return output;
   }
+  function categoryCount(rows, targetDepth) {
+    const scope = selected.slice(0, Math.min(selected.length, targetDepth - 1));
+    return new Set(rows.filter(e => prefix(e.path, scope) && e.path.length >= targetDepth)
+      .map(e => key(e.path.slice(0, targetDepth)))).size;
+  }
   function branchCards(rows) {
     if (selected.length >= depth) return "";
     const groups = new Map();
@@ -261,7 +278,7 @@ window.JMLTaxonomy = (() => {
         (g) =>
           '<button class="tax-branch-card" data-tax-select="' +
           esc(key(g.path)) +
-          '"><strong>' +
+          '">' + picture(thumbnail(g.rows.find(e => thumbnail(e)) || g.rows[0]), g.path.at(-1)) + '<strong>' +
           esc(g.path.at(-1)) +
           "</strong><span>" +
           g.rows.filter((e) => e.kind === "source").length +
@@ -332,11 +349,13 @@ window.JMLTaxonomy = (() => {
     );
   }
   function render() {
+    try { sessionStorage.setItem(storageKey, JSON.stringify({ selected, depth, query, origin, promptMode })); } catch (_) {}
     const rows = entries().filter(matches),
       all = entries();
     const scoped = rows.filter((e) => prefix(e.path, selected));
     const roots = [...new Set(rows.map((e) => e.path[0]))].sort();
-    const p = DATA.display_policy || {};
+    const showReferences = selected.length === 4;
+    const categoryTotal = categoryCount(rows, depth);
     $("source-reviews").innerHTML =
       '<header class="sample-hero source-hero" id="source-library"><p class="eyebrow">Unified gallery v2</p><h1>One gallery, every visual idea</h1><p>Source references and archived examples now appear side by side at every level. Use the tree to narrow the same combined gallery, rather than switching collections.</p><div class="tax-disclosure"><strong>167 / 208 imported source images recovered</strong><span>41 still missing · 37 remain small renditions · 2 source images hidden by your content preference · 4 more temporarily withheld from publication</span></div><p class="minor">This is an editorial classification, not a claim of creative ancestry or shared generation prompts. Original categories, authors, exact prompts and source records remain attached to each reference.</p></header><div class="tax-controls"><label>Search across both collections<input id="taxonomy-search" class="search" type="search" placeholder="Try typography, animals, paper…" value="' +
       esc(query) +
@@ -360,10 +379,10 @@ window.JMLTaxonomy = (() => {
             (i + 1) +
             " · " +
             label +
-            "</button>",
+            " (" + categoryCount(rows, i + 1) + ")</button>",
         )
         .join("") +
-      '<p>Choose how specific the landing cards are. This does not change image quality.</p></fieldset><nav class="tax-breadcrumbs" aria-label="Selected taxonomy branch"><button data-tax-select="[]">All ideas</button>' +
+      '<p>Choose a category level. Counts follow your filters and selected branch. Open a subtype to see its references.</p></fieldset><nav class="tax-breadcrumbs" aria-label="Selected taxonomy branch"><button data-tax-select="[]">All ideas</button>' +
       selected
         .map(
           (s, i) =>
@@ -381,27 +400,21 @@ window.JMLTaxonomy = (() => {
       ' references</small></summary><p class="minor">Expand with +, select a name to filter.</p><ul aria-label="Visual taxonomy">' +
       roots.map((r) => branch([r], rows)).join("") +
       '</ul></details></aside><section class="tax-results"><div class="tax-results-heading"><div><p class="eyebrow">' +
-      (selected.length >= depth
-        ? "References in this branch"
+      (showReferences
+        ? "References in this subtype"
         : levels[depth - 1] + " view") +
       "</p><h2>" +
       esc(selected.at(-1) || "All visual ideas") +
       '</h2><p role="status" aria-live="polite">' +
-      scoped.length +
+      (showReferences ? "" : categoryTotal + " categories · ") + scoped.length +
       " matching references · " +
       scoped.filter((e) => e.kind === "source").length +
       " source / " +
       scoped.filter((e) => e.kind === "archive").length +
-      ' archive</p></div><button class="back" id="taxonomy-reset">Reset filters</button></div><details class="tax-refine" open><summary>Refine this branch · ' +
-      levels[depth - 1] +
-      '</summary><div class="tax-branch-options">' +
-      branchCards(rows) +
-      '</div></details><h3 class="tax-grid-label">Source references & archived examples, together</h3><p class="minor">These share a visual category, not necessarily a generation prompt. Open any card for its original evidence.</p><div class="tax-cards">' +
-      cards(rows) +
-      "</div>" +
-      (scoped.length > limit
-        ? '<button class="solid tax-load-more" id="taxonomy-more">Show more references</button>'
-        : "") +
+      ' archive</p></div><button class="back" id="taxonomy-reset">Reset filters</button></div>' +
+      (!showReferences
+        ? '<div class="tax-category-view"><h3>' + levels[depth - 1] + ' categories (' + categoryTotal + ')</h3><div class="tax-branch-options">' + (branchCards(rows) || '<p class="empty">No categories match these filters.</p>') + '</div></div>'
+        : '<h3 class="tax-grid-label">Source references & archived examples, together</h3><p class="minor">These share a visual category, not necessarily a generation prompt. Open any card for its original evidence.</p><div class="tax-cards">' + cards(rows) + '</div>' + (scoped.length > limit ? '<button class="solid tax-load-more" id="taxonomy-more">Show more references</button>' : '')) +
       "</section></div>";
     if ($("taxonomy-more"))
       $("taxonomy-more").onclick = () => {

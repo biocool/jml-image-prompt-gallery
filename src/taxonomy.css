@@ -480,3 +480,23 @@
   }
 }
 
+
+/* Category cards represent exactly one node at the selected level. */
+.tax-branch-card > img, .tax-branch-card > .tax-placeholder {
+  display: block;
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+  background: var(--soft);
+  margin-bottom: 10px;
+}
+.tax-branch-card > .tax-placeholder { display: grid; place-items: center; }
+.tax-category-view h3 { margin: 0 0 14px; }
+.tax-category-view .tax-branch-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  max-height: none;
+  overflow: visible;
+  gap: 14px;
+}
+.tax-category-view .tax-branch-card { min-width: 0; text-align: left; }
