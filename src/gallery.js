@@ -895,7 +895,7 @@ function showSourceReview(r) {
       document.querySelector(".lightfoot").innerHTML =
         "<span>" +
         esc(
-          [im.role || "Source example", sourceDimensions(im), credit]
+          [im.role || "Source example", sourceDimensions(im), im.attribution || credit]
             .filter(Boolean)
             .join(" · "),
         ) +

@@ -2128,6 +2128,26 @@ window.JML_DATA["source_reviews"] = {
           "text": "Prompt:\n\n[BRAND]: {brand name}\n[FOOD / DRINK]: {main product}\n[HEADLINE]: {main word or short title}\n[INTERACTION]: {weave through type / refract type / create negative space / replace a letter}\n[ACCENT COLOR]: {main typography color}\n[DETAILS]: {ingredients / short copy / hours / address}\n\nCreate a 9:16 vertical food editorial poster combining highly realistic food photography with bold, expressive typography.\n\nUse a warm cream or ivory paper background with subtle natural texture. Keep the food or drink realistic, appetizing and materially believable, with natural highlights, shadows, texture and proportions. Avoid CGI, plastic surfaces, floating cutouts or overly polished commercial rendering.\n\nThe key concept is that the food must physically interact with the typography according to [INTERACTION], rather than simply sitting beside the text.\n\nFor “weave through type,” let a few continuous food elements move naturally in front of and behind large letters with clear, believable depth.\n\nFor “refract type,” place transparent glass or liquid in front of the headline so only the letters seen through it are naturally shifted, enlarged or distorted by real optical refraction.\n\nFor “create negative space,” let the shape or missing portion of the food create a clean empty area where the headline naturally fits.\n\nFor “replace a letter,” use the food itself as one recognizable letter inside the headline while keeping the full word immediately readable.\n\nMake [HEADLINE] one of the strongest visual elements using bold editorial typography. Integrate type and food into the same composition with clear hierarchy, strong negative space and intentional cropping.\n\nAdd only a few useful brand details such as [BRAND], ingredients, flavor notes, opening hours or address. Keep all copy short and meaningful.\n\nUse [ACCENT COLOR] as the main typographic accent alongside cream, natural food colors and dark neutrals. Keep the palette controlled.\n\nAvoid numbered labels, 01/02, Vol., sparkles, generic filler copy, unnecessary decoration, UI-style cards or template-like layouts.\n\nThe final poster should feel like a real café, bakery or restaurant campaign: visually striking at thumbnail size, detailed up close, and built around one clear idea where food and typography genuinely affect each other.",
           "source_url": "https://x.com/MrLarus/status/2096583023277822359",
           "role": "Original author template · verbatim source text"
+        },
+        {
+          "title": "Espresso Martini · lighting edit",
+          "text": "Edit this existing poster, lighting-weather correction only. Preserve the exact drink, glass shape and location, all ingredients and garnish positions, every word and font and text placement, composition, colors and dimensions. Do not redesign. Normalize photographic lighting into a clearly coherent single warm key light from upper image-left and slightly in front, with very soft nondirectional ambient fill only. All opaque objects including garnish and tabletop ingredients must have brighter upper-left surfaces and shaded lower-right surfaces. All cast shadows on the tabletop must originate at each object's contact point and extend consistently toward image-right and slightly toward the back, with the same light-source angular direction and compatible softness. Glass shadows must be believable translucent shapes with subtle caustics contained within their projection, NOT star-shaped sparkles. Remove all decorative plant/leaf/window shadows from the backdrop and table so they cannot imply extra light sources. Keep warm ivory paper and stone surface texture; the background is evenly warm and clean. Keep proper contact shadows under bases and ingredients. Reflections on glass may naturally follow curved geometry but should reflect the same main window light, with no competing bright key on the other side. The goal is photographic optical consistency, not dramatic new styling. Exact original text, objects and layout must remain intact.",
+          "role": "Exact submitted AI editing prompt; not original source-author text"
+        },
+        {
+          "title": "Aviation Cocktail · lighting edit",
+          "text": "Edit this existing poster, lighting-weather correction only. Preserve the exact drink, glass shape and location, all ingredients and garnish positions, every word and font and text placement, composition, colors and dimensions. Do not redesign. Normalize photographic lighting into a clearly coherent single warm key light from upper image-left and slightly in front, with very soft nondirectional ambient fill only. All opaque objects including garnish and tabletop ingredients must have brighter upper-left surfaces and shaded lower-right surfaces. All cast shadows on the tabletop must originate at each object's contact point and extend consistently toward image-right and slightly toward the back, with the same light-source angular direction and compatible softness. Glass shadows must be believable translucent shapes with subtle caustics contained within their projection, NOT star-shaped sparkles. Remove all decorative plant/leaf/window shadows from the backdrop and table so they cannot imply extra light sources. Keep warm ivory paper and stone surface texture; the background is evenly warm and clean. Keep proper contact shadows under bases and ingredients. Reflections on glass may naturally follow curved geometry but should reflect the same main window light, with no competing bright key on the other side. The goal is photographic optical consistency, not dramatic new styling. Exact original text, objects and layout must remain intact.",
+          "role": "Exact submitted AI editing prompt; not original source-author text"
+        },
+        {
+          "title": "Passionfruit Daiquiri · lighting edit",
+          "text": "Edit this existing poster, lighting-weather correction only. Preserve the exact drink, glass shape and location, all ingredients and garnish positions, every word and font and text placement, composition, colors and dimensions. Do not redesign. Normalize photographic lighting into a clearly coherent single warm key light from upper image-left and slightly in front, with very soft nondirectional ambient fill only. All opaque objects including garnish and tabletop ingredients must have brighter upper-left surfaces and shaded lower-right surfaces. All cast shadows on the tabletop must originate at each object's contact point and extend consistently toward image-right and slightly toward the back, with the same light-source angular direction and compatible softness. Glass shadows must be believable translucent shapes with subtle caustics contained within their projection, NOT star-shaped sparkles. Remove all decorative plant/leaf/window shadows from the backdrop and table so they cannot imply extra light sources. Keep warm ivory paper and stone surface texture; the background is evenly warm and clean. Keep proper contact shadows under bases and ingredients. Reflections on glass may naturally follow curved geometry but should reflect the same main window light, with no competing bright key on the other side. The goal is photographic optical consistency, not dramatic new styling. Exact original text, objects and layout must remain intact.",
+          "role": "Exact submitted AI editing prompt; not original source-author text"
+        },
+        {
+          "title": "Classic Margarita · shadow correction",
+          "text": "Preserve the existing Classic Margarita poster, text, glass and composition. Correct the cast shadow and glass caustics to match one coherent light source and believable contact with the tabletop.",
+          "role": "Reconstructed edit brief; exact submitted text not retained"
         }
       ],
       "sample_images": [
@@ -2256,16 +2276,17 @@ window.JML_DATA["source_reviews"] = {
           "created_at": "2026-11-18"
         },
         {
-          "caption": "Classic Margarita · New AI-generated concept",
+          "caption": "Classic Margarita · shadow corrected · Edited AI-generated concept",
           "width": 941,
           "height": 1672,
-          "role": "New AI-generated adaptation, not author original",
-          "notes": "Generated from supplied visual references; original text prompt recovered after generation.",
+          "role": "Edited AI-generated concept, not author original",
+          "notes": "Corrected version replaces any earlier display of this concept. Reconstructed edit brief; exact submitted prompt unavailable.",
           "preview": "assets/generated-beverages-20261118/04-margarita.png",
           "original": "assets/generated-beverages-20261118/04-margarita.png",
-          "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: pale lime margarita cocktail in an elegant low coupe glass with a crystalline salt rim and lime wheel, tiny condensation droplets, lime halves at the base, dramatic luminous drink photography. Palette: forest green, citrus yellow, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"LIME\nLIGHT\". Product name in lower band: \"CLASSIC MARGARITA\". Elegant italic tagline: \"Sharp citrus. A slow evening.\". Small tracked ingredients: \"TEQUILA / LIME / ORANGE LIQUEUR\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
-          "prompt_kind": "exact_submitted",
-          "created_at": "2026-11-18"
+          "generation_prompt": "Preserve the existing Classic Margarita poster, text, glass and composition. Correct the cast shadow and glass caustics to match one coherent light source and believable contact with the tabletop.",
+          "prompt_kind": "reconstructed_brief",
+          "created_at": "2026-11-18",
+          "attribution": "JML concept study"
         },
         {
           "caption": "Crisp Golden Lager · New AI-generated concept",
@@ -2278,16 +2299,55 @@ window.JML_DATA["source_reviews"] = {
           "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: glowing golden lager beer in a tall slender pilsner glass, crisp white foam head, fine ascending bubbles, condensation, a few barley stalks beside the glass base. Palette: deep amber, rich navy, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"GOLDEN\nHOUR\". Product name in lower band: \"CRISP GOLDEN LAGER\". Elegant italic tagline: \"Crisp, cold, beautifully simple.\". Small tracked ingredients: \"GOLDEN LAGER / SERVED COLD\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
           "prompt_kind": "exact_submitted",
           "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Espresso Martini · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-cocktails-20261118/07-martini-lighting-v2.png",
+          "original": "assets/edited-cocktails-20261118/07-martini-lighting-v2.png",
+          "generation_prompt": "Edit this existing poster, lighting-weather correction only. Preserve the exact drink, glass shape and location, all ingredients and garnish positions, every word and font and text placement, composition, colors and dimensions. Do not redesign. Normalize photographic lighting into a clearly coherent single warm key light from upper image-left and slightly in front, with very soft nondirectional ambient fill only. All opaque objects including garnish and tabletop ingredients must have brighter upper-left surfaces and shaded lower-right surfaces. All cast shadows on the tabletop must originate at each object's contact point and extend consistently toward image-right and slightly toward the back, with the same light-source angular direction and compatible softness. Glass shadows must be believable translucent shapes with subtle caustics contained within their projection, NOT star-shaped sparkles. Remove all decorative plant/leaf/window shadows from the backdrop and table so they cannot imply extra light sources. Keep warm ivory paper and stone surface texture; the background is evenly warm and clean. Keep proper contact shadows under bases and ingredients. Reflections on glass may naturally follow curved geometry but should reflect the same main window light, with no competing bright key on the other side. The goal is photographic optical consistency, not dramatic new styling. Exact original text, objects and layout must remain intact.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Aviation Cocktail · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-cocktails-20261118/08-aviation-lighting-v2.png",
+          "original": "assets/edited-cocktails-20261118/08-aviation-lighting-v2.png",
+          "generation_prompt": "Edit this existing poster, lighting-weather correction only. Preserve the exact drink, glass shape and location, all ingredients and garnish positions, every word and font and text placement, composition, colors and dimensions. Do not redesign. Normalize photographic lighting into a clearly coherent single warm key light from upper image-left and slightly in front, with very soft nondirectional ambient fill only. All opaque objects including garnish and tabletop ingredients must have brighter upper-left surfaces and shaded lower-right surfaces. All cast shadows on the tabletop must originate at each object's contact point and extend consistently toward image-right and slightly toward the back, with the same light-source angular direction and compatible softness. Glass shadows must be believable translucent shapes with subtle caustics contained within their projection, NOT star-shaped sparkles. Remove all decorative plant/leaf/window shadows from the backdrop and table so they cannot imply extra light sources. Keep warm ivory paper and stone surface texture; the background is evenly warm and clean. Keep proper contact shadows under bases and ingredients. Reflections on glass may naturally follow curved geometry but should reflect the same main window light, with no competing bright key on the other side. The goal is photographic optical consistency, not dramatic new styling. Exact original text, objects and layout must remain intact.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Passionfruit Daiquiri · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-cocktails-20261118/09-passionfruit-lighting-v2.png",
+          "original": "assets/edited-cocktails-20261118/09-passionfruit-lighting-v2.png",
+          "generation_prompt": "Edit this existing poster, lighting-weather correction only. Preserve the exact drink, glass shape and location, all ingredients and garnish positions, every word and font and text placement, composition, colors and dimensions. Do not redesign. Normalize photographic lighting into a clearly coherent single warm key light from upper image-left and slightly in front, with very soft nondirectional ambient fill only. All opaque objects including garnish and tabletop ingredients must have brighter upper-left surfaces and shaded lower-right surfaces. All cast shadows on the tabletop must originate at each object's contact point and extend consistently toward image-right and slightly toward the back, with the same light-source angular direction and compatible softness. Glass shadows must be believable translucent shapes with subtle caustics contained within their projection, NOT star-shaped sparkles. Remove all decorative plant/leaf/window shadows from the backdrop and table so they cannot imply extra light sources. Keep warm ivory paper and stone surface texture; the background is evenly warm and clean. Keep proper contact shadows under bases and ingredients. Reflections on glass may naturally follow curved geometry but should reflect the same main window light, with no competing bright key on the other side. The goal is photographic optical consistency, not dramatic new styling. Exact original text, objects and layout must remain intact.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
         }
       ],
       "missing_images": [],
       "candidate_files": [],
       "archive_link_status": "Style reference only; no exact generation association claimed",
       "content_note": "Full public author template, not proof of exact image-specific generation inputs Source text is preserved verbatim. Examples remain credited to their respective authors; public availability is not a blanket reuse license.",
-      "asset_note": "4 existing author examples preserved; 4 user-uploaded beverage references; 5 new AI-generated adaptations (matcha, mango, hibiscus, margarita and lager).",
+      "asset_note": "4 existing author examples; 4 user-uploaded beverage references; 8 AI-generated concepts. The Margarita was replaced with its corrected version; Espresso Martini, Aviation and Passionfruit use corrected lighting.",
       "source_text_located": true,
       "source_role": "author_original",
-      "sample_note": "The first four are existing author examples. Four beverage references supplied by the user are labeled separately. AI-generated adaptations, when present, are new concepts, not original author work."
+      "sample_note": "Author examples, supplied references and AI-generated concepts are separately labeled. Only the latest edited version of each concept is displayed."
     },
     {
       "id": "2096207481353425049",
@@ -5445,6 +5505,212 @@ window.JML_DATA["source_reviews"] = {
       "asset_note": "All four source images retained at their available original dimensions.",
       "source_text_located": true,
       "source_role": "author_original"
+    },
+    {
+      "id": "jml-pizza-close-edited",
+      "aliases": [
+        "jml-pizza-close-edited"
+      ],
+      "title": "Pizza campaigns · corrected close-ups",
+      "source_family": "Food & editorial typography",
+      "subcategory": "Close-up pizza editorial posters",
+      "tags": [
+        "food",
+        "editorial poster",
+        "AI-generated",
+        "edited",
+        "JML"
+      ],
+      "attribution": "JML AI-generated concept studies",
+      "summary": "Latest edited campaign concepts. Original author references remain separate.",
+      "status": "Edited AI-generated examples",
+      "copy_kind": "recorded_edit_prompts",
+      "copy_text": "",
+      "prompts": [
+        {
+          "title": "Hot Honey Pepperoni · close-up edit",
+          "text": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"SWEET MEETS HEAT\" in rust red. Exact bottom serif dish name: \"Hot Honey Pepperoni\". Exact small bottom ingredient line: \"Pepperoni · mozzarella · hot honey · basil\". Pizza flavor and toppings: Curled pepperoni cups, mozzarella, basil, hot honey glaze. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "role": "Exact submitted AI editing prompt"
+        },
+        {
+          "title": "Burrata Margherita · close-up edit",
+          "text": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"KEEP IT CLASSIC.\" in rust red. Exact bottom serif dish name: \"Burrata Margherita\". Exact small bottom ingredient line: \"Tomato · mozzarella · burrata · basil\". Pizza flavor and toppings: Tomato sauce, mozzarella, basil, small soft burrata pieces placed ON slices not bridging the cut or wedge gap. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "role": "Exact submitted AI editing prompt"
+        },
+        {
+          "title": "Pesto Garden · close-up edit",
+          "text": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"GARDEN PARTY\" in forest green. Exact bottom serif dish name: \"Pesto Garden\". Exact small bottom ingredient line: \"Basil pesto · zucchini · mozzarella · yellow tomato\". Pizza flavor and toppings: Basil pesto, mozzarella, zucchini ribbons, yellow cherry tomatoes, green peas, basil. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "role": "Exact submitted AI editing prompt"
+        },
+        {
+          "title": "Fig Prosciutto · close-up edit",
+          "text": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"A LITTLE EXTRA.\" in rust red. Exact bottom serif dish name: \"Fig & Prosciutto\". Exact small bottom ingredient line: \"Fig · prosciutto · mozzarella · arugula\". Pizza flavor and toppings: Fresh fig wedges, thin folded prosciutto, mozzarella, arugula, restrained balsamic glaze. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "role": "Exact submitted AI editing prompt"
+        },
+        {
+          "title": "Roasted Garlic Four Cheese · close-up edit",
+          "text": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"ALL ABOUT THE MELT\" in rust red. Exact bottom serif dish name: \"Roasted Garlic Four Cheese\". Exact small bottom ingredient line: \"Mozzarella · fontina · parmesan · ricotta\". Pizza flavor and toppings: Mozzarella, fontina, parmesan, small ricotta dollops, roasted garlic cloves, thyme. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "role": "Exact submitted AI editing prompt"
+        },
+        {
+          "title": "Smoky Bbq Chicken · close-up edit",
+          "text": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"BRING THE SMOKE\" in rust red. Exact bottom serif dish name: \"Smoky BBQ Chicken\". Exact small bottom ingredient line: \"Chicken · mozzarella · red onion · smoky BBQ\". Pizza flavor and toppings: Cooked chicken strips, mozzarella, fine red onion crescents, restrained barbecue sauce drizzle, cilantro. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "role": "Exact submitted AI editing prompt"
+        }
+      ],
+      "sample_images": [
+        {
+          "caption": "Hot Honey Pepperoni · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-pizza-close-20261118/01-hot-honey-pepperoni.png",
+          "original": "assets/edited-pizza-close-20261118/01-hot-honey-pepperoni.png",
+          "generation_prompt": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"SWEET MEETS HEAT\" in rust red. Exact bottom serif dish name: \"Hot Honey Pepperoni\". Exact small bottom ingredient line: \"Pepperoni · mozzarella · hot honey · basil\". Pizza flavor and toppings: Curled pepperoni cups, mozzarella, basil, hot honey glaze. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Burrata Margherita · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-pizza-close-20261118/02-burrata-margherita.png",
+          "original": "assets/edited-pizza-close-20261118/02-burrata-margherita.png",
+          "generation_prompt": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"KEEP IT CLASSIC.\" in rust red. Exact bottom serif dish name: \"Burrata Margherita\". Exact small bottom ingredient line: \"Tomato · mozzarella · burrata · basil\". Pizza flavor and toppings: Tomato sauce, mozzarella, basil, small soft burrata pieces placed ON slices not bridging the cut or wedge gap. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Pesto Garden · Edited AI-generated concept",
+          "width": 941,
+          "height": 1671,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-pizza-close-20261118/03-pesto-garden.png",
+          "original": "assets/edited-pizza-close-20261118/03-pesto-garden.png",
+          "generation_prompt": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"GARDEN PARTY\" in forest green. Exact bottom serif dish name: \"Pesto Garden\". Exact small bottom ingredient line: \"Basil pesto · zucchini · mozzarella · yellow tomato\". Pizza flavor and toppings: Basil pesto, mozzarella, zucchini ribbons, yellow cherry tomatoes, green peas, basil. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Fig Prosciutto · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-pizza-close-20261118/04-fig-prosciutto.png",
+          "original": "assets/edited-pizza-close-20261118/04-fig-prosciutto.png",
+          "generation_prompt": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"A LITTLE EXTRA.\" in rust red. Exact bottom serif dish name: \"Fig & Prosciutto\". Exact small bottom ingredient line: \"Fig · prosciutto · mozzarella · arugula\". Pizza flavor and toppings: Fresh fig wedges, thin folded prosciutto, mozzarella, arugula, restrained balsamic glaze. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Roasted Garlic Four Cheese · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-pizza-close-20261118/05-roasted-garlic-four-cheese.png",
+          "original": "assets/edited-pizza-close-20261118/05-roasted-garlic-four-cheese.png",
+          "generation_prompt": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"ALL ABOUT THE MELT\" in rust red. Exact bottom serif dish name: \"Roasted Garlic Four Cheese\". Exact small bottom ingredient line: \"Mozzarella · fontina · parmesan · ricotta\". Pizza flavor and toppings: Mozzarella, fontina, parmesan, small ricotta dollops, roasted garlic cloves, thyme. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Smoky Bbq Chicken · Edited AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-pizza-close-20261118/06-smoky-bbq-chicken.png",
+          "original": "assets/edited-pizza-close-20261118/06-smoky-bbq-chicken.png",
+          "generation_prompt": "Create a new close-up version of the attached Quarter Turn pizza poster in exactly this editorial visual system, changing the pizza flavor and text as specified. COPY the reference food geometry faithfully: ONE naturally round pizza, ONE normal radial wedge at 10 o'clock removed, matching slice lying flat on paper pulled a short distance upper-left without rotation, two cut edges converge at pizza center, triangular paper gap clearly visible, continuous round outer crust except the removed wedge. No floating slice, no extra pizza, no duplicate wedge, no unnaturally long slice, no polygonal or straight outer perimeter. The slice must fit back into gap perfectly. Camera: nearly overhead as reference, but approximately 15–20% CLOSER so toppings/crust appear larger; pizza fills most width in lower-middle portion. Keep curved left perimeter visible; slight right-edge crop permitted. Maintain all typography legible with clear space, move headline upward a little if needed for larger pizza. Same ivory paper, dark elegant Quarter Turn serif wordmark at top, small tracked exact subtitle \"PIZZA · WINE · LATE NIGHTS\", same premium photorealistic appetizing food light and charred crust. Exact bold condensed headline: \"BRING THE SMOKE\" in rust red. Exact bottom serif dish name: \"Smoky BBQ Chicken\". Exact small bottom ingredient line: \"Chicken · mozzarella · red onion · smoky BBQ\". Pizza flavor and toppings: Cooked chicken strips, mozzarella, fine red onion crescents, restrained barbecue sauce drizzle, cilantro. Render only these toppings, not the reference pesto toppings unless specified. Keep toppings contained on slices, realistic cuts through any topping crossing a cut line. No new unrelated text/address/prices, no watermark. IMPORTANT the matching separated wedge and remaining circular pizza with missing wedge must have correct believable physical geometry as in reference. The FOOD must feel closer to camera than reference while the poster branding stays same scale.",
+          "prompt_kind": "exact_submitted",
+          "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
+          "created_at": "2026-11-18"
+        }
+      ],
+      "missing_images": [],
+      "candidate_files": [],
+      "source_role": "generated_adaptation",
+      "content_note": "These are newly generated and edited concepts, not original source-author artwork. Each prompt is labeled by its evidence.",
+      "asset_note": "6 latest edited examples; no duplicate earlier versions.",
+      "source_text_located": false
+    },
+    {
+      "id": "jml-sandwich-realism-edited",
+      "aliases": [
+        "jml-sandwich-realism-edited"
+      ],
+      "title": "Sandwich campaigns · realism corrections",
+      "source_family": "Food & editorial typography",
+      "subcategory": "Realistic sandwich editorial posters",
+      "tags": [
+        "food",
+        "editorial poster",
+        "AI-generated",
+        "edited",
+        "JML"
+      ],
+      "attribution": "JML AI-generated concept studies",
+      "summary": "Latest edited campaign concepts. Original author references remain separate.",
+      "status": "Edited AI-generated examples",
+      "copy_kind": "recorded_edit_prompts",
+      "copy_text": "",
+      "prompts": [
+        {
+          "title": "Steak & Chimichurri · realism correction",
+          "text": "Preserve the Quarter Turn branding and editorial copy. Render a physically believable steak and chimichurri sandwich cut into two natural halves, realistic bread, meat and filling proportions, consistent lighting and contact shadows on a plate.",
+          "role": "Reconstructed edit brief; exact submitted text not retained"
+        },
+        {
+          "title": "Smoked Salmon Bagel · realism correction",
+          "text": "Preserve the Quarter Turn branding and editorial copy. Render a realistic sesame bagel with smoked salmon, cream cheese, cucumber and dill. Keep the bagel hole and structure natural, filling restrained, and light and contact shadows physically coherent.",
+          "role": "Reconstructed edit brief; exact submitted text not retained"
+        }
+      ],
+      "sample_images": [
+        {
+          "caption": "Steak & Chimichurri · Edited AI-generated concept",
+          "width": 1024,
+          "height": 1536,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-sandwiches-20261118/steak-chimichurri.png",
+          "original": "assets/edited-sandwiches-20261118/steak-chimichurri.png",
+          "generation_prompt": "Preserve the Quarter Turn branding and editorial copy. Render a physically believable steak and chimichurri sandwich cut into two natural halves, realistic bread, meat and filling proportions, consistent lighting and contact shadows on a plate.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Corrected version replaces any earlier display of this concept. Reconstructed edit brief; exact submitted prompt unavailable.",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Smoked Salmon Bagel · Edited AI-generated concept",
+          "width": 1024,
+          "height": 1536,
+          "role": "Edited AI-generated concept, not author original",
+          "attribution": "JML concept study",
+          "preview": "assets/edited-sandwiches-20261118/smoked-salmon-bagel.png",
+          "original": "assets/edited-sandwiches-20261118/smoked-salmon-bagel.png",
+          "generation_prompt": "Preserve the Quarter Turn branding and editorial copy. Render a realistic sesame bagel with smoked salmon, cream cheese, cucumber and dill. Keep the bagel hole and structure natural, filling restrained, and light and contact shadows physically coherent.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Corrected version replaces any earlier display of this concept. Reconstructed edit brief; exact submitted prompt unavailable.",
+          "created_at": "2026-11-18"
+        }
+      ],
+      "missing_images": [],
+      "candidate_files": [],
+      "source_role": "generated_adaptation",
+      "content_note": "These are newly generated and edited concepts, not original source-author artwork. Each prompt is labeled by its evidence.",
+      "asset_note": "2 latest edited examples; no duplicate earlier versions.",
+      "source_text_located": false
     }
   ],
   "total_user_post_count": 26,
