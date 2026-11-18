@@ -2118,7 +2118,7 @@ window.JML_DATA["source_reviews"] = {
         "food photography"
       ],
       "attribution": "Larus Canus (@MrLarus)",
-      "summary": "Product/type interactions. Original public reusable template and source examples. Exact per-image generation inputs are not established.",
+      "summary": "Complete beverage collection: source references and all distinct JML drink concepts. Corrected lighting editions replace earlier versions. Prompt provenance is labeled per image.",
       "status": "Public author template recovered",
       "copy_kind": "full_source_prompt",
       "copy_text": "Prompt:\n\n[BRAND]: {brand name}\n[FOOD / DRINK]: {main product}\n[HEADLINE]: {main word or short title}\n[INTERACTION]: {weave through type / refract type / create negative space / replace a letter}\n[ACCENT COLOR]: {main typography color}\n[DETAILS]: {ingredients / short copy / hours / address}\n\nCreate a 9:16 vertical food editorial poster combining highly realistic food photography with bold, expressive typography.\n\nUse a warm cream or ivory paper background with subtle natural texture. Keep the food or drink realistic, appetizing and materially believable, with natural highlights, shadows, texture and proportions. Avoid CGI, plastic surfaces, floating cutouts or overly polished commercial rendering.\n\nThe key concept is that the food must physically interact with the typography according to [INTERACTION], rather than simply sitting beside the text.\n\nFor “weave through type,” let a few continuous food elements move naturally in front of and behind large letters with clear, believable depth.\n\nFor “refract type,” place transparent glass or liquid in front of the headline so only the letters seen through it are naturally shifted, enlarged or distorted by real optical refraction.\n\nFor “create negative space,” let the shape or missing portion of the food create a clean empty area where the headline naturally fits.\n\nFor “replace a letter,” use the food itself as one recognizable letter inside the headline while keeping the full word immediately readable.\n\nMake [HEADLINE] one of the strongest visual elements using bold editorial typography. Integrate type and food into the same composition with clear hierarchy, strong negative space and intentional cropping.\n\nAdd only a few useful brand details such as [BRAND], ingredients, flavor notes, opening hours or address. Keep all copy short and meaningful.\n\nUse [ACCENT COLOR] as the main typographic accent alongside cream, natural food colors and dark neutrals. Keep the palette controlled.\n\nAvoid numbered labels, 01/02, Vol., sparkles, generic filler copy, unnecessary decoration, UI-style cards or template-like layouts.\n\nThe final poster should feel like a real café, bakery or restaurant campaign: visually striking at thumbnail size, detailed up close, and built around one clear idea where food and typography genuinely affect each other.",
@@ -2338,13 +2338,109 @@ window.JML_DATA["source_reviews"] = {
           "prompt_kind": "exact_submitted",
           "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
           "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Paloma · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/paloma.png",
+          "original": "assets/complete-food-20261118/paloma.png",
+          "generation_prompt": "Create a premium photorealistic Paloma editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Old Fashioned · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/old-fashioned.png",
+          "original": "assets/complete-food-20261118/old-fashioned.png",
+          "generation_prompt": "Create a premium photorealistic Old Fashioned editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Basil Gin Smash · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/basil-gin-smash.png",
+          "original": "assets/complete-food-20261118/basil-gin-smash.png",
+          "generation_prompt": "Create a premium photorealistic Basil Gin Smash editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Cucumber Elderflower Fizz · AI-generated concept",
+          "width": 941,
+          "height": 1671,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/cucumber-elderflower-fizz.png",
+          "original": "assets/complete-food-20261118/cucumber-elderflower-fizz.png",
+          "generation_prompt": "Create a premium photorealistic Cucumber Elderflower Fizz editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Cherry Amaretto Sour · AI-generated concept",
+          "width": 941,
+          "height": 1671,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/cherry-amaretto-sour.png",
+          "original": "assets/complete-food-20261118/cherry-amaretto-sour.png",
+          "generation_prompt": "Create a premium photorealistic Cherry Amaretto Sour editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Blue Lagoon · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/blue-lagoon.png",
+          "original": "assets/complete-food-20261118/blue-lagoon.png",
+          "generation_prompt": "Create a premium photorealistic Blue Lagoon editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Raspberry Rose Fizz · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/raspberry-rose-fizz.png",
+          "original": "assets/complete-food-20261118/raspberry-rose-fizz.png",
+          "generation_prompt": "Create a premium photorealistic Raspberry Rose Fizz editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Pineapple Mezcal Sour · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/pineapple-mezcal-sour.png",
+          "original": "assets/complete-food-20261118/pineapple-mezcal-sour.png",
+          "generation_prompt": "Create a premium photorealistic Pineapple Mezcal Sour editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Blood Orange Negroni · AI-generated concept",
+          "preview": "assets/complete-food-20261118/blood-orange-negroni.png",
+          "original": "assets/complete-food-20261118/blood-orange-negroni.png",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography"
         }
       ],
       "missing_images": [],
       "candidate_files": [],
       "archive_link_status": "Style reference only; no exact generation association claimed",
       "content_note": "Full public author template, not proof of exact image-specific generation inputs Source text is preserved verbatim. Examples remain credited to their respective authors; public availability is not a blanket reuse license.",
-      "asset_note": "4 existing author examples; 4 user-uploaded beverage references; 8 AI-generated concepts. The Margarita was replaced with its corrected version; Espresso Martini, Aviation and Passionfruit use corrected lighting.",
+      "asset_note": "25 images: 4 original author examples, 4 user-supplied references and 17 AI-generated beverage concepts. Latest corrected Margarita, Espresso Martini, Aviation and Passionfruit versions replace the prior iterations.",
       "source_text_located": true,
       "source_role": "author_original",
       "sample_note": "Author examples, supplied references and AI-generated concepts are separately labeled. Only the latest edited version of each concept is displayed."
@@ -5511,7 +5607,7 @@ window.JML_DATA["source_reviews"] = {
       "aliases": [
         "jml-pizza-close-edited"
       ],
-      "title": "Pizza campaigns · corrected close-ups",
+      "title": "Pizza campaigns · complete collection",
       "source_family": "Food & editorial typography",
       "subcategory": "Close-up pizza editorial posters",
       "tags": [
@@ -5522,7 +5618,7 @@ window.JML_DATA["source_reviews"] = {
         "JML"
       ],
       "attribution": "JML AI-generated concept studies",
-      "summary": "Latest edited campaign concepts. Original author references remain separate.",
+      "summary": "Every distinct JML pizza campaign, with corrected close-up versions replacing earlier iterations. New concepts inspired by real dishes are labeled separately.",
       "status": "Edited AI-generated examples",
       "copy_kind": "recorded_edit_prompts",
       "copy_text": "",
@@ -5636,21 +5732,155 @@ window.JML_DATA["source_reviews"] = {
           "prompt_kind": "exact_submitted",
           "notes": "Corrected version replaces any earlier display of this concept. Recorded submitted edit prompt.",
           "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Mushroom Bianca · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/mushroom-bianca.png",
+          "original": "assets/complete-food-20261118/mushroom-bianca.png",
+          "generation_prompt": "Create a premium photorealistic Mushroom Bianca editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography. Show one round pizza close to the camera with one matching radial slice pulled slightly upper-left beside its gap, with no additional wedge or distorted crust.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Spicy Diavola · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/spicy-diavola.png",
+          "original": "assets/complete-food-20261118/spicy-diavola.png",
+          "generation_prompt": "Create a premium photorealistic Spicy Diavola editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography. Show one round pizza close to the camera with one matching radial slice pulled slightly upper-left beside its gap, with no additional wedge or distorted crust.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Potato Rosemary · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/potato-rosemary.png",
+          "original": "assets/complete-food-20261118/potato-rosemary.png",
+          "generation_prompt": "Create a premium photorealistic Potato Rosemary editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography. Show one round pizza close to the camera with one matching radial slice pulled slightly upper-left beside its gap, with no additional wedge or distorted crust.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Mediterranean · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/mediterranean.png",
+          "original": "assets/complete-food-20261118/mediterranean.png",
+          "generation_prompt": "Create a premium photorealistic Mediterranean editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography. Show one round pizza close to the camera with one matching radial slice pulled slightly upper-left beside its gap, with no additional wedge or distorted crust.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Pistachio Mortadella · AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/pistachio-mortadella.png",
+          "original": "assets/complete-food-20261118/pistachio-mortadella.png",
+          "generation_prompt": "Create a premium photorealistic Pistachio Mortadella editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography. Show one round pizza close to the camera with one matching radial slice pulled slightly upper-left beside its gap, with no additional wedge or distorted crust.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Scarpetta · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-pizza-scarpetta.png",
+          "original": "assets/complete-food-20261118/global-pizza-scarpetta.png",
+          "width": 941,
+          "height": 1670,
+          "generation_prompt": "Create a new original Quarter Turn food poster variant using the supplied poster as STYLE AND COMPOSITION reference, not topping reference. Preserve the same portrait aspect ratio, cream paper backdrop, elegant black Quarter Turn masthead, small PIZZA · WINE · LATE NIGHTS subline, large condensed headline, lower-left serif pizza name and small ingredient footer. Huge close-up round pizza, exactly one physically coherent triangular wedge removed at upper left and displaced slightly beside its matching gap, lying flat, never floating. The intact pizza body remains circular except for the missing wedge; realistic narrow crust and irregular natural food textures, not plastic or overly inflated. Match reference's close framing, camera angle, layout. One soft light upper left; every cast shadow lower right. No extra crust tails, fake extensions, duplicate slice, cheese bridges or hand. This is an AI concept inspired by an actual dish, not an authentic restaurant photograph. Do not put restaurant names or logos on the image. Inspired by Pepe in Grani's Scarpetta: creamy buffalo mozzarella and Grana Padano fondue base, vibrant cold crushed tomato spooned on top, small green basil pesto accents, delicate aged Grana shavings. No olives. Text verbatim: masthead 'Quarter Turn'; headline 'SAVOR EVERY BITE'; dish name 'Scarpetta'; footer 'Buffalo mozzarella · Grana Padano · tomato · basil'.",
+          "prompt_kind": "exact_submitted",
+          "role": "AI-generated concept, not restaurant photography",
+          "basis": "Inspired by Pepe in Grani's Scarpetta: creamy buffalo mozzarella and Grana Padano fondue base, vibrant cold crushed tomato spooned on top, small green basil pesto accents, delicate aged Grana shavings. No olives.",
+          "source_url": "https://www.pepeingrani.it/scarpetta",
+          "research_sources": [
+            "https://www.pepeingrani.it/scarpetta",
+            "https://www.pepeingrani.it/",
+            "https://www.identitagolose.it/sito/it/473/39136/assaggi/da-franco-pepe-la-pizza-diventa-gesto.html"
+          ]
+        },
+        {
+          "caption": "Margherita Sbagliata · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-pizza-sbagliata.png",
+          "original": "assets/complete-food-20261118/global-pizza-sbagliata.png",
+          "width": 941,
+          "height": 1671,
+          "generation_prompt": "Create a new original Quarter Turn food poster variant using the supplied poster as STYLE AND COMPOSITION reference, not topping reference. Preserve the same portrait aspect ratio, cream paper backdrop, elegant black Quarter Turn masthead, small PIZZA · WINE · LATE NIGHTS subline, large condensed headline, lower-left serif pizza name and small ingredient footer. Huge close-up round pizza, exactly one physically coherent triangular wedge removed at upper left and displaced slightly beside its matching gap, lying flat, never floating. The intact pizza body remains circular except for the missing wedge; realistic narrow crust and irregular natural food textures, not plastic or overly inflated. Match reference's close framing, camera angle, layout. One soft light upper left; every cast shadow lower right. No extra crust tails, fake extensions, duplicate slice, cheese bridges or hand. This is an AI concept inspired by an actual dish, not an authentic restaurant photograph. Do not put restaurant names or logos on the image. Inspired by Franco Pepe's Margherita Sbagliata: melted white mozzarella base, three slender red uncooked tomato stripes and small deep green basil pesto pools, wood-fired crust, minimal elegant toppings. Text verbatim: masthead 'Quarter Turn'; headline 'BEAUTIFULLY UNEXPECTED'; dish name 'Margherita Sbagliata'; footer 'Mozzarella · fresh tomato · basil'.",
+          "prompt_kind": "exact_submitted",
+          "role": "AI-generated concept, not restaurant photography",
+          "basis": "Inspired by Franco Pepe's Margherita Sbagliata: melted white mozzarella base, three slender red uncooked tomato stripes and small deep green basil pesto pools, wood-fired crust, minimal elegant toppings.",
+          "source_url": "https://www.lacucinaitaliana.it/article/franco-pepe-come-si-mangia-pizza-enit-2022/",
+          "research_sources": [
+            "https://www.lacucinaitaliana.it/article/franco-pepe-come-si-mangia-pizza-enit-2022/"
+          ]
+        },
+        {
+          "caption": "Heirloom Filetti · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-pizza-filetti.png",
+          "original": "assets/complete-food-20261118/global-pizza-filetti.png",
+          "width": 941,
+          "height": 1671,
+          "generation_prompt": "Create a new original Quarter Turn food poster variant using the supplied poster as STYLE AND COMPOSITION reference, not topping reference. Preserve the same portrait aspect ratio, cream paper backdrop, elegant black Quarter Turn masthead, small PIZZA · WINE · LATE NIGHTS subline, large condensed headline, lower-left serif pizza name and small ingredient footer. Huge close-up round pizza, exactly one physically coherent triangular wedge removed at upper left and displaced slightly beside its matching gap, lying flat, never floating. The intact pizza body remains circular except for the missing wedge; realistic narrow crust and irregular natural food textures, not plastic or overly inflated. Match reference's close framing, camera angle, layout. One soft light upper left; every cast shadow lower right. No extra crust tails, fake extensions, duplicate slice, cheese bridges or hand. This is an AI concept inspired by an actual dish, not an authentic restaurant photograph. Do not put restaurant names or logos on the image. Inspired by Una Pizza Napoletana Filetti, fresh red and yellow irregular heirloom tomato pieces, buffalo mozzarella, a few thin garlic slices, fresh basil, olive oil, airy but naturally proportioned Neapolitan crust. Text verbatim: masthead 'Quarter Turn'; headline 'TOMATO SEASON'; dish name 'Heirloom Filetti'; footer 'Heirloom tomato · buffalo mozzarella · garlic · basil'.",
+          "prompt_kind": "exact_submitted",
+          "role": "AI-generated concept, not restaurant photography",
+          "basis": "Inspired by Una Pizza Napoletana Filetti, fresh red and yellow irregular heirloom tomato pieces, buffalo mozzarella, a few thin garlic slices, fresh basil, olive oil, airy but naturally proportioned Neapolitan crust.",
+          "source_url": "https://unapizza.com/menu-867530/",
+          "research_sources": [
+            "https://unapizza.com/menu-867530/",
+            "https://www.nyculturebeat.com/index.php?document_srl=4196195&mid=Zoom"
+          ]
+        },
+        {
+          "caption": "Nagano Bianco · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-pizza-tokyo-bianco.png",
+          "original": "assets/complete-food-20261118/global-pizza-tokyo-bianco.png",
+          "width": 941,
+          "height": 1671,
+          "generation_prompt": "Create a new original Quarter Turn food poster variant using the supplied poster as STYLE AND COMPOSITION reference, not topping reference. Preserve the same portrait aspect ratio, cream paper backdrop, elegant black Quarter Turn masthead, small PIZZA · WINE · LATE NIGHTS subline, large condensed headline, lower-left serif pizza name and small ingredient footer. Huge close-up round pizza, exactly one physically coherent triangular wedge removed at upper left and displaced slightly beside its matching gap, lying flat, never floating. The intact pizza body remains circular except for the missing wedge; realistic narrow crust and irregular natural food textures, not plastic or overly inflated. Match reference's close framing, camera angle, layout. One soft light upper left; every cast shadow lower right. No extra crust tails, fake extensions, duplicate slice, cheese bridges or hand. This is an AI concept inspired by an actual dish, not an authentic restaurant photograph. Do not put restaurant names or logos on the image. Inspired by documented Pizza Bar on 38th Tokyo bianco with rosemary oil and Nagano prosciutto. Thin naturally folded rosy cured ham, restrained rosemary oil on pale baked white pizza base. No heavy topping piles. Crisp airy rim. Text verbatim: masthead 'Quarter Turn'; headline 'QUIET LUXURY'; dish name 'Nagano Bianco'; footer 'Prosciutto · rosemary oil · white pizza'.",
+          "prompt_kind": "exact_submitted",
+          "role": "AI-generated concept, not restaurant photography",
+          "basis": "Inspired by documented Pizza Bar on 38th Tokyo bianco with rosemary oil and Nagano prosciutto. Thin naturally folded rosy cured ham, restrained rosemary oil on pale baked white pizza base. No heavy topping piles. Crisp airy rim.",
+          "source_url": "https://gourmetpigs.com/pizza-omakase-at-the-pizza-bar-on-38th-tokyo/",
+          "research_sources": [
+            "https://gourmetpigs.com/pizza-omakase-at-the-pizza-bar-on-38th-tokyo/"
+          ]
+        },
+        {
+          "caption": "Roasted Pepper Cream · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-pizza-beddia-peppers.png",
+          "original": "assets/complete-food-20261118/global-pizza-beddia-peppers.png",
+          "width": 941,
+          "height": 1671,
+          "generation_prompt": "Create a new original Quarter Turn food poster variant using the supplied poster as STYLE AND COMPOSITION reference, not topping reference. Preserve the same portrait aspect ratio, cream paper backdrop, elegant black Quarter Turn masthead, small PIZZA · WINE · LATE NIGHTS subline, large condensed headline, lower-left serif pizza name and small ingredient footer. Huge close-up round pizza, exactly one physically coherent triangular wedge removed at upper left and displaced slightly beside its matching gap, lying flat, never floating. The intact pizza body remains circular except for the missing wedge; realistic narrow crust and irregular natural food textures, not plastic or overly inflated. Match reference's close framing, camera angle, layout. One soft light upper left; every cast shadow lower right. No extra crust tails, fake extensions, duplicate slice, cheese bridges or hand. This is an AI concept inspired by an actual dish, not an authentic restaurant photograph. Do not put restaurant names or logos on the image. Inspired by Pizzeria Beddia pizza no.5: glossy naturally roasted red and yellow pepper strips, white cream and mozzarella, thin red onion curves, tiny cherry pepper vinaigrette accents. Artisanal thin-base round pizza. Text verbatim: masthead 'Quarter Turn'; headline 'SWEET HEAT'; dish name 'Roasted Pepper Cream'; footer 'Roasted peppers · cream · red onion · mozzarella'.",
+          "prompt_kind": "exact_submitted",
+          "role": "AI-generated concept, not restaurant photography",
+          "basis": "Inspired by Pizzeria Beddia pizza no.5: glossy naturally roasted red and yellow pepper strips, white cream and mozzarella, thin red onion curves, tiny cherry pepper vinaigrette accents. Artisanal thin-base round pizza.",
+          "source_url": "https://pizzeriabeddia.squarespace.com/menu",
+          "research_sources": [
+            "https://pizzeriabeddia.squarespace.com/menu"
+          ]
         }
       ],
       "missing_images": [],
       "candidate_files": [],
       "source_role": "generated_adaptation",
       "content_note": "These are newly generated and edited concepts, not original source-author artwork. Each prompt is labeled by its evidence.",
-      "asset_note": "6 latest edited examples; no duplicate earlier versions.",
-      "source_text_located": false
+      "asset_note": "16 distinct concepts; latest corrected versions retained.",
+      "source_text_located": false,
+      "sample_note": "AI-generated campaign concepts, not photographs of restaurant menu items. Latest corrected versions are shown once."
     },
     {
       "id": "jml-sandwich-realism-edited",
       "aliases": [
         "jml-sandwich-realism-edited"
       ],
-      "title": "Sandwich campaigns · realism corrections",
+      "title": "Sandwich campaigns · complete collection",
       "source_family": "Food & editorial typography",
       "subcategory": "Realistic sandwich editorial posters",
       "tags": [
@@ -5661,7 +5891,7 @@ window.JML_DATA["source_reviews"] = {
         "JML"
       ],
       "attribution": "JML AI-generated concept studies",
-      "summary": "Latest edited campaign concepts. Original author references remain separate.",
+      "summary": "Every distinct JML sandwich campaign, with corrected realistic versions replacing earlier iterations.",
       "status": "Edited AI-generated examples",
       "copy_kind": "recorded_edit_prompts",
       "copy_text": "",
@@ -5703,14 +5933,269 @@ window.JML_DATA["source_reviews"] = {
           "prompt_kind": "reconstructed_brief",
           "notes": "Corrected version replaces any earlier display of this concept. Reconstructed edit brief; exact submitted prompt unavailable.",
           "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Pistachio Deli Focaccia · AI-generated concept",
+          "width": 1052,
+          "height": 1494,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/pistachio-deli-focaccia.png",
+          "original": "assets/complete-food-20261118/pistachio-deli-focaccia.png",
+          "generation_prompt": "Create a premium photorealistic Pistachio Deli Focaccia editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Crispy Chicken · AI-generated concept",
+          "width": 1024,
+          "height": 1536,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/crispy-chicken.png",
+          "original": "assets/complete-food-20261118/crispy-chicken.png",
+          "generation_prompt": "Create a premium photorealistic Crispy Chicken editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Caprese Ciabatta · AI-generated concept",
+          "width": 1024,
+          "height": 1536,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/caprese-ciabatta.png",
+          "original": "assets/complete-food-20261118/caprese-ciabatta.png",
+          "generation_prompt": "Create a premium photorealistic Caprese Ciabatta editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Roasted Veggie Melt · AI-generated concept",
+          "width": 1024,
+          "height": 1536,
+          "role": "AI-generated concept, not restaurant photography",
+          "preview": "assets/complete-food-20261118/roasted-veggie-melt.png",
+          "original": "assets/complete-food-20261118/roasted-veggie-melt.png",
+          "generation_prompt": "Create a premium photorealistic Roasted Veggie Melt editorial campaign poster in the existing visual system. Preserve natural food proportions, coherent upper-left light and rightward cast shadows, cream paper background and readable typography.",
+          "prompt_kind": "reconstructed_brief",
+          "notes": "Reconstructed brief; original submitted prompt not recovered."
+        },
+        {
+          "caption": "Pastrami on Rye · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-pastrami-rye.png",
+          "original": "assets/complete-food-20261118/global-sandwich-pastrami-rye.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: two matching halves of rye bread sandwich modest layers hand-carved peppery pastrami, mustard, pickle alongside. Bottom large brown serif title 'Pastrami on Rye', small italic subtitle 'Hand-carved pastrami • mustard • rye'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Hand-carved pastrami • mustard • rye",
+          "source_url": "https://katzsdelicatessen.com/store-menu",
+          "research_sources": [
+            "https://katzsdelicatessen.com/store-menu"
+          ]
+        },
+        {
+          "caption": "New Orleans Muffuletta · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-muffuletta.png",
+          "original": "assets/complete-food-20261118/global-sandwich-muffuletta.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: one round sesame loaf cut into two semicircular halves, layered ham salami mortadella provolone and chopped olive salad. Bottom large brown serif title 'New Orleans Muffuletta', small italic subtitle 'Italian meats • provolone • olive salad'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Italian meats • provolone • olive salad",
+          "source_url": "https://centralgrocery.com/",
+          "research_sources": [
+            "https://centralgrocery.com/"
+          ]
+        },
+        {
+          "caption": "Pressed Cubano · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-cubano.png",
+          "original": "assets/complete-food-20261118/global-sandwich-cubano.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: crisp pressed Cuban bread with thin roast pork, ham, Swiss cheese, dill pickles and mustard, two diagonal halves. Bottom large brown serif title 'Pressed Cubano', small italic subtitle 'Roast pork • ham • Swiss • pickles'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Roast pork • ham • Swiss • pickles",
+          "source_url": "https://www.columbiarestaurant.com/recipes",
+          "research_sources": [
+            "https://www.columbiarestaurant.com/recipes"
+          ]
+        },
+        {
+          "caption": "Tuscan Salami Schiacciata · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-favolosa.png",
+          "original": "assets/complete-food-20261118/global-sandwich-favolosa.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: flat golden schiacciata filled with fennel salami, pecorino cream, artichoke cream and grilled eggplant, two rectangular pieces. Bottom large brown serif title 'Tuscan Salami Schiacciata', small italic subtitle 'Salami • pecorino • artichoke'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Salami • pecorino • artichoke",
+          "source_url": "https://www.allanticovinaiousa.com/news-item/la-favolosa/",
+          "research_sources": [
+            "https://www.allanticovinaiousa.com/news-item/la-favolosa/"
+          ]
+        },
+        {
+          "caption": "Maine Lobster Roll · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-lobster-roll.png",
+          "original": "assets/complete-food-20261118/global-sandwich-lobster-roll.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: single toasted split-top bun with realistic moderate knuckle and claw lobster meat, lemon butter and fine herbs. Bottom large brown serif title 'Maine Lobster Roll', small italic subtitle 'Lobster • lemon butter • herbs'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Lobster • lemon butter • herbs",
+          "source_url": "https://lukeslobster.com/pages/lobster-roll-lp",
+          "research_sources": [
+            "https://lukeslobster.com/pages/lobster-roll-lp"
+          ]
+        },
+        {
+          "caption": "Tokyo Katsu Sando · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-katsu-sando.png",
+          "original": "assets/complete-food-20261118/global-sandwich-katsu-sando.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: two matching neat rectangular crustless white shokupan sandwiches with one real breaded pork cutlet per sandwich and thin brown sauce, no floating ingredients. Bottom large brown serif title 'Tokyo Katsu Sando', small italic subtitle 'Pork cutlet • milk bread • katsu sauce'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Pork cutlet • milk bread • katsu sauce",
+          "source_url": "https://www.kimukatsu.com/",
+          "research_sources": [
+            "https://www.kimukatsu.com/"
+          ]
+        },
+        {
+          "caption": "Bacon Naan Roll · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-bacon-naan.png",
+          "original": "assets/complete-food-20261118/global-sandwich-bacon-naan.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: one folded charred naan flatbread enclosing bacon, cream cheese, coriander and chilli jam. Bottom large brown serif title 'Bacon Naan Roll', small italic subtitle 'Bacon • cream cheese • chilli jam'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Bacon • cream cheese • chilli jam",
+          "source_url": "https://www.dishoom.com/store/products/bacon-naan-roll-kit/",
+          "research_sources": [
+            "https://www.dishoom.com/store/products/bacon-naan-roll-kit/"
+          ]
+        },
+        {
+          "caption": "Soft Scramble Brioche · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-fairfax.png",
+          "original": "assets/complete-food-20261118/global-sandwich-fairfax.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: one modest brioche bun with soft scrambled eggs, cheddar, caramelized onions, chives and sriracha mayo. Bottom large brown serif title 'Soft Scramble Brioche', small italic subtitle 'Eggs • cheddar • chives'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Eggs • cheddar • chives",
+          "source_url": "https://www.eggslut.com/menu/",
+          "research_sources": [
+            "https://www.eggslut.com/menu/"
+          ]
+        },
+        {
+          "caption": "Parisian Croque Monsieur · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-croque-monsieur.png",
+          "original": "assets/complete-food-20261118/global-sandwich-croque-monsieur.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: two slices square pain de mie with thin ham and cheese filling, top covered with golden browned melted cheese, whole sandwich on small plate. Bottom large brown serif title 'Parisian Croque Monsieur', small italic subtitle 'Ham • cheese • golden toast'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Ham • cheese • golden toast",
+          "source_url": "https://menuonline.fr/deux-magots/carte-dejeuner",
+          "research_sources": [
+            "https://menuonline.fr/deux-magots/carte-dejeuner"
+          ]
+        },
+        {
+          "caption": "London Salt Beef Beigel · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-salt-beef.png",
+          "original": "assets/complete-food-20261118/global-sandwich-salt-beef.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: one authentic round plain boiled beigel sliced horizontally filled with modest pink salt beef, mustard and pickle, real central hole. Bottom large brown serif title 'London Salt Beef Beigel', small italic subtitle 'Salt beef • mustard • pickle'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Salt beef • mustard • pickle",
+          "source_url": "https://www.beigelbake.co.uk/products/salt-beef-beigel",
+          "research_sources": [
+            "https://www.beigelbake.co.uk/products/salt-beef-beigel"
+          ]
+        },
+        {
+          "caption": "Los Angeles French Dip · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-french-dip.png",
+          "original": "assets/complete-food-20261118/global-sandwich-french-dip.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: two matching halves of a slender french roll with thin roast beef, small ceramic cup of jus beside, naturally moistened bread. Bottom large brown serif title 'Los Angeles French Dip', small italic subtitle 'Roast beef • French roll • jus'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Roast beef • French roll • jus",
+          "source_url": "https://philippes.com/french-dips/",
+          "research_sources": [
+            "https://philippes.com/french-dips/"
+          ]
+        },
+        {
+          "caption": "Philadelphia Cheesesteak · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-cheesesteak.png",
+          "original": "assets/complete-food-20261118/global-sandwich-cheesesteak.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: single long soft hoagie filled with chopped griddled beef and melted provolone onions, not steak slabs. Bottom large brown serif title 'Philadelphia Cheesesteak', small italic subtitle 'Beef • onions • provolone'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Beef • onions • provolone",
+          "source_url": "https://patsteaks.com/ordering.html",
+          "research_sources": [
+            "https://patsteaks.com/ordering.html"
+          ]
+        },
+        {
+          "caption": "Coastal Crab Roll · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-crab-roll.png",
+          "original": "assets/complete-food-20261118/global-sandwich-crab-roll.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: one split top toasted bun modest filled with delicate white crab meat and lemon butter, fine herbs. Bottom large brown serif title 'Coastal Crab Roll', small italic subtitle 'Crab • lemon butter • herbs'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Crab • lemon butter • herbs",
+          "source_url": "https://lukeslobster.com/pages/fidi",
+          "research_sources": [
+            "https://lukeslobster.com/pages/fidi"
+          ]
+        },
+        {
+          "caption": "Duck Confit Croque · AI concept inspired by a real dish",
+          "preview": "assets/complete-food-20261118/global-sandwich-duck-croque.png",
+          "original": "assets/complete-food-20261118/global-sandwich-duck-croque.png",
+          "width": 1024,
+          "height": 1536,
+          "generation_prompt": "Create portrait 1024x1536 food advertising poster matching Quarter Turn collection. Warm cream textured paper background, brown serif 'Quarter Turn' header flanked by thin horizontal lines, bold condensed italic deep green headline 'CRAFTED TO CRAVE.' at top. Close natural food photography on cream ceramic plate in center: square toasted sandwich with modest shredded duck confit filling and browned melted cheese on top. Bottom large brown serif title 'Duck Confit Croque', small italic subtitle 'Duck confit • cheese • golden toast'. Elegant premium editorial, appetizing but real food imperfections and plausible portions. Single soft daylight source upper left; all cast shadows go lower right, contact shadows connect food to plate; no opposing shadows, no floating food, no excessive gloss, no distorted cut halves. Original concept inspired by real dish, not restaurant branding.",
+          "prompt_kind": "exact_submitted",
+          "role": "Original AI-generated concept inspired by a documented real sandwich; not a photograph of the restaurant's product.",
+          "basis": "Duck confit • cheese • golden toast",
+          "source_url": "https://lesdeuxmagots.fr/gourmandises/comptoirs-les-deux-magots-nouveautes-11-26/",
+          "research_sources": [
+            "https://lesdeuxmagots.fr/gourmandises/comptoirs-les-deux-magots-nouveautes-11-26/"
+          ]
         }
       ],
       "missing_images": [],
       "candidate_files": [],
       "source_role": "generated_adaptation",
       "content_note": "These are newly generated and edited concepts, not original source-author artwork. Each prompt is labeled by its evidence.",
-      "asset_note": "2 latest edited examples; no duplicate earlier versions.",
-      "source_text_located": false
+      "asset_note": "20 distinct sandwich concepts: six existing designs and 14 newly researched global sandwiches. Corrected steak and salmon-bagel editions retained.",
+      "source_text_located": false,
+      "sample_note": "AI-generated campaign concepts, not photographs of restaurant menu items. Latest corrected versions are shown once."
     }
   ],
   "total_user_post_count": 26,

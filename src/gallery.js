@@ -806,9 +806,12 @@ function showSourceReview(r) {
                   )
                 : '<span class="minor">Image download not available</span>') +
               (im.source_url
-                ? sourceLink(im.source_url, "Image source ↗")
+                ? sourceLink(im.source_url, im.research_sources ? "Dish inspiration ↗" : "Image source ↗")
                 : "") +
-              "</div></div></article>"
+              (im.research_sources ? im.research_sources.filter(u => u !== im.source_url).map((u, n) => sourceLink(u, "Research source " + (n + 2) + " ↗")).join("") : "") +
+              "</div>" +
+              (im.generation_prompt ? '<details class="image-prompt"><summary>' + (im.prompt_kind === "reconstructed_brief" ? "Reconstructed creative brief" : "Generation prompt") + '</summary><p class="minor">' + esc(im.generation_prompt) + '</p></details>' : "") +
+              "</div></article>"
             );
           })
           .join("") +

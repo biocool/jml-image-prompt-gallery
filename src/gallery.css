@@ -1451,3 +1451,8 @@ dialog::backdrop {
 .source-adaptation-image img {
   max-height: 500px;
 }
+
+/* A prompt travels with each recovered or newly researched food image. */
+.image-prompt { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line); }
+.image-prompt summary { cursor: pointer; font-size: 12px; font-weight: 700; }
+.image-prompt p { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 300px; overflow: auto; }

@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "collections": {
+    "jml-pizza-close-edited": {
+      "count": 16,
+      "promptDetails": 16
+    },
+    "jml-sandwich-realism-edited": {
+      "count": 20,
+      "promptDetails": 20
+    },
+    "2096582603633516675": {
+      "count": 25,
+      "promptDetails": 16
+    }
+  },
+  "errors": [],
+  "limitations": "DOM checks; browser screenshot verification separate."
+}

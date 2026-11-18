@@ -1499,6 +1499,218 @@
     "bytes": 197228,
     "sha256": "245fed6a923d92843c9844be5ae92d8afdea50b3a6ff03177731466f1123db51"
   },
+  "assets/complete-food-20261118/basil-gin-smash.png": {
+    "bytes": 2592703,
+    "sha256": "b7032cc9865c857cf6a05e0740bedd1d11cf11cebc11d1472358d266f04044b4"
+  },
+  "assets/complete-food-20261118/blood-orange-negroni.png": {
+    "bytes": 2547198,
+    "sha256": "6758fcc2e12ba5e5f057d989c135e7438e6ae8618ce80c39cf8af87cd84e9821"
+  },
+  "assets/complete-food-20261118/blue-lagoon.png": {
+    "bytes": 2193394,
+    "sha256": "06aace855ec69bd0cb4585631623920e9cdffeb55cbaeb99976c2403dc627753"
+  },
+  "assets/complete-food-20261118/caprese-ciabatta.png": {
+    "bytes": 2610875,
+    "sha256": "02b017f74388089d642c9242d591a2907a478dcbf3c1e011a943dd82b209432f"
+  },
+  "assets/complete-food-20261118/cherry-amaretto-sour.png": {
+    "bytes": 2337065,
+    "sha256": "c5f43d4223c4bdf7f002be76c2fb32ccd94682bd89aa4e4ac3e783160fc11116"
+  },
+  "assets/complete-food-20261118/crispy-chicken.png": {
+    "bytes": 2548450,
+    "sha256": "15a2747dcb57e51f6fa14f4ecd69c412b2abfdc3095693210ef7f28d32f102b7"
+  },
+  "assets/complete-food-20261118/cucumber-elderflower-fizz.png": {
+    "bytes": 2235802,
+    "sha256": "1ceae483252a5d078480d310d5b909d1636508ebd2ee2e32ec89ed4d66bd860e"
+  },
+  "assets/complete-food-20261118/global-pizza-beddia-peppers.png": {
+    "bytes": 2761876,
+    "sha256": "69b02364530494e5ab7379421a951b25476cc49ad0c09ac162ea2a6c97115a6d"
+  },
+  "assets/complete-food-20261118/global-pizza-filetti.png": {
+    "bytes": 2734562,
+    "sha256": "8894faa7f538b65af815dbc2552e20d3e4dbab47fb06dd6765bcd6e9fce72f9f"
+  },
+  "assets/complete-food-20261118/global-pizza-sbagliata.png": {
+    "bytes": 2777090,
+    "sha256": "ee4fcc8c69c47596ec6ba6eb18943a3f97fb6d2c465390d09bf934b7121eeee0"
+  },
+  "assets/complete-food-20261118/global-pizza-scarpetta.png": {
+    "bytes": 2816503,
+    "sha256": "2f5c1430363169ff7dde2ac86b4b288f46cc651729ea10c773e2bc8f2196e3c4"
+  },
+  "assets/complete-food-20261118/global-pizza-tokyo-bianco.png": {
+    "bytes": 2708540,
+    "sha256": "f6be92295fb8dd9df3351967dccb4ae64a896f360c841fb491b4daaf8fc2f898"
+  },
+  "assets/complete-food-20261118/global-sandwich-bacon-naan.png": {
+    "bytes": 2852552,
+    "sha256": "84f57fd17f5a4e02fb269dd35b2b020aaf9150c799d363ffd455681bc50fce0f"
+  },
+  "assets/complete-food-20261118/global-sandwich-cheesesteak.png": {
+    "bytes": 2803691,
+    "sha256": "0487221c8808f48f26ca568d16eb92396949616af7e867678f063a46ebd3e457"
+  },
+  "assets/complete-food-20261118/global-sandwich-crab-roll.png": {
+    "bytes": 2782526,
+    "sha256": "dfcde61be1d4b1e03a7ed02442614562ff1cad8e82f60c83592d7c1e2d13b62f"
+  },
+  "assets/complete-food-20261118/global-sandwich-croque-monsieur.png": {
+    "bytes": 2768618,
+    "sha256": "972a9483b5d7f002b70951313fc7e7542702f343a7e9bdd8d0131909197c30bd"
+  },
+  "assets/complete-food-20261118/global-sandwich-cubano.png": {
+    "bytes": 2942737,
+    "sha256": "4992699e161d925eb69b396b956527bbc635ef2e4ed6d0215403ac7dfac5e4ee"
+  },
+  "assets/complete-food-20261118/global-sandwich-duck-croque.png": {
+    "bytes": 2774263,
+    "sha256": "4a54809f78e9eca1d8be60fa549a84e5b2f0c717b4dba81a83145d823d782245"
+  },
+  "assets/complete-food-20261118/global-sandwich-fairfax.png": {
+    "bytes": 2717723,
+    "sha256": "e86dd42e9d4dda5233921596e390bc1ed11134918a5b81022d6ec5e90389be4d"
+  },
+  "assets/complete-food-20261118/global-sandwich-favolosa.png": {
+    "bytes": 2956873,
+    "sha256": "61f94bee0611c82d86424a3227deab23b356b9aa8f549db7af154268f5323842"
+  },
+  "assets/complete-food-20261118/global-sandwich-french-dip.png": {
+    "bytes": 2732725,
+    "sha256": "5af47b7482b751b4e21f13d847b0435db6dd51b0ff1a027b7ce278d495e7706d"
+  },
+  "assets/complete-food-20261118/global-sandwich-katsu-sando.png": {
+    "bytes": 2660540,
+    "sha256": "74bef587c85ab157fe6042b98a43b55a1a88b06829f39c098ef71da19a84d098"
+  },
+  "assets/complete-food-20261118/global-sandwich-lobster-roll.png": {
+    "bytes": 2791737,
+    "sha256": "b1705e1b07351835eb58fe35c72336b4e1c18ed3a33f7378b535277b98d1c7fa"
+  },
+  "assets/complete-food-20261118/global-sandwich-muffuletta.png": {
+    "bytes": 2888652,
+    "sha256": "02f8dcfe167bd20ca6fb36fdc656705df5ec7a1d99bbead84422d55783f0afac"
+  },
+  "assets/complete-food-20261118/global-sandwich-pastrami-rye.png": {
+    "bytes": 3012396,
+    "sha256": "b1664c1ff5a18194bde0fd6c181160191b2c5bbf1ac5d440c25b7103a942ec56"
+  },
+  "assets/complete-food-20261118/global-sandwich-salt-beef.png": {
+    "bytes": 2672480,
+    "sha256": "8cd052f04e96cff0d8c803a133996350e477e019c9b5ab70467ca2e1efdbbb0e"
+  },
+  "assets/complete-food-20261118/mediterranean.png": {
+    "bytes": 2657543,
+    "sha256": "22aaef2cdd0e24a8abcb8edf5cd1751b3691e64b26a8d124f35e17c4f8b534cb"
+  },
+  "assets/complete-food-20261118/mushroom-bianca.png": {
+    "bytes": 2675826,
+    "sha256": "018400af80dd8bded5c14b3836e03a63266ecb1d2ac9f7c6fda84d6e82fc499c"
+  },
+  "assets/complete-food-20261118/old-fashioned.png": {
+    "bytes": 2350781,
+    "sha256": "5b8d39cf2478f9c3ddfaff61c03b14937eda19619d90dd30249231b3852eb4db"
+  },
+  "assets/complete-food-20261118/paloma.png": {
+    "bytes": 2326934,
+    "sha256": "2cbd56080af4376f58cd7a89501d657ef086da622c76b1b50d3e5b4212c96f11"
+  },
+  "assets/complete-food-20261118/pineapple-mezcal-sour.png": {
+    "bytes": 2222592,
+    "sha256": "413c838aa5838047864159059dadabd49a76688471305a5d0d1fe8b1b8d33b2a"
+  },
+  "assets/complete-food-20261118/pistachio-deli-focaccia.png": {
+    "bytes": 2733072,
+    "sha256": "7c96a6386420e403b1329e39aaa750db75421d59b14276b324f0c2c357d00454"
+  },
+  "assets/complete-food-20261118/pistachio-mortadella.png": {
+    "bytes": 2618466,
+    "sha256": "7aa0718ae439b3bdd52ad8ed19330f02798852a63b9fcb95da815a2965da22a2"
+  },
+  "assets/complete-food-20261118/potato-rosemary.png": {
+    "bytes": 2668202,
+    "sha256": "463bec5091da95cdccba2c98632267862b51cf282805a034f3a9d33c612813a8"
+  },
+  "assets/complete-food-20261118/raspberry-rose-fizz.png": {
+    "bytes": 2153741,
+    "sha256": "5adaf6505e7a43ff5852dd1f71f9a0071c349342fb39517df876a7e8583fa982"
+  },
+  "assets/complete-food-20261118/roasted-veggie-melt.png": {
+    "bytes": 2756987,
+    "sha256": "34d62b1e8d90aa51511444fb008e95596732f0aef1547123de13062bc0f98517"
+  },
+  "assets/complete-food-20261118/spicy-diavola.png": {
+    "bytes": 2692851,
+    "sha256": "d7e4419aa300fc03c373dfbb103e5115b4e0caa3b03c51b59ab28172cb8a9a88"
+  },
+  "assets/edited-cocktails-20261118/07-martini-lighting-v2.png": {
+    "bytes": 2327972,
+    "sha256": "b207dc8ca5359a89f973a403c5a6f2add7c236f1e960d60f7ceca86ad03b313e"
+  },
+  "assets/edited-cocktails-20261118/08-aviation-lighting-v2.png": {
+    "bytes": 2261984,
+    "sha256": "44425ef1d69f6ed073294293dcd153a817801c4efd81c00ecf5936bf8ac1c323"
+  },
+  "assets/edited-cocktails-20261118/09-passionfruit-lighting-v2.png": {
+    "bytes": 2322566,
+    "sha256": "e6b39eb77b76e32dc0d4f48dfed1395ade63e1f5f30cfea7239bef0a56d9fff9"
+  },
+  "assets/edited-pizza-close-20261118/01-hot-honey-pepperoni.png": {
+    "bytes": 2608949,
+    "sha256": "dbdf75f459ed4ae692658e6f14ee3dd638bed92b2a59ac32734d7a5c9f6bb050"
+  },
+  "assets/edited-pizza-close-20261118/02-burrata-margherita.png": {
+    "bytes": 2672616,
+    "sha256": "f32ccaaa9fb5f2e5b98bb351ff9f20d3434c6b506cb4955d662d7ed5028e048d"
+  },
+  "assets/edited-pizza-close-20261118/03-pesto-garden.png": {
+    "bytes": 2785125,
+    "sha256": "a9d061ee6432b4689ad89341cc2d61e81843817a1412da07267226b93275da7e"
+  },
+  "assets/edited-pizza-close-20261118/04-fig-prosciutto.png": {
+    "bytes": 2690666,
+    "sha256": "64049e66596306f2d62c4860fe05f2c5752533e0647f63af24ae59fafe8351af"
+  },
+  "assets/edited-pizza-close-20261118/05-roasted-garlic-four-cheese.png": {
+    "bytes": 2717347,
+    "sha256": "4ebfcdbcc65fb2e8d87be29fabfbe821b6b0c1044a742fd7d62cdb9e85d87316"
+  },
+  "assets/edited-pizza-close-20261118/06-smoky-bbq-chicken.png": {
+    "bytes": 2702776,
+    "sha256": "ca0b9196cc3349e3a55fc9f4fb48ddb7b9cce90da7ce63855433df3a2325b724"
+  },
+  "assets/edited-sandwiches-20261118/smoked-salmon-bagel.png": {
+    "bytes": 2377423,
+    "sha256": "9d7d59802d5b6bc4d6c53be4977b85b74ff808479a47ad02a93c99df4d7762d3"
+  },
+  "assets/edited-sandwiches-20261118/steak-chimichurri.png": {
+    "bytes": 2593047,
+    "sha256": "ec24f48a5cfca26b8d48238c570ab1e58845e27cc4162c2db00be06dfc15036c"
+  },
+  "assets/generated-beverages-20261118/01-matcha.png": {
+    "bytes": 2141711,
+    "sha256": "3034adad8d366f1741b051097056f54de27cfad15f2a2fb3edf4d360d535885e"
+  },
+  "assets/generated-beverages-20261118/02-mango.png": {
+    "bytes": 2159761,
+    "sha256": "35cf18c3e61bc3e3f58cbc72f45118f717dbbb0b1489cdcb88e2d20df2b50643"
+  },
+  "assets/generated-beverages-20261118/03-hibiscus.png": {
+    "bytes": 2278403,
+    "sha256": "bd8ff12760c7993cdfb0a1bf9453eb419a2e6e29edfc516e7900d8034e4b6558"
+  },
+  "assets/generated-beverages-20261118/04-margarita.png": {
+    "bytes": 2058292,
+    "sha256": "2c6fe3d68b7bab80f6db7e3d907de1b750d8abb6df7108244bbbf6d495671837"
+  },
+  "assets/generated-beverages-20261118/05-lager.png": {
+    "bytes": 2239492,
+    "sha256": "e416549ca80de35e0ff78433734a1485a63863fee787e1c1173f1c604ec4692a"
+  },
   "assets/jml-generated-1916d6ccac74f4274a9a.webp": {
     "bytes": 120856,
     "sha256": "d3505743d63acea2800ee4afb827d8d84f73fa0d908c4190c8c1f264b793b67a"
@@ -1546,6 +1758,22 @@
   "assets/jml-generated-ff4df97ffcb1ba751ce5.webp": {
     "bytes": 103594,
     "sha256": "ff1882a25a49a3b9160c196f4ef47bd7e6406544423fcd0c5aba9887a510f5e2"
+  },
+  "assets/landscape-handdrawn-2122349313770856909/example-1.jpg": {
+    "bytes": 289345,
+    "sha256": "eceac8aff9cd91bc06708312cffcde574fa27fc0686402f5a47b482ae8079546"
+  },
+  "assets/landscape-handdrawn-2122349313770856909/example-2.jpg": {
+    "bytes": 256182,
+    "sha256": "02ea1f6623802f67c77a98fc39529fece86e4efe2d26991a387f9dafaac1508c"
+  },
+  "assets/landscape-handdrawn-2122349313770856909/example-3.jpg": {
+    "bytes": 276504,
+    "sha256": "2147e6f496da690d3fdc37dae0b87447a267d3a786b41fc40aeb2c891cd5b4a0"
+  },
+  "assets/landscape-handdrawn-2122349313770856909/example-4.jpg": {
+    "bytes": 235610,
+    "sha256": "2cd79442a0c0105481023eb2d606ca38754a25ecc8f7116561cb31968be1ba22"
   },
   "assets/new-sources/009cd3b24b2788b28d46c17c-preview.webp": {
     "bytes": 56300,
@@ -2355,22 +2583,6 @@
     "bytes": 349801,
     "sha256": "c155340654ed02dfb002e055007195471dea7e20b7f28999b10e0ff5925384de"
   },
-  "assets/new-sources/c3de8eca28de8c6cab4f5b1a-preview.webp": {
-    "bytes": 54800,
-    "sha256": "9500f1a796caec77d91c3046cc3c27e4e83843b25e106d5b70655e88bdd0355c"
-  },
-  "assets/new-sources/c3de8eca28de8c6cab4f5b1a.jpg": {
-    "bytes": 250375,
-    "sha256": "c3de8eca28de8c6cab4f5b1a30ff71a9cbea7c0f29fd9e138a990bb76cf87dec"
-  },
-  "assets/new-sources/c7113cbc1c96565c36e15fd5-preview.webp": {
-    "bytes": 63354,
-    "sha256": "0a32f292f1b87ce437dbbee006b7b987ce8e2f897222df207f90ac924613e13f"
-  },
-  "assets/new-sources/c7113cbc1c96565c36e15fd5.jpg": {
-    "bytes": 266694,
-    "sha256": "c7113cbc1c96565c36e15fd50defcf64a8be7887dcd6ca444b6dae0c63948cd4"
-  },
   "assets/new-sources/c81bfa767963b30e492138ee-preview.webp": {
     "bytes": 63130,
     "sha256": "631c19bf5bee10432b506f0638d58ba5e64aebbc0e6d29b0765931fabdbb8edc"
@@ -2914,5 +3126,21 @@
   "assets/source-user-f7244b3324b99c9979888cbf.png": {
     "bytes": 2592428,
     "sha256": "f7244b3324b99c9979888cbf131cbbb5fc8d3dafa6c1077ebfc02500a4dfe3a7"
+  },
+  "assets/user-beverages-20261118/lemon-mint-tonic.png": {
+    "bytes": 1012110,
+    "sha256": "f70f24ba47648640d1ccdad1e11dedbfcfdfea0ce89e5cf1766b6fce33fdaa00"
+  },
+  "assets/user-beverages-20261118/peach-soda.png": {
+    "bytes": 1905947,
+    "sha256": "d3fce58bb056800f8ba57e307baeddd24a24bef52a7688b85ad24acb7c3907bb"
+  },
+  "assets/user-beverages-20261118/strawberry-float.png": {
+    "bytes": 1221748,
+    "sha256": "8a3d85d528854b5fcf7388a035a8eb7f53debd96e953261d89274986c83ca3c9"
+  },
+  "assets/user-beverages-20261118/vanilla-iced-latte.png": {
+    "bytes": 1155939,
+    "sha256": "7d404547e53636ad5d20ac1275cc0b9b7e3535166415abddfb4faf32be0b89a6"
   }
 }

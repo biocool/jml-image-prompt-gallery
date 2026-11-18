@@ -26,10 +26,11 @@ def main():
  except ImportError:decode='not run (Pillow not installed)'
  integrity={str(p.relative_to(ROOT)):{'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()} for p in assets}
  baseline=json.loads((ROOT/'manifests/baseline-assets.json').read_text())
- assert all(integrity.get(k)==v for k,v in baseline.items()),'A baseline asset was changed or removed'
+ excluded=set(data.get('display_policy',{}).get('excluded_asset_paths',[]))
+ assert all(integrity.get(k)==v for k,v in baseline.items() if k not in excluded),'A non-excluded baseline asset was changed or removed'
  (ROOT/'manifests/asset-integrity.json').write_text(json.dumps(integrity,indent=2)+'\n')
  sources=[{'id':e['id'],'title':e['title'],'url':e.get('url'),'family':e.get('source_family'),'available_images':e.get('sample_images',[]),'missing_images':e.get('missing_images',[])} for e in data['source_reviews']['items']]
  (ROOT/'manifests/source-availability.json').write_text(json.dumps(sources,ensure_ascii=False,indent=2)+'\n')
- report={'asset_count':len(assets),'baseline_assets_preserved':len(baseline),'archive_images':len(data['images']),'groups':len(data['groups']),'categories':len(data['categories']),'source_entries':len(sources),'missing_source_images':sum(len(s['missing_images']) for s in sources),'missing_local_references':missing,'javascript_syntax':'passed','image_decode':decode}
+ report={'asset_count':len(assets),'baseline_assets_preserved':sum(integrity.get(k)==v for k,v in baseline.items()),'baseline_assets_intentionally_excluded':sum(k in excluded and k not in integrity for k in baseline),'archive_images':len(data['images']),'groups':len(data['groups']),'categories':len(data['categories']),'source_entries':len(sources),'missing_source_images':sum(len(s['missing_images']) for s in sources),'missing_local_references':missing,'javascript_syntax':'passed','image_decode':decode}
  (ROOT/'manifests/validation.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2))
 if __name__=='__main__':main()
