@@ -2174,15 +2174,120 @@ window.JML_DATA["source_reviews"] = {
           "download_status": "downloaded; visually inspected in contact sheet",
           "preview": "assets/new-sources/009cd3b24b2788b28d46c17c-preview.webp",
           "original": "assets/new-sources/009cd3b24b2788b28d46c17c.jpg"
+        },
+        {
+          "caption": "Peach soda · Glasshouse Café · User-supplied reference",
+          "width": 941,
+          "height": 1672,
+          "role": "User-supplied reference",
+          "source_url": "https://x.com/MrLarus/status/2096582603633516675",
+          "notes": "Uploaded by the user on 2026-11-18 and associated with this source by the user. Exact generation provenance is unverified.",
+          "download_status": "user upload; visually inspected",
+          "preview": "assets/user-beverages-20261118/peach-soda.png",
+          "original": "assets/user-beverages-20261118/peach-soda.png"
+        },
+        {
+          "caption": "Vanilla iced latte · Aura Cafe · User-supplied reference",
+          "width": 819,
+          "height": 1456,
+          "role": "User-supplied reference",
+          "source_url": "https://x.com/MrLarus/status/2096582603633516675",
+          "notes": "Uploaded by the user on 2026-11-18 and associated with this source by the user. Exact generation provenance is unverified.",
+          "download_status": "user upload; visually inspected",
+          "preview": "assets/user-beverages-20261118/vanilla-iced-latte.png",
+          "original": "assets/user-beverages-20261118/vanilla-iced-latte.png"
+        },
+        {
+          "caption": "Lemon mint tonic · Sunroom Café · User-supplied reference",
+          "width": 819,
+          "height": 1456,
+          "role": "User-supplied reference",
+          "source_url": "https://x.com/MrLarus/status/2096582603633516675",
+          "notes": "Uploaded by the user on 2026-11-18 and associated with this source by the user. Exact generation provenance is unverified.",
+          "download_status": "user upload; visually inspected",
+          "preview": "assets/user-beverages-20261118/lemon-mint-tonic.png",
+          "original": "assets/user-beverages-20261118/lemon-mint-tonic.png"
+        },
+        {
+          "caption": "Strawberry float · Berry Hour · User-supplied reference",
+          "width": 819,
+          "height": 1456,
+          "role": "User-supplied reference",
+          "source_url": "https://x.com/MrLarus/status/2096582603633516675",
+          "notes": "Uploaded by the user on 2026-11-18 and associated with this source by the user. Exact generation provenance is unverified.",
+          "download_status": "user upload; visually inspected",
+          "preview": "assets/user-beverages-20261118/strawberry-float.png",
+          "original": "assets/user-beverages-20261118/strawberry-float.png"
+        },
+        {
+          "caption": "Iced Matcha Latte · New AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "New AI-generated adaptation, not author original",
+          "notes": "Generated from supplied visual references; original text prompt recovered after generation.",
+          "preview": "assets/generated-beverages-20261118/01-matcha.png",
+          "original": "assets/generated-beverages-20261118/01-matcha.png",
+          "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: jade-green matcha cascading into creamy oat milk, visible layered swirls, clear ice, condensation, tall cylindrical glass, bamboo whisk and small matcha bowl beside base. Palette: deep forest green, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"MATCHA\nMOMENT\". Product name in lower band: \"ICED MATCHA LATTE\". Elegant italic tagline: \"Smooth, green, unhurried.\". Small tracked ingredients: \"MATCHA / OAT MILK / ICE\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
+          "prompt_kind": "exact_submitted",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Mango Passionfruit Cooler · New AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "New AI-generated adaptation, not author original",
+          "notes": "Generated from supplied visual references; original text prompt recovered after generation.",
+          "preview": "assets/generated-beverages-20261118/02-mango.png",
+          "original": "assets/generated-beverages-20261118/02-mango.png",
+          "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: brilliant golden mango and passionfruit sparkling cooler, clear ice, tiny bubbles, passionfruit seeds, tall slim glass, mango slices and halved passionfruit beside base. Palette: burnt orange, golden yellow, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"MANGO\nGLOW\". Product name in lower band: \"MANGO PASSIONFRUIT COOLER\". Elegant italic tagline: \"A little sunshine, on ice.\". Small tracked ingredients: \"MANGO / PASSIONFRUIT / SODA\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
+          "prompt_kind": "exact_submitted",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Hibiscus Berry Iced Tea · New AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "New AI-generated adaptation, not author original",
+          "notes": "Generated from supplied visual references; original text prompt recovered after generation.",
+          "preview": "assets/generated-beverages-20261118/03-hibiscus.png",
+          "original": "assets/generated-beverages-20261118/03-hibiscus.png",
+          "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: translucent ruby hibiscus iced tea, blueberries and raspberries with clear ice, condensation, tall clear glass, a few fresh berries and dried hibiscus at base. Palette: deep burgundy, muted blush, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"BERRY\nBLOOM\". Product name in lower band: \"HIBISCUS BERRY ICED TEA\". Elegant italic tagline: \"Bright berries. Slow afternoons.\". Small tracked ingredients: \"HIBISCUS / BERRIES / ICE\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
+          "prompt_kind": "exact_submitted",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Classic Margarita · New AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "New AI-generated adaptation, not author original",
+          "notes": "Generated from supplied visual references; original text prompt recovered after generation.",
+          "preview": "assets/generated-beverages-20261118/04-margarita.png",
+          "original": "assets/generated-beverages-20261118/04-margarita.png",
+          "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: pale lime margarita cocktail in an elegant low coupe glass with a crystalline salt rim and lime wheel, tiny condensation droplets, lime halves at the base, dramatic luminous drink photography. Palette: forest green, citrus yellow, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"LIME\nLIGHT\". Product name in lower band: \"CLASSIC MARGARITA\". Elegant italic tagline: \"Sharp citrus. A slow evening.\". Small tracked ingredients: \"TEQUILA / LIME / ORANGE LIQUEUR\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
+          "prompt_kind": "exact_submitted",
+          "created_at": "2026-11-18"
+        },
+        {
+          "caption": "Crisp Golden Lager · New AI-generated concept",
+          "width": 941,
+          "height": 1672,
+          "role": "New AI-generated adaptation, not author original",
+          "notes": "Generated from supplied visual references; original text prompt recovered after generation.",
+          "preview": "assets/generated-beverages-20261118/05-lager.png",
+          "original": "assets/generated-beverages-20261118/05-lager.png",
+          "generation_prompt": "Use case: ads-marketing. Create one finished portrait 9:16 beverage editorial poster, inspired by the supplied reference posters' visual system, not a collage. Reference images are style references only. Cream paper studio backdrop and stone tabletop, photorealistic premium drink photography, dramatic warm sunlight, condensation and glass refraction, huge display typography behind drink, precise small typography and fine rules. Subject: glowing golden lager beer in a tall slender pilsner glass, crisp white foam head, fine ascending bubbles, condensation, a few barley stalks beside the glass base. Palette: deep amber, rich navy, warm ivory. Tall hero beverage centered slightly right with full glass visible; typography richly integrated, oversized yet legible, thoughtful spacious hierarchy, not a web interface. Header in elegant serif: \"GLASSHOUSE CAFÉ\". Small header descriptor: \"DRINKS COLLECTION\". Huge background headline on two lines exactly: \"GOLDEN\nHOUR\". Product name in lower band: \"CRISP GOLDEN LAGER\". Elegant italic tagline: \"Crisp, cold, beautifully simple.\". Small tracked ingredients: \"GOLDEN LAGER / SERVED COLD\". Fine bottom caption: \"CONCEPT SERIES\". No price, no invented address, no hours. These are speculative design examples. Crisp professional typesetting; all text as specified, avoid random additional words, no watermark. Aim for the sophisticated sunlit editorial advertising quality of the references.",
+          "prompt_kind": "exact_submitted",
+          "created_at": "2026-11-18"
         }
       ],
       "missing_images": [],
       "candidate_files": [],
       "archive_link_status": "Style reference only; no exact generation association claimed",
       "content_note": "Full public author template, not proof of exact image-specific generation inputs Source text is preserved verbatim. Examples remain credited to their respective authors; public availability is not a blanket reuse license.",
-      "asset_note": "4 of 4 source images available here. Downloads retain their available pixel dimensions; maximum original resolution is not verified for every file.",
+      "asset_note": "4 existing author examples preserved; 4 user-uploaded beverage references; 5 new AI-generated adaptations (matcha, mango, hibiscus, margarita and lager).",
       "source_text_located": true,
-      "source_role": "author_original"
+      "source_role": "author_original",
+      "sample_note": "The first four are existing author examples. Four beverage references supplied by the user are labeled separately. AI-generated adaptations, when present, are new concepts, not original author work."
     },
     {
       "id": "2096207481353425049",
@@ -5249,11 +5354,102 @@ window.JML_DATA["source_reviews"] = {
       "content_note": "Original source prompt not recovered. Both source series are retained under one family with two subcategories, as requested.",
       "new_source_style": true,
       "sample_set_id": "sports-family"
+    },
+    {
+      "id": "2122349313770856909",
+      "aliases": [
+        "2122349313770856909",
+        "2122349497225523483"
+      ],
+      "title": "Real landscapes × hand-drawn people and dogs",
+      "url": "https://x.com/MrLarus/status/2122349313770856909",
+      "public_url": "https://x.com/MrLarus/status/2122349313770856909",
+      "prompt_url": "https://x.com/MrLarus/status/2122349497225523483",
+      "source_posts": [
+        "https://x.com/MrLarus/status/2122349313770856909",
+        "https://x.com/MrLarus/status/2122349497225523483"
+      ],
+      "source_family": "Photography × hand-drawn characters",
+      "subcategory": "Natural landscapes with physically integrated drawn figures",
+      "tags": [
+        "mixed media",
+        "real photography",
+        "hand-drawn characters",
+        "nature",
+        "dog",
+        "travel poster"
+      ],
+      "attribution": "Larus Canus (@MrLarus)",
+      "summary": "Photographic natural environments with small pencil-and-colored-pencil adult figures and dogs. Physical contact, shadows, reflections and occlusion integrate the drawn characters into the real scene.",
+      "status": "Public author template recovered",
+      "copy_kind": "full_source_prompt",
+      "copy_text": "提示词：\n\n【真实场景】：{海边 / 草地 / 雪地 / 湖边 / 山坡 / 雨后街道等}\n【环境时刻】：{清晨 / 午后 / 黄昏 / 阴天 / 雨后等}\n【人物动作】：{伸懒腰 / 散步 / 坐着吹风 / 摸水 / 看云 / 晒太阳等}\n【小狗动作】：{陪伴 / 跟随 / 回头 / 趴着 / 看水 / 奔跑等}\n【主文案】：{一句轻松、有生活感的中文短句}\n【英文小字】：{一句简短英文旁注}\n【画幅比例】：{默认 9:16}\n\n创作一张「真实自然摄影 × 手绘人物」虚实结合的情绪海报。\n\n背景【真实场景】保持明显的摄影级真实质感，真实表现自然光、空气感、天空、地面、水面、植物、岩石、雨雪等环境材质，不要将整个背景插画化。\n\n在真实环境中加入一位明显采用二维手绘语言表现的年轻成年人，以及一只固定风格的小狗。\n\n人物使用自然铅笔轮廓、轻微重复线条、彩铅或蜡笔色块、简洁五官和修长成年人比例。不要真人写实皮肤，不要 3D CGI，不要动漫大头。\n\n小狗保持同样明显的手绘质感：奶油白或浅米色身体、棕色耳朵和少量斑纹、简单黑灰轮廓，可加入小型红棕色项圈。不要写实毛发或毛绒玩具感。\n\n人物正在自然地【人物动作】，小狗同时进行【小狗动作】。两者都不看镜头，不摆模特姿势，像真实生活中被偶然记录的一瞬间。\n\n核心是让二维角色真正进入三维现实世界，而不是像贴纸一样覆盖在照片上。\n\n真实环境必须自然影响人物和小狗，例如：海水遮挡脚部并产生波纹；湿沙留下真实脚印和爪印；草叶遮挡腿部；雨水形成倒影；雪地被脚踩出凹陷；阳光、树影或夕阳真实落在手绘角色身上；风同时吹动人物头发、衣角、小狗耳朵和周围植物。\n\n所有接触、遮挡、倒影、受光和运动方向保持一致，让手绘角色真正属于这个真实空间。构图强调「大世界，小人物」。\n\n真实自然环境占据画面主要面积，人物和小狗保持相对较小，只作为观众进入风景的故事入口。保留充足天空、海面、草地或其他自然留白，不要把人物做成人像主体。\n\n整体视觉保持安静、松弛、轻盈、有一点童心和诗意，但不要幼稚或鸡汤。\n\n在自然留白区域加入中文手写标题：【主文案】\n\n字体自然、不完全规整，像生活日记或绘本中的随手题字。可加入一个很小的太阳、风线、水滴、脚印等手绘符号。\n\n标题下方加入极小的英文旁注：【英文小字】\n\n文字只承担情绪和设计层次，不遮挡风景，不使用复杂商业排版。\n\n整体色彩跟随真实自然环境，人物颜色保持低饱和。不要为了“设计感”加入大量额外颜色和装饰。\n\n最终效果应该像：一个真实、辽阔的世界里，住着一个铅笔和彩铅画出来的人和一只小狗。\n\n第一眼看到真实风景和氛围，第二眼才发现手绘角色正在真实地生活在其中。\n\n避免：纯插画背景、写实人物、人物像贴纸悬浮、环境与角色没有物理互动、复杂商业海报、大量装饰文字、过度卡通、鸡汤文案和信息过载。",
+      "copy_label": "Copy original Chinese source prompt",
+      "prompts": [
+        {
+          "text": "提示词：\n\n【真实场景】：{海边 / 草地 / 雪地 / 湖边 / 山坡 / 雨后街道等}\n【环境时刻】：{清晨 / 午后 / 黄昏 / 阴天 / 雨后等}\n【人物动作】：{伸懒腰 / 散步 / 坐着吹风 / 摸水 / 看云 / 晒太阳等}\n【小狗动作】：{陪伴 / 跟随 / 回头 / 趴着 / 看水 / 奔跑等}\n【主文案】：{一句轻松、有生活感的中文短句}\n【英文小字】：{一句简短英文旁注}\n【画幅比例】：{默认 9:16}\n\n创作一张「真实自然摄影 × 手绘人物」虚实结合的情绪海报。\n\n背景【真实场景】保持明显的摄影级真实质感，真实表现自然光、空气感、天空、地面、水面、植物、岩石、雨雪等环境材质，不要将整个背景插画化。\n\n在真实环境中加入一位明显采用二维手绘语言表现的年轻成年人，以及一只固定风格的小狗。\n\n人物使用自然铅笔轮廓、轻微重复线条、彩铅或蜡笔色块、简洁五官和修长成年人比例。不要真人写实皮肤，不要 3D CGI，不要动漫大头。\n\n小狗保持同样明显的手绘质感：奶油白或浅米色身体、棕色耳朵和少量斑纹、简单黑灰轮廓，可加入小型红棕色项圈。不要写实毛发或毛绒玩具感。\n\n人物正在自然地【人物动作】，小狗同时进行【小狗动作】。两者都不看镜头，不摆模特姿势，像真实生活中被偶然记录的一瞬间。\n\n核心是让二维角色真正进入三维现实世界，而不是像贴纸一样覆盖在照片上。\n\n真实环境必须自然影响人物和小狗，例如：海水遮挡脚部并产生波纹；湿沙留下真实脚印和爪印；草叶遮挡腿部；雨水形成倒影；雪地被脚踩出凹陷；阳光、树影或夕阳真实落在手绘角色身上；风同时吹动人物头发、衣角、小狗耳朵和周围植物。\n\n所有接触、遮挡、倒影、受光和运动方向保持一致，让手绘角色真正属于这个真实空间。构图强调「大世界，小人物」。\n\n真实自然环境占据画面主要面积，人物和小狗保持相对较小，只作为观众进入风景的故事入口。保留充足天空、海面、草地或其他自然留白，不要把人物做成人像主体。\n\n整体视觉保持安静、松弛、轻盈、有一点童心和诗意，但不要幼稚或鸡汤。\n\n在自然留白区域加入中文手写标题：【主文案】\n\n字体自然、不完全规整，像生活日记或绘本中的随手题字。可加入一个很小的太阳、风线、水滴、脚印等手绘符号。\n\n标题下方加入极小的英文旁注：【英文小字】\n\n文字只承担情绪和设计层次，不遮挡风景，不使用复杂商业排版。\n\n整体色彩跟随真实自然环境，人物颜色保持低饱和。不要为了“设计感”加入大量额外颜色和装饰。\n\n最终效果应该像：一个真实、辽阔的世界里，住着一个铅笔和彩铅画出来的人和一只小狗。\n\n第一眼看到真实风景和氛围，第二眼才发现手绘角色正在真实地生活在其中。\n\n避免：纯插画背景、写实人物、人物像贴纸悬浮、环境与角色没有物理互动、复杂商业海报、大量装饰文字、过度卡通、鸡汤文案和信息过载。",
+          "source_url": "https://x.com/MrLarus/status/2122349497225523483",
+          "role": "Original Chinese author template · source text"
+        }
+      ],
+      "sample_images": [
+        {
+          "caption": "Author example 1 · Larus Canus (@MrLarus)",
+          "width": 941,
+          "height": 1672,
+          "role": "Author example",
+          "source_url": "https://x.com/MrLarus/status/2122349313770856909/photo/1",
+          "notes": "Original public source media, retrieved via post metadata; no generated substitution.",
+          "download_status": "downloaded original available rendition",
+          "preview": "assets/landscape-handdrawn-2122349313770856909/example-1.jpg",
+          "original": "assets/landscape-handdrawn-2122349313770856909/example-1.jpg"
+        },
+        {
+          "caption": "Author example 2 · Larus Canus (@MrLarus)",
+          "width": 941,
+          "height": 1672,
+          "role": "Author example",
+          "source_url": "https://x.com/MrLarus/status/2122349313770856909/photo/2",
+          "notes": "Original public source media, retrieved via post metadata; no generated substitution.",
+          "download_status": "downloaded original available rendition",
+          "preview": "assets/landscape-handdrawn-2122349313770856909/example-2.jpg",
+          "original": "assets/landscape-handdrawn-2122349313770856909/example-2.jpg"
+        },
+        {
+          "caption": "Author example 3 · Larus Canus (@MrLarus)",
+          "width": 941,
+          "height": 1672,
+          "role": "Author example",
+          "source_url": "https://x.com/MrLarus/status/2122349313770856909/photo/3",
+          "notes": "Original public source media, retrieved via post metadata; no generated substitution.",
+          "download_status": "downloaded original available rendition",
+          "preview": "assets/landscape-handdrawn-2122349313770856909/example-3.jpg",
+          "original": "assets/landscape-handdrawn-2122349313770856909/example-3.jpg"
+        },
+        {
+          "caption": "Author example 4 · Larus Canus (@MrLarus)",
+          "width": 941,
+          "height": 1672,
+          "role": "Author example",
+          "source_url": "https://x.com/MrLarus/status/2122349313770856909/photo/4",
+          "notes": "Original author artwork, available large rendition; original-size URL returned 403. No generated substitution.",
+          "download_status": "downloaded large rendition; original-size URL unavailable",
+          "preview": "assets/landscape-handdrawn-2122349313770856909/example-4.jpg",
+          "original": "assets/landscape-handdrawn-2122349313770856909/example-4.jpg"
+        }
+      ],
+      "missing_images": [],
+      "candidate_files": [],
+      "archive_link_status": "New verified source family; no archive generation association claimed",
+      "content_note": "The two supplied URLs are the image post and its prompt reply, not separate categories. Original Chinese prompt retained without invented translation.",
+      "asset_note": "All four source images retained at their available original dimensions.",
+      "source_text_located": true,
+      "source_role": "author_original"
     }
   ],
   "total_user_post_count": 26,
   "full_prompt_count": 9,
   "full_prompt_entry_count": 10,
   "prompt_count_note": "Counts distinct source templates; a shared silhouette template is available in both related source panels.",
-  "supplied_post_count": 73
+  "supplied_post_count": 125
 };

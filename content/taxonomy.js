@@ -1931,6 +1931,12 @@ window.JML_DATA["taxonomy"] = {
       "Collage & material compositions",
       "Optical image interventions",
       "Displaced bands and visual interruptions"
+    ],
+    "source:2122349313770856909": [
+      "Illustration & drawing",
+      "Illustration & mixed media",
+      "Photography and drawing",
+      "Drawn people and dogs in real landscapes"
     ]
   },
   "entry_notes": {
@@ -1948,15 +1954,15 @@ window.JML_DATA["taxonomy"] = {
     "source:2111845003370844393": "Both source posts currently point to the same nine-image pool. Use one visual display group; source-specific membership and original prompts are unverified. Do not invent separate style branches for Series 1 and Series 2."
   },
   "coverage": {
-    "nonmerged_source_entries": 72,
-    "mapped_entries": 72,
+    "nonmerged_source_entries": 73,
+    "mapped_entries": 73,
     "existing_merged_entries_excluded": [
       "2095857924174152049"
     ],
     "superfamilies": 8,
     "archive_groups": 247,
     "mapped_archive_groups": 247,
-    "total_mapped_entries": 319
+    "total_mapped_entries": 320
   },
   "archive_category_paths": {
     "type_image_filled": [
